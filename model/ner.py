@@ -1260,7 +1260,7 @@ def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
 
 
 # Обучение
-trained_nlp = train_spacy_ner(TRAIN_DATA, n_iter=3000)
+trained_nlp = train_spacy_ner(TRAIN_DATA, n_iter=30)
 
 # === ТЕСТ ПОСЛЕ ЗАГРУЗКИ ===
 print("\n" + "=" * 70)
