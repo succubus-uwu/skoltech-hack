@@ -138,10 +138,13 @@ class NERTrainer:
             examples.append(Example.from_dict(doc, annotations))
 
         scorer = Scorer()
-        scores = scorer.score(
-            [self.nlp(ex.reference.text) for ex in examples],
-            [ex.reference for ex in examples]
-        )
+
+        # обязательно обновить примеры, чтобы они содержали предсказания
+        for ex in examples:
+            pred = self.nlp(ex.reference.text)
+            ex.predicted = pred
+
+        scores = scorer.score(examples)
 
         results = {
             'precision': scores.get('ents_p', 0.0),
