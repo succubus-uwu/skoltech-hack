@@ -51,7 +51,7 @@ TRAIN_DATA = [
 ]
 
 
-def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
+def train_spacy_ner(train_data, n_iter=3000, model_dir="./spacy_geo_model"):
     """
     Обучает SpaCy NER модель с кастомными метками, используя ru_core_news_sm как базу.
     """
