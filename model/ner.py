@@ -51,7 +51,7 @@ TRAIN_DATA = [
 ]
 
 
-def train_spacy_ner(train_data, n_iter=30000, model_dir="./spacy_geo_model"):
+def train_spacy_ner(train_data, n_iter=3000, model_dir="./spacy_geo_model"):
     """
     Обучаем NER с нуля, без базовой модели
     """
@@ -83,81 +83,42 @@ def train_spacy_ner(train_data, n_iter=30000, model_dir="./spacy_geo_model"):
         random.shuffle(examples)
         nlp.update(examples, drop=0.5, losses=losses)
 
-        if itn % 10 == 0:
+        if itn % 500 == 0:
             print(f"Epoch {itn}, Loss: {losses['ner']:.4f}")
 
-    # Тест
+    # Тест ДО сохранения
     text, _ = train_data[0]
     doc = nlp(text)
-    print(f"\nРезультат: {[(ent.text, ent.label_) for ent in doc.ents]}")
+    print(f"\n✓ Результат ДО сохранения: {[(ent.text, ent.label_) for ent in doc.ents]}")
+
+    # === СОХРАНЕНИЕ МОДЕЛИ ===
+    output_dir = Path(model_dir)
+    if output_dir.exists():
+        import shutil
+        shutil.rmtree(output_dir)  # Удаляем старую модель!
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    nlp.to_disk(output_dir)
+    print(f"\n✓ Модель сохранена в {output_dir}")
 
     return nlp
 
 
-# Запускаем обучение
+# Обучение
 trained_nlp = train_spacy_ner(TRAIN_DATA, n_iter=3000)
 
-# Далее ваш код для тестирования модели
-# Загрузка обученной модели
+# === ТЕСТ ПОСЛЕ ЗАГРУЗКИ ===
+print("\n" + "=" * 70)
+print("ТЕСТ: Загрузка модели с диска")
+print("=" * 70)
+
 output_dir = "./spacy_geo_model"
 nlp_loaded = spacy.load(output_dir)
 
-# Тестовое предложение
 test_text = "Я живу в городе Москва на улице Ленина дом 51."
-
-# Обработка текста моделью
 doc = nlp_loaded(test_text)
 
-print(f"\nТестирование модели на тексте: '{test_text}'")
-print("-" * 50)
-
-# Вывод сущностей, как их распознала модель
+print(f"\nТекст: '{test_text}'")
+print(f"✓ Результат ПОСЛЕ загрузки:")
 for ent in doc.ents:
-    print(f"Сущность: '{ent.text}' | Тип: '{ent.label_}' | Диапазон: [{ent.start_char}, {ent.end_char}]")
-
-print("-" * 50)
-
-# Пост-обработка для вашего желаемого формата
-processed_output = []
-last_end_char = 0
-
-for ent in doc.ents:
-    if ent.start_char > last_end_char:
-        non_entity_text = test_text[last_end_char: ent.start_char].strip()
-        if non_entity_text:
-            processed_output.append(f"{non_entity_text}(пропуск)")
-
-    semantic_type = ""
-    if ent.label_ == "CITY_FULL":
-        if "город" in ent.text.lower():
-            semantic_type = "город"
-        elif "деревн" in ent.text.lower():
-            semantic_type = "деревня"
-        elif "сел" in ent.text.lower():
-            semantic_type = "село"
-        else:
-            semantic_type = "населенный пункт"
-    elif ent.label_ == "STREET_FULL":
-        if "улица" in ent.text.lower():
-            semantic_type = "улица"
-        elif "проспект" in ent.text.lower():
-            semantic_type = "проспект"
-        elif "переулок" in ent.text.lower():
-            semantic_type = "переулок"
-        else:
-            semantic_type = "улица"
-    elif ent.label_ == "BUILDING_TYPE":
-        semantic_type = "тип строения"
-    elif ent.label_ == "BUILDING_NUMBER":
-        semantic_type = "номер строения"
-
-    processed_output.append(f'"{ent.text}" ({semantic_type})')
-    last_end_char = ent.end_char
-
-if last_end_char < len(test_text):
-    non_entity_text = test_text[last_end_char:].strip()
-    if non_entity_text:
-        processed_output.append(f"{non_entity_text}(пропуск)")
-
-print("\nВаш желаемый формат вывода:")
-print(" ".join(processed_output))
+    print(f"  '{ent.text}' -> {ent.label_}")
