@@ -32,7 +32,7 @@ def train_spacy_ner(train_data, n_iter=3000, model_dir="./spacy_geo_model"):
     Обучаем NER с нуля, без базовой модели
     """
     # Создаем пустую русскую модель
-    nlp = spacy.load("ru_core_news_sm")
+    nlp = spacy.blank("ru")
 
     # Добавляем ТОЛЬКО NER компонент
     ner = nlp.add_pipe("ner")
