@@ -3,6 +3,8 @@ import random
 from pathlib import Path
 from spacy.training import Example
 from spacy.util import minibatch, compounding
+from spacy.training import offsets_to_biluo_tags
+
 
 # Пример тренировочных данных (остаются без изменений в формате)
 TRAIN_DATA = [
