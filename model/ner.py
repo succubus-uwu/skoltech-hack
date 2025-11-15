@@ -1,8 +1,8 @@
 import spacy
 import random
 from pathlib import Path
-from spacy.training import Example  # <-- НОВОЕ: Импортируем Example
-from spacy.util import minibatch, compounding  # <-- НОВОЕ: Для батчинга
+from spacy.training import Example
+from spacy.util import minibatch, compounding
 
 # Пример тренировочных данных (остаются без изменений в формате)
 TRAIN_DATA = [
@@ -50,19 +50,19 @@ TRAIN_DATA = [
 
 def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
     """
-    Обучает SpaCy NER модель с кастомными метками, используя ru_core_web_sm как базу.
+    Обучает SpaCy NER модель с кастомными метками, используя ru_core_news_sm как базу.
     :param train_data: Список тренировочных данных в формате SpaCy (text, {"entities": ...}).
     :param n_iter: Количество эпох обучения.
     :param model_dir: Путь для сохранения обученной модели.
     """
-    # 1. Загружаем уже существующую русскую модель
-    nlp = spacy.load("ru_core_web_sm")
+    # 1. Загружаем уже существующую русскую модель ru_core_news_sm
+    nlp = spacy.load("ru_core_news_sm")
     print(f"Используем базовую модель: {nlp.meta['name']}")
 
     # 2. Получаем компонент NER
-    # ru_core_web_sm уже имеет компонент 'ner'
+    # ru_core_news_sm уже имеет компонент 'ner'
     if "ner" not in nlp.pipe_names:
-        # Это маловероятно для ru_core_web_sm, но хорошая проверка
+        # Это маловероятно для ru_core_news_sm, но хорошая проверка
         ner = nlp.add_pipe("ner", last=True)
     else:
         ner = nlp.get_pipe("ner")
@@ -82,7 +82,6 @@ def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
     with nlp.disable_pipes(other_pipes):
         for itn in range(n_iter):
             losses = {}
-            # Преобразуем тренировочные данные в объекты Example
             examples = []
             for text, annotations in train_data:
                 # В случае дообучения, Doc объект должен быть создан с помощью nlp
