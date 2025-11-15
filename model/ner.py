@@ -76,6 +76,23 @@ def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
     # Отображаем все метки, которые теперь знает NER компонент
     print(f"Все метки NER: {ner.labels}")
 
+    # --- ДОБАВЬТЕ ЭТОТ ОТЛАДОЧНЫЙ КОД ---
+    print("\n--- Проверка выравнивания сущностей ---")
+    for text, annotations in TRAIN_DATA:
+        doc = nlp.make_doc(text)
+        entities = annotations.get("entities", [])
+        biluo_tags = offsets_to_biluo_tags(doc, entities)
+
+        # Если есть пропущенные (misaligned) сущности
+        if '-' in biluo_tags:
+            print(f"\nПроблема с текстом: '{text}'")
+            print(f"Аннотации: {entities}")
+            print("Токены и их BILUO-теги:")
+            for token, tag in zip(doc, biluo_tags):
+                print(f"  '{token.text}' -> {tag}")
+            print("---")
+    # --- КОНЕЦ ОТЛАДОЧНОГО КОДА ---
+
     optimizer = nlp.begin_training()
     # Отключаем другие компоненты конвейера на время обучения NER
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
