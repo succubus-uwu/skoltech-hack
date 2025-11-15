@@ -134,7 +134,7 @@ def train_spacy_ner(train_data, n_iter=3000, model_dir="./spacy_geo_model"):
 
 
 # Запускаем обучение
-trained_nlp = train_spacy_ner(TRAIN_DATA, n_iter=30)
+trained_nlp = train_spacy_ner(TRAIN_DATA, n_iter=3000)
 
 # Далее ваш код для тестирования модели
 # Загрузка обученной модели
