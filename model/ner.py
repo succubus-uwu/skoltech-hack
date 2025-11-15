@@ -53,82 +53,43 @@ TRAIN_DATA = [
 
 def train_spacy_ner(train_data, n_iter=30000, model_dir="./spacy_geo_model"):
     """
-    Обучает SpaCy NER модель с кастомными метками, используя ru_core_news_sm как базу.
+    Обучаем NER с нуля, без базовой модели
     """
-    # 1. Загружаем базовую модель
-    nlp = spacy.load("ru_core_news_sm")
-    print(f"Используем базовую модель: {nlp.meta['name']}")
+    # Создаем пустую русскую модель
+    nlp = spacy.blank("ru")
 
-    # 2. Получаем компонент NER
-    if "ner" not in nlp.pipe_names:
-        ner = nlp.add_pipe("ner", last=True)
-    else:
-        ner = nlp.get_pipe("ner")
+    # Добавляем ТОЛЬКО NER компонент
+    ner = nlp.add_pipe("ner")
 
-    # 3. Добавляем кастомные метки в NER
+    # Добавляем наши метки
     for _, annotations in train_data:
         for ent in annotations.get("entities", []):
-            if ent[2] not in ner.labels:
-                ner.add_label(ent[2])
+            ner.add_label(ent[2])
 
-    print(f"Все метки NER: {ner.labels}")
+    print(f"Метки NER: {ner.labels}")
 
-    # --- Проверка выравнивания сущностей ---
-    print("\n--- Проверка выравнивания сущностей ---")
-    for text, annotations in train_data:
-        doc = nlp.make_doc(text)
-        entities = annotations.get("entities", [])
-        biluo_tags = offsets_to_biluo_tags(doc, entities)
-
-        if '-' in biluo_tags:
-            print(f"\nПроблема с текстом: '{text}'")
-            print(f"Аннотации: {entities}")
-            print("Токены и их BILUO-теги:")
-            for token, tag in zip(doc, biluo_tags):
-                print(f"  '{token.text}' -> {tag}")
-        else:
-            print(f"✓ Текст выровнен корректно: '{text[:50]}...'")
-    print("---\n")
-
-    # 4. ИСПРАВЛЕНО: Правильная инициализация для SpaCy 3.x
-    # Создаем примеры для инициализации
+    # Создаем примеры
     examples = []
     for text, annotations in train_data:
         doc = nlp.make_doc(text)
         examples.append(Example.from_dict(doc, annotations))
 
-    # Инициализируем модель с примерами
+    # Инициализируем
     nlp.initialize(lambda: examples)
 
-    # Отключаем другие компоненты конвейера на время обучения NER
-    other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
+    # Обучаем
+    for itn in range(n_iter):
+        losses = {}
+        random.shuffle(examples)
+        nlp.update(examples, drop=0.5, losses=losses)
 
-    with nlp.disable_pipes(*other_pipes):  # ИСПРАВЛЕНО: *other_pipes вместо other_pipes
-        for itn in range(n_iter):
-            losses = {}
-            examples = []
+        if itn % 10 == 0:
+            print(f"Epoch {itn}, Loss: {losses['ner']:.4f}")
 
-            for text, annotations in train_data:
-                doc_ = nlp.make_doc(text)
-                examples.append(Example.from_dict(doc_, annotations))
-
-            random.shuffle(examples)
-
-            # Обучение на всех примерах
-            nlp.update(
-                examples,  # Передаем все примеры сразу
-                drop=0.5,
-                losses=losses
-            )
-
-            print(f"Epoch {itn + 1}, Losses: {losses}")
-
-    # 5. Сохранение модели
-    output_dir = Path(model_dir)
-    if not output_dir.exists():
-        output_dir.mkdir(parents=True)
-    nlp.to_disk(output_dir)
-    print(f"Модель сохранена в {output_dir}")
+    # Тест
+    text, _ = train_data[0]
+    doc = nlp(text)
+    print(f"\nРезультат: {[(ent.text, ent.label_) for ent in doc.ents]}")
 
     return nlp
 
