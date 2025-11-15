@@ -1206,7 +1206,7 @@ TRAIN_DATA = [
 
 
 
-def train_spacy_ner(train_data, n_iter=3000, model_dir="./spacy_geo_model"):
+def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
     """
     Обучаем NER с нуля, без базовой модели
     """
