@@ -1,0 +1,4 @@
+osmium
+pandas
+pymorphy3
+bs4
