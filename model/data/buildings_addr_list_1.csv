@@ -1,0 +1,2444 @@
+addr,value
+addr:city,Москва
+addr:country,RU
+addr:housenumber,69
+addr:street,Фестивальная улица
+addr:housenumber,64А с2
+addr:postcode,123007
+addr:street,Хорошёвское шоссе
+addr:housenumber,5 с1
+addr:postcode,119501
+addr:street,Нежинская улица
+addr:place,Кремль
+addr:postcode,103073
+addr:housenumber,12
+addr:street,Новгородская улица
+addr:housename,Корпус Г
+addr:housenumber,78с1
+addr:street,проспект Вернадского
+addr:housenumber,19
+addr:street,улица Прянишникова
+addr:housenumber,73
+addr:street,Волоколамское шоссе
+addr:housenumber,21 к2
+addr:street,улица Маршала Катукова
+addr:housenumber,14 к5
+addr:postcode,123458
+addr:street,Строгинский бульвар
+addr:housenumber,59А с2А
+addr:street,Бескудниковский бульвар
+addr:housenumber,60А
+addr:postcode,127474
+addr:street,Дмитровское шоссе
+addr:housenumber,17 к2
+addr:street,улица Кулакова
+addr:housenumber,24А
+addr:street,Севастопольский проспект
+addr:housenumber,87 к1
+addr:street,улица Удальцова
+addr:housenumber,15
+addr:street,Шенкурский проезд
+addr:housenumber,37 к1
+addr:street,Ленинградский проспект
+addr:housenumber,12 к3
+addr:postcode,127253
+addr:street,Псковская улица
+addr:housenumber,26А
+addr:postcode,127560
+addr:street,улица Плещеева
+addr:housenumber,4А
+addr:street,улица Конёнкова
+addr:housenumber,25А
+addr:street,улица Лескова
+addr:housenumber,17 к1
+addr:street,Шипиловская улица
+addr:housenumber,5
+addr:street,Романов переулок
+addr:housenumber,7/5 с3
+addr:housenumber2,5/7 с3
+addr:street,улица Большая Дмитровка
+addr:street2,Камергерский переулок
+addr:housenumber,13
+addr:postcode,125009
+addr:street,Тверская улица
+addr:housenumber,2
+addr:street,Театральный проезд
+addr:street,Цветной бульвар
+addr:street,Мерзляковский переулок
+addr:housenumber,2 к2
+addr:street,улица Твардовского
+addr:housenumber,81
+addr:housenumber,11
+addr:postcode,109559
+addr:street,Белореченская улица
+addr:housenumber,20А
+addr:postcode,117535
+addr:street,Дорожная улица
+addr:housenumber,21
+addr:postcode,117519
+addr:street,Кировоградская улица
+addr:housenumber,35Г
+addr:street,улица Яблочкова
+addr:housenumber,1
+addr:street,улица Островитянова
+addr:housenumber,101 к6
+addr:postcode,119526
+addr:housenumber,3 к1
+addr:housenumber,58
+addr:street,Кантемировская улица
+addr:housenumber,7 к4
+addr:street,Клязьминская улица
+addr:housenumber,61
+addr:street,Профсоюзная улица
+addr:housenumber,61 к1
+addr:housenumber,35
+addr:street,Мосфильмовская улица
+addr:housenumber,85
+addr:postcode,119607
+addr:postcode,127549
+addr:street,Бибиревская улица
+addr:housenumber,126А
+addr:postcode,117587
+addr:street,Варшавское шоссе
+addr:street,улица Ивана Франко
+addr:housenumber,16
+addr:street,Большая Бронная улица
+addr:housenumber,8 к1
+addr:postcode,115569
+addr:street,улица Маршала Захарова
+addr:housenumber,3 к3
+addr:postcode,127562
+addr:street,улица Санникова
+addr:housenumber,15/1 с1
+addr:street,Моховая улица
+addr:housenumber,7
+addr:housenumber,к809
+addr:place,микрорайон Северное Чертаново
+addr:postcode,117648
+addr:housenumber,к810
+addr:housenumber,78 с2
+addr:housenumber,78 с3
+addr:housenumber,78 с6
+addr:region,Москва
+addr:street,улица Академика Глушко
+addr:housenumber,1 к1
+addr:postcode,117628
+addr:street,Феодосийская улица
+addr:housenumber,49
+addr:street,Ярославское шоссе
+addr:housenumber,94
+addr:street,Алтуфьевское шоссе
+addr:full,"Капотня 5-й квартал, 28"
+addr:housenumber,28
+addr:place,5-й квартал Капотня
+addr:quarter,5-й квартал Капотня
+addr:housenumber,3
+addr:street,улица Академика Скрябина
+addr:housenumber,25
+addr:street,Садовая-Кудринская улица
+addr:housenumber,169 к2
+addr:postcode,109378
+addr:street,Волгоградский проспект
+addr:housenumber,9 с9
+addr:street,улица Образцова
+addr:street,Театральная площадь
+addr:street,Страстной бульвар
+addr:housenumber,18/1
+addr:street,Олимпийский проспект
+addr:housenumber,43 к2
+addr:postcode,125373
+addr:street,бульвар Яна Райниса
+addr:housenumber,35 к2
+addr:street,улица Юных Ленинцев
+addr:housenumber,1 с20А
+addr:postcode,123098
+addr:street,площадь Академика Курчатова
+addr:housenumber,21А
+addr:street,улица Миклухо-Маклая
+addr:housenumber,12 к1
+addr:street,улица Академика Волгина
+addr:housenumber,100
+addr:housenumber,76
+addr:housenumber,170Г
+addr:housenumber,156Б
+addr:postcode,117405
+addr:housenumber,110 с62
+addr:housenumber,4Д
+addr:street,Шоссейная улица
+addr:postcode,105568
+addr:street,улица Чечулина
+addr:housenumber,17 с1
+addr:street,Большая Пироговская улица
+addr:housenumber,24 с9
+addr:postcode,119048
+addr:street,улица Лужники
+addr:housenumber,8 с2
+addr:street,Трубецкая улица
+addr:housenumber,22
+addr:street,Леонтьевский переулок
+addr:street,Тверской бульвар
+addr:housenumber,26
+addr:street,улица Генерала Белова
+addr:housenumber,6 с6
+addr:housenumber,2/14
+addr:housenumber2,14/2
+addr:street,Старая площадь
+addr:street2,улица Ильинка
+addr:housenumber,4
+addr:housenumber,8/5
+addr:street,Новорязанская улица
+addr:housenumber,43 с1
+addr:street,Сосинская улица
+addr:housenumber,24
+addr:street,Марксистская улица
+addr:housenumber,35Б к2
+addr:street,Воронцовская улица
+addr:housenumber,5/3
+addr:street,улица Щипок
+addr:street,улица Петровка
+addr:housenumber,3 с2
+addr:street,улица Кузнецкий Мост
+addr:housenumber,19 с1
+addr:postcode,101000
+addr:street,Армянский переулок
+addr:housenumber,33 с1
+addr:street,улица Талалихина
+addr:street,Лубянский проезд
+addr:housenumber,7/8 с1
+addr:housenumber2,8/7 с1
+addr:street,улица Маросейка
+addr:street2,Большой Златоустинский переулок
+addr:postcode,121359
+addr:street,улица Маршала Тимошенко
+addr:housenumber,6
+addr:postcode,115563
+addr:housenumber,1/2
+addr:postcode,125047
+addr:street,Лесная улица
+addr:housenumber,9/23 с1
+addr:postcode,105005
+addr:street,2-я Бауманская улица
+addr:housenumber,101 к1
+addr:street,Андреевская набережная
+addr:housenumber,30А
+addr:housenumber,132 к1
+addr:housenumber,42Б
+addr:postcode,117534
+addr:housenumber,11 к1
+addr:postcode,107497
+addr:street,Иркутская улица
+addr:housenumber,45 к2
+addr:postcode,121614
+addr:street,улица Крылатские Холмы
+addr:housenumber,45 к1
+addr:housenumber,45 с1
+addr:housenumber,48 к1
+addr:street,Балаклавский проспект
+addr:housenumber,35 к1
+addr:street,улица Адмирала Лазарева
+addr:street,Большой Черкасский переулок
+addr:housenumber,15 с1
+addr:street,улица Ильинка
+addr:housenumber,3А
+addr:postcode,117546
+addr:street,Востряковский проезд
+addr:street,Щукинская улица
+addr:housenumber,9
+addr:postcode,125040
+addr:street,3-я улица Ямского Поля
+addr:housenumber,14 с1
+addr:street,Бумажный проезд
+addr:housenumber,14 с2
+addr:housenumber,34 к4
+addr:street,Скаковая улица
+addr:housenumber,34 к3
+addr:housenumber,1/2 с1
+addr:street,Пятницкая улица
+addr:housenumber,вл112
+addr:street,проспект Мира
+addr:housenumber,6А
+addr:street,Угличская улица
+addr:housenumber,77
+addr:full,"Капотня 3-й квартал, 29"
+addr:housenumber,29
+addr:place,3-й квартал Капотня
+addr:quarter,3-й квартал Капотня
+addr:suburb,Капотня
+addr:street,2-я Брестская улица
+addr:housenumber,8
+addr:street,Мичуринский проспект
+addr:housenumber,2/2 с6
+addr:housenumber,36/40
+addr:street,3-я Тверская-Ямская улица
+addr:street,1-я Тверская-Ямская улица
+addr:housenumber,5 сБ
+addr:housenumber,4 с1
+addr:street,улица Бутырский Вал
+addr:housenumber,8/3 с1
+addr:postcode,105064
+addr:street,улица Земляной Вал
+addr:housenumber,46
+addr:housenumber,36 с1
+addr:housenumber,34
+addr:housenumber,30
+addr:street,улица Александра Невского
+addr:housenumber,32
+addr:street,4-й Лесной переулок
+addr:housenumber,18
+addr:housenumber,7 к2
+addr:housenumber,11 с1
+addr:street,2-й Лесной переулок
+addr:housenumber,20
+addr:housenumber,12 с2
+addr:street,4-я Тверская-Ямская улица
+addr:housenumber,5 с19
+addr:street,улица Фадеева
+addr:housenumber,5 с6
+addr:housenumber,16 к3
+addr:housenumber,12 с1
+addr:housenumber,7 с3
+addr:housenumber,16 к1
+addr:housenumber,10 с1
+addr:street,улица Чаянова
+addr:housenumber,10 с2
+addr:housenumber,7 с2
+addr:housenumber,13/5 с15
+addr:housenumber,8/9
+addr:housenumber,5А с1
+addr:housenumber,7 с1
+addr:housenumber,10
+addr:housenumber,22 к2
+addr:housenumber,16 к2
+addr:street,1-й Тверской-Ямской переулок
+addr:housenumber,14 с3
+addr:housenumber,20 с1
+addr:street,Миусская площадь
+addr:housenumber,14
+addr:housenumber,4 с4
+addr:housenumber,4 с3
+addr:housenumber,47А
+addr:postcode,119361
+addr:street,Большая Очаковская улица
+addr:housenumber,15 к1
+addr:street,улица Раменки
+addr:street,площадь Тверская Застава
+addr:postcode,121354
+addr:street,Можайское шоссе
+addr:housenumber,42 к3
+addr:street,Матвеевская улица
+addr:housenumber,42 к2
+addr:housenumber,42 к4
+addr:housenumber,8 к2
+addr:street,Рябиновая улица
+addr:full,"Капотня 5-й квартал, 29"
+addr:street,Новоконюшенный переулок
+addr:street,Пресненская набережная
+addr:street,площадь Савёловского Вокзала
+addr:housenumber,48
+addr:street,Тимирязевская улица
+addr:housenumber,27Б
+addr:street,Малая Бронная улица
+addr:housenumber,4/5
+addr:street,Никольская улица
+addr:housenumber,37 с1
+addr:housenumber,63 с1
+addr:postcode,123056
+addr:street,Большая Грузинская улица
+addr:street,Васильевская улица
+addr:housenumber,62
+addr:housenumber,14 к1
+addr:postcode,119415
+addr:housenumber,10 к1
+addr:housenumber,51
+addr:postcode,123103
+addr:street,улица Маршала Тухачевского
+addr:housenumber,9А
+addr:street,Краснопрудная улица
+addr:housenumber,14А
+addr:postcode,117647
+addr:street,улица Академика Капицы
+addr:housenumber,33 к2
+addr:street,улица Вилиса Лациса
+addr:housenumber,39 с1А
+addr:housenumber,39Б с3
+addr:housenumber,39 с4
+addr:housenumber,24 с7
+addr:housenumber,24 с22
+addr:housenumber,24 с12
+addr:housenumber,24 с31
+addr:housenumber,26 к4
+addr:street,Лебедянская улица
+addr:housenumber,15 к2
+addr:street,Липецкая улица
+addr:street,улица Спиридоновка
+addr:street,Большой Козихинский переулок
+addr:housenumber,8/15
+addr:housenumber2,15/8
+addr:postcode,123104
+addr:street,Богословский переулок
+addr:street2,Большая Бронная улица
+addr:housenumber,9 к2
+addr:postcode,109147
+addr:street,Изумрудная улица
+addr:street,проспект Маршала Жукова
+addr:housenumber,5 к2
+addr:postcode,125167
+addr:street,улица Серёгина
+addr:housenumber,42/2
+addr:postcode,121351
+addr:street,улица Боженко
+addr:housenumber,40 с2
+addr:housenumber,40 к1
+addr:housenumber,4 к2
+addr:postcode,121451
+addr:housenumber,8 с1А
+addr:street,Большая Спасская улица
+addr:housenumber,3 к5
+addr:street,улица Демьяна Бедного
+addr:street,улица Красная Пресня
+addr:street,Волков переулок
+addr:housenumber,6/2 с1
+addr:housenumber2,2
+addr:street2,Волков переулок
+addr:housenumber,55
+addr:housenumber,43 к1
+addr:postcode,129626
+addr:street,Красностуденческий проезд
+addr:housenumber,12Б
+addr:street,Лиственничная аллея
+addr:housenumber,7А с26
+addr:street,1-я Останкинская улица
+addr:housenumber,16А
+addr:postcode,111538
+addr:street,Вешняковская улица
+addr:postcode,119146
+addr:street,Комсомольский проспект
+addr:housenumber,54 с2
+addr:housenumber,58/23
+addr:housenumber,52/16 с1
+addr:housenumber,33 с5
+addr:postcode,127550
+addr:housenumber,27 к3
+addr:postcode,127238
+addr:housenumber,33 к4
+addr:housenumber,27 к2
+addr:postcode,127434
+addr:housenumber,29 к1
+addr:postcode,127343
+addr:housenumber,16 с1
+addr:street,1-я Магистральная улица
+addr:street,Ярцевская улица
+addr:housenumber,52
+addr:housenumber,54
+addr:street,Лаврушинский переулок
+addr:housenumber,10 с4
+addr:postcode,115280
+addr:street,Велозаводская улица
+addr:housenumber,1А
+addr:street,проезд Воскресенские Ворота
+addr:housenumber,9 с1
+addr:postcode,119019
+addr:street,улица Волхонка
+addr:housenumber,45/1 с2А
+addr:street,Пречистенская набережная
+addr:street2,улица Ленивка
+addr:housenumber,9 с2
+addr:housenumber,3 с3
+addr:street,улица Ленивка
+addr:housenumber,4/2
+addr:housenumber2,2/4
+addr:street2,Копьёвский переулок
+addr:housenumber,6 с1
+addr:housenumber,2 с2
+addr:housenumber,4/3
+addr:housenumber2,3/4
+addr:housenumber,41
+addr:postcode,123423
+addr:street,улица Народного Ополчения
+addr:housenumber,43 к3
+addr:street,Лосиноостровская улица
+addr:housenumber,101 к3
+addr:housenumber,44
+addr:street,Ходынский бульвар
+addr:housenumber,4 к4
+addr:street,улица Гризодубовой
+addr:street,улица Куусинена
+addr:housenumber,15 к3
+addr:housenumber,66
+addr:street,проезд Берёзовой Рощи
+addr:housenumber,14 к2
+addr:street,улица Авиаконструктора Микояна
+addr:housenumber,14 к4
+addr:housenumber,14 к3
+addr:street,Оружейный переулок
+addr:street,улица Гашека
+addr:housenumber,5/1
+addr:housenumber2,1/5
+addr:street,Большая Садовая улица
+addr:housenumber,7А
+addr:street,улица Новый Арбат
+addr:housenumber,18/2
+addr:housenumber,4 к10
+addr:street,Береговая улица
+addr:housenumber,31
+addr:street,Большая Никитская улица
+addr:postcode,121069
+addr:street,Столовый переулок
+addr:housenumber,46/15
+addr:postcode,109125
+addr:street,площадь Киевского Вокзала
+addr:housenumber,26 с3
+addr:street,Каланчёвская улица
+addr:housenumber,26 с1
+addr:housenumber,26 с2
+addr:housenumber,5 с17
+addr:street,улица Юности
+addr:housenumber,95 с2
+addr:street,улица Вавилова
+addr:housenumber,1 с31
+addr:street,Складочная улица
+addr:housenumber,1 с53
+addr:housenumber,45
+addr:street,Ленинский проспект
+addr:housenumber,9 с8
+addr:street,Планерная улица
+addr:postcode,109117
+addr:street,Окская улица
+addr:housenumber,5 к1
+addr:housenumber,2/3
+addr:postcode,127422
+addr:postcode,127018
+addr:street,Новосущёвский переулок
+addr:housenumber,23
+addr:street,Ярославская улица
+addr:housenumber,24 с32
+addr:housenumber,24 с23
+addr:housenumber,24 с33
+addr:street,Ореховый бульвар
+addr:housenumber,19 с7
+addr:postcode,115191
+addr:street,улица Серпуховский Вал
+addr:housenumber,105 к4
+addr:housenumber,20 к1
+addr:street,Рублёвское шоссе
+addr:housenumber,7 к1
+addr:postcode,125599
+addr:street,улица Бусиновская Горка
+addr:housenumber,32 к8
+addr:street,Кремлёвская набережная
+addr:housenumber,18 к2
+addr:postcode,121099
+addr:street,Красная площадь
+addr:housenumber,1 к2
+addr:street,Привольная улица
+addr:housenumber,13 к1
+addr:housenumber,9 к1
+addr:street,Хвалынский бульвар
+addr:housenumber,4 к1
+addr:street,Пронская улица
+addr:housenumber,9 к3
+addr:housenumber,1 к3
+addr:housenumber,5 к3
+addr:postcode,109145
+addr:housenumber,2 c1
+addr:postcode,123022
+addr:street,Ходынская улица
+addr:housenumber,165Д к7
+addr:postcode,123060
+addr:street,улица Маршала Рыбалко
+addr:street,Лермонтовский проспект
+addr:postcode,125319
+addr:postcode,117593
+addr:street,Литовский бульвар
+addr:street,Моршанская улица
+addr:housenumber,18/8
+addr:street,Жулебинский бульвар
+addr:housenumber,3 к2
+addr:housenumber,2 к1
+addr:housenumber,27 к1
+addr:housenumber,5/8
+addr:postcode,109390
+addr:street,1-я улица Текстильщиков
+addr:housenumber,211 к2
+addr:postcode,129226
+addr:housenumber,37Б
+addr:postcode,125499
+addr:street,Кронштадтский бульвар
+addr:housenumber,91
+addr:street,1-я Брестская улица
+addr:housenumber,52/2
+addr:housenumber,12/2
+addr:postcode,129327
+addr:street,улица Чичерина
+addr:housenumber,1 с7
+addr:street,площадь Донецкой Народной Республики
+addr:housenumber,1 с8
+addr:housenumber,2А
+addr:postcode,123308
+addr:street,Карамышевская набережная
+addr:street,Савёловский проезд
+addr:housenumber,8 с1
+addr:housenumber,14 с4
+addr:street,Краснопресненская набережная
+addr:street,улица Новая Башиловка
+addr:street,Большая Набережная улица
+addr:street,улица Свободы
+addr:housenumber,8А
+addr:street,Подмосковная улица
+addr:street,Тушинская улица
+addr:housenumber,11 кБ
+addr:street,улица Россолимо
+addr:postcode,119002
+addr:street,Смоленская-Сенная площадь
+addr:housenumber,5А с8
+addr:postcode,127015
+addr:street,Новодмитровская улица
+addr:housenumber,3 с1
+addr:housenumber,1 с40
+addr:housenumber,1А с1
+addr:housenumber,1 с16
+addr:housenumber,1 с48
+addr:housenumber,2Б
+addr:street,Бутырская улица
+addr:housenumber,1 с1
+addr:housenumber,2/1 к1Б
+addr:street,Кутузовский проспект
+addr:housenumber,15-17 с2
+addr:street,улица Сергия Радонежского
+addr:housenumber,19-21
+addr:street,1-й Смоленский переулок
+addr:street,Серебряническая набережная
+addr:housenumber,37 к2
+addr:housenumber,3/1 к5
+addr:street,Семёновская набережная
+addr:housenumber,93 с2
+addr:street,Таллинская улица
+addr:housenumber,35 с49
+addr:street,Кременчугская улица
+addr:street,Инициативная улица
+addr:street,улица Артамонова
+addr:postcode,121357
+addr:housenumber,24 с1
+addr:housenumber,1 с2
+addr:street,5-я Кабельная улица
+addr:housenumber,5/1 с3
+addr:postcode,109012
+addr:housenumber,22 с2
+addr:street,Шереметьевская улица
+addr:street,Скобелевская улица
+addr:housenumber,5 с9
+addr:street,3-й Хорошёвский проезд
+addr:housenumber,5 с3
+addr:street,улица Барышиха
+addr:housenumber,2/15 с1
+addr:housenumber,42 к12
+addr:postcode,109316
+addr:housenumber,42 к5
+addr:housenumber,24 к19
+addr:street,Петровско-Разумовский проезд
+addr:housenumber,24 к2
+addr:street,2-я Квесисская улица
+addr:housenumber,9 с12
+addr:street,Товарищеский переулок
+addr:street,Новомосковская улица
+addr:street,Перекопская улица
+addr:street,Керченская улица
+addr:housenumber,84 с1
+addr:postcode,119571
+addr:street,переулок Хользунова
+addr:street,Никитский бульвар
+addr:street,Рижская площадь
+addr:housenumber,1 с4
+addr:housenumber,6 к1
+addr:street,Солнцевский проспект
+addr:street,9-я Парковая улица
+addr:housenumber,36 с41
+addr:postcode,121170
+addr:street,Полярная улица
+addr:housenumber,14 с9
+addr:street,улица Шухова
+addr:street,улица Скульптора Мухиной
+addr:housenumber,14 к1 с1
+addr:street,улица Богданова
+addr:housenumber,40
+addr:housenumber,15/17 с1
+addr:street,улица Матросская Тишина
+addr:housenumber,34/29
+addr:street,Дубравная улица
+addr:housenumber,27
+addr:street,1-я Парковая улица
+addr:housenumber,4А с1
+addr:street,Первомайская улица
+addr:housenumber,5А к1
+addr:postcode,121087
+addr:street,Береговой проезд
+addr:housenumber,6/2 с2
+addr:housenumber,1 с3
+addr:housenumber,75
+addr:housenumber,75 к1
+addr:housenumber,77 с1
+addr:housenumber,77 с2
+addr:housenumber,108
+addr:street,улица Милашенкова
+addr:street,проезд Стратонавтов
+addr:housenumber,147 к1 с2
+addr:postcode,129347
+addr:street,Палехская улица
+addr:street,улица Радио
+addr:housenumber,47
+addr:street,Байкальская улица
+addr:housenumber,18А
+addr:street,Алтайская улица
+addr:housenumber,105 с15
+addr:postcode,109542
+addr:street,Рязанский проспект
+addr:housenumber,105 с12
+addr:housenumber,21/34
+addr:street,Баррикадная улица
+addr:street,улица Охотный Ряд
+addr:postcode,125445
+addr:street,Смольная улица
+addr:street,Новоорловская улица
+addr:housenumber,5 с11
+addr:street,улица Сущёвский Вал
+addr:postcode,117418
+addr:street,Новочерёмушкинская улица
+addr:housenumber,67
+addr:street,Погонный проезд
+addr:street,Тишинская площадь
+addr:housenumber,119 с40
+addr:postcode,129223
+addr:street,проезд Девичьего Поля
+addr:housenumber,25 с1
+addr:street,улица Большая Ордынка
+addr:housenumber,95 к11
+addr:quarter,Квартал 95
+addr:street,Волжский бульвар
+addr:housenumber,19-23
+addr:postcode,123242
+addr:street,Новинский бульвар
+addr:street,улица Советской Армии
+addr:street,Красноармейская улица
+addr:housenumber,1/5
+addr:housenumber,15А
+addr:street,Неглинная улица
+addr:housenumber,3/6
+addr:housenumber2,6/3
+addr:street,улица Рождественка
+addr:street2,Пушечная улица
+addr:housenumber,3 с4
+addr:housenumber,6/2
+addr:housenumber2,2/6
+addr:housenumber,4 с2
+addr:street,Пушечная улица
+addr:housenumber2,2/6 с2
+addr:housenumber,2 с3
+addr:postcode,107078
+addr:street,Докучаев переулок
+addr:housenumber,18 к1
+addr:street,улица Хлобыстова
+addr:street,улица Васильцовский Стан
+addr:housenumber,37 к2 с4
+addr:postcode,125493
+addr:street,Дубнинская улица
+addr:street,улица Генерала Глаголева
+addr:street,улица Маршала Василевского
+addr:street,улица Маршала Конева
+addr:street,улица Маршала Бирюзова
+addr:street,"улица Мичуринский Проспект, Олимпийская Деревня"
+addr:housenumber,22/2
+addr:street,улица Поляны
+addr:housenumber,39
+addr:housenumber2,39/41
+addr:postcode,119121
+addr:street,улица Плющиха
+addr:housenumber,11 с2
+addr:housenumber,6 с5
+addr:street,Олсуфьевский переулок
+addr:housenumber,13 с3
+addr:housenumber,13 с2
+addr:housenumber,43 с1Б
+addr:postcode,108850
+addr:street,бульвар Андрея Тарковского
+addr:housenumber,2А к4
+addr:postcode,119618
+addr:street,Боровское шоссе
+addr:housenumber,2А к3
+addr:housenumber,2А к1
+addr:housenumber,9/7
+addr:housenumber,11 к5
+addr:street,Соловьиный проезд
+addr:street,улица Айвазовского
+addr:housenumber,80
+addr:postcode,127273
+addr:housenumber,80А
+addr:housenumber,2 с4
+addr:street,улица Планерная
+addr:postcode,123592
+addr:street,1-й Митинский переулок
+addr:housenumber,27 с1
+addr:housenumber,33
+addr:street,Сходненская улица
+addr:postcode,125363
+addr:street,улица Фабрициуса
+addr:street,1-й Красногорский проезд
+addr:street,Азовская улица
+addr:street,3-й Нижнелихоборский проезд
+addr:housenumber,1 с6
+addr:housenumber,65
+addr:housenumber,3 с5
+addr:street,Верхнелихоборская улица
+addr:housenumber,58 с1
+addr:housenumber,58 с31
+addr:postcode,127486
+addr:street,Кастанаевская улица
+addr:street,Малая Юшуньская улица
+addr:street,Нагорный бульвар
+addr:housenumber,10 к2
+addr:postcode,127543
+addr:street,Авиамоторная улица
+addr:street,Большая Дорогомиловская улица
+addr:housenumber,вл133Г с1
+addr:street,улица Марьинский Парк
+addr:street,улица Каретный Ряд
+addr:street,Наставнический переулок
+addr:street,улица 800-летия Москвы
+addr:housenumber,36
+addr:housenumber,36 к1
+addr:housenumber,18 с1
+addr:street,1-й переулок Тружеников
+addr:street,Абрикосовский переулок
+addr:housenumber,11 с10
+addr:housenumber,128
+addr:street,Люблинская улица
+addr:housenumber,126
+addr:street,Полевая улица
+addr:housenumber,165 к1
+addr:street,Тихорецкий бульвар
+addr:street,Южнобутовская улица
+addr:housenumber,2А с1
+addr:housenumber,3-5 с13
+addr:street,Нижний Сусальный переулок
+addr:housenumber,5А с4
+addr:housenumber,5 с2
+addr:housenumber,5 с24
+addr:housenumber,42
+addr:housenumber,13/12
+addr:postcode,125480
+addr:street,улица Героев Панфиловцев
+addr:street,улица Верхние Поля
+addr:housenumber,9 к4
+addr:housenumber,31 к1
+addr:postcode,109462
+addr:housenumber,25 к1
+addr:street,Саратовская улица
+addr:housenumber,21 к1
+addr:street,Нагорная улица
+addr:housenumber,20/1
+addr:postcode,109382
+addr:street,Краснодарская улица
+addr:postcode,119049
+addr:street,улица Крымский Вал
+addr:street,Весенняя улица
+addr:housenumber,20 с2
+addr:street,Верхняя Радищевская улица
+addr:housenumber,70 к1
+addr:housenumber,31 с1
+addr:postcode,121353
+addr:street,Сколковское шоссе
+addr:street,улица Хачатуряна
+addr:street,улица Гончарова
+addr:housenumber,12 к2 с3
+addr:street,Лобненская улица
+addr:housenumber,12 к4
+addr:housenumber,10 к3
+addr:housenumber,10 с10
+addr:street,Истринская улица
+addr:postcode,117279
+addr:housenumber,2 с1
+addr:street,площадь Журавлёва
+addr:postcode,107023
+addr:street,Малая Семёновская улица
+addr:housenumber,13 к3
+addr:street,Неманский проезд
+addr:housenumber,11 к2
+addr:housenumber,13 к2
+addr:housenumber,6 к2
+addr:housenumber,20 к2
+addr:housenumber,20 к3
+addr:postcode,117042
+addr:housenumber,22 к1
+addr:postcode,123181
+addr:street,улица Исаковского
+addr:street,Вильнюсская улица
+addr:street,улица Рокотова
+addr:housenumber,15/10
+addr:street,Голубинская улица
+addr:street,Новоясеневский проспект
+addr:housenumber,28 к2
+addr:housenumber,25 к2
+addr:housenumber,17/9
+addr:housenumber,24 к3
+addr:postcode,127540
+addr:housenumber,24 к1
+addr:housenumber,19 к2
+addr:housenumber,7 к5
+addr:housenumber,15 к5
+addr:postcode,107589
+addr:street,Ижорская улица
+addr:street,Инженерная улица
+addr:street,Крылатская улица
+addr:housenumber,17 к3
+addr:housenumber,17 к4
+addr:housenumber,17
+addr:street,Малая Пироговская улица
+addr:street,Пятницкое шоссе
+addr:housenumber,23 к2
+addr:street,Карельский бульвар
+addr:housenumber,41 с1
+addr:street,Верхняя Сыромятническая улица
+addr:street,Мельницкий переулок
+addr:housenumber,10А с1
+addr:housenumber,17 с2
+addr:street,Вагоноремонтная улица
+addr:street,Климентовский переулок
+addr:housenumber,10 с3
+addr:street,Скатертный переулок
+addr:street,Петровско-Разумовская аллея
+addr:street,Шебашёвский проезд
+addr:street,Большой Коптевский проезд
+addr:housenumber,6/1
+addr:street,Черниговский переулок
+addr:housenumber,90 с3
+addr:housenumber,90 с1
+addr:housenumber,90 с2
+addr:housenumber,90 с6
+addr:housenumber,90 с12
+addr:housenumber,120
+addr:housenumber,116
+addr:housenumber,116 с4
+addr:postcode,125371
+addr:housenumber,112 к1 с1
+addr:housenumber,112 к1 3Б
+addr:housenumber,112 к1 с3
+addr:housenumber,112 к1 с2
+addr:housenumber,28 к1
+addr:postcode,125466
+addr:street,Воротынская улица
+addr:housenumber,79 к19
+addr:housenumber,79 с28
+addr:housenumber,79 к1
+addr:housenumber,79 к8
+addr:housenumber,81А с18
+addr:housenumber,81А
+addr:housenumber,81А с16
+addr:housenumber,81 с2
+addr:housenumber,110 с28
+addr:housenumber,110 с23
+addr:housenumber,9/25 с1
+addr:housenumber,101
+addr:postcode,121552
+addr:housenumber,21 к1 с2
+addr:street,Благовещенский переулок
+addr:housenumber,14 с6
+addr:postcode,111402
+addr:housenumber,107 с17
+addr:housenumber,107 с3
+addr:housenumber,2 с24
+addr:postcode,109052
+addr:housenumber,2 с49
+addr:housenumber,2 с86
+addr:housenumber,4 к1 с4
+addr:housenumber,вл2 к2
+addr:housenumber,32 с5
+addr:housenumber,8 к3
+addr:housenumber,2А к2
+addr:housenumber,15 к4
+addr:street,Лухмановская улица
+addr:street,Павелецкая площадь
+addr:housenumber,3/13 с4
+addr:housenumber,3/13 с1
+addr:housenumber2,13/3 с1
+addr:street2,Лубянский проезд
+addr:street,Таганская улица
+addr:housenumber,вл8 к1
+addr:housenumber,41 с4
+addr:street,Вятская улица
+addr:street,Писцовая улица
+addr:housenumber,20-22
+addr:street,Савёловская линия
+addr:postcode,119619
+addr:street,улица Авиаторов
+addr:housenumber,157 с7
+addr:housenumber,157 с15
+addr:housenumber,157 с12
+addr:housenumber,157
+addr:housenumber,157 с3
+addr:housenumber,157 с4
+addr:housenumber,30 с6
+addr:street,2-й Красносельский переулок
+addr:housenumber,11/2 с4
+addr:street,улица Измайловский Вал
+addr:street,Нижний Журавлёв переулок
+addr:housenumber,18 с7
+addr:postcode,105082
+addr:street,Переведеновский переулок
+addr:postcode,115432
+addr:street,улица Архитектора Щусева
+addr:housenumber,66 к2
+addr:postcode,125315
+addr:housenumber,35 с1
+addr:street,Ольховская улица
+addr:street,Челябинская улица
+addr:street,Зарайская улица
+addr:housenumber,37
+addr:postcode,109429
+addr:street,"МКАД, 14-й километр"
+addr:housenumber,12 к2
+addr:housenumber,54 с1
+addr:housenumber,32А
+addr:housenumber,6 к1 с2
+addr:housenumber,6 к1 с1
+addr:housenumber,110А c3
+addr:housenumber,4/2 с8
+addr:street,Кадашёвская набережная
+addr:street,Большая Татарская улица
+addr:housenumber,57 с10
+addr:housenumber,122 к1
+addr:housenumber,11 с4
+addr:street,Новокузнецкая улица
+addr:housenumber,28 с2
+addr:postcode,115184
+addr:housenumber,28 с1
+addr:postcode,129090
+addr:street,Электрозаводская улица
+addr:street,улица Космонавта Волкова
+addr:street,Малая Калужская улица
+addr:housenumber,43
+addr:housenumber,45 с3
+addr:postcode,109387
+addr:street,Летняя улица
+addr:street,Тихая улица
+addr:street,Большой Спасоглинищевский переулок
+addr:housenumber,7/9 с1
+addr:street,1-й Кадашёвский переулок
+addr:housenumber,2 с8
+addr:street,Кадашёвский тупик
+addr:housenumber,2 с18
+addr:housenumber,2 с6
+addr:street,2-й Кадашёвский переулок
+addr:housenumber,6/2 с10
+addr:housenumber,6/2 с8
+addr:housenumber,11/5 с4
+addr:housenumber,16/4 с4
+addr:housenumber,14 с1-2
+addr:housenumber,14 с18
+addr:street,улица Ефремова
+addr:housenumber,157 с16
+addr:housenumber,157 с14
+addr:housenumber,вл6 с4
+addr:street,улица Варварка
+addr:street,Воронежская улица
+addr:street,3-й Самотёчный переулок
+addr:street,улица Маршала Новикова
+addr:housenumber,50 к1
+addr:street,Каширское шоссе
+addr:street,2-я улица Бебеля
+addr:full,"Капотня 5-й квартал, 20"
+addr:postcode,123298
+addr:street,Тепличный переулок
+addr:street,Спасопесковский переулок
+addr:street,улица Академика Анохина
+addr:postcode,123182
+addr:street,Авиационная улица
+addr:housenumber,24 с4В
+addr:housenumber,12 с10Г
+addr:street,Большой Саввинский переулок
+addr:housenumber,12 с9
+addr:street,улица Нижняя Масловка
+addr:housenumber,24 с2
+addr:street,Погодинская улица
+addr:housenumber,13А
+addr:housenumber,88 к3 с3
+addr:housenumber,40 с5
+addr:housenumber,101 к2
+addr:street,проезд Завода Серп и Молот
+addr:housenumber,23 с1
+addr:street,Саввинская набережная
+addr:housenumber,12 с16
+addr:housenumber,12 с15
+addr:housenumber,20/3 с2
+addr:housenumber,18/1 с1
+addr:street,Балтийская улица
+addr:housenumber,65 к3
+addr:postcode,115583
+addr:housenumber,107А к1
+addr:postcode,127247
+addr:housenumber,13/2
+addr:street,Верхняя улица
+addr:postcode,129164
+addr:street,Маломосковская улица
+addr:postcode,125284
+addr:housenumber,29 к3
+addr:housenumber,35 с2
+addr:housenumber,107 к1
+addr:postcode,119421
+addr:street,1-й Хорошёвский проезд
+addr:street,улица Алабяна
+addr:street,Мясницкая улица
+addr:street,Октябрьская улица
+addr:housenumber,49 с2
+addr:postcode,109391
+addr:housenumber,165Е к12
+addr:housenumber,165Е к14
+addr:street,Сигнальный проезд
+addr:housenumber,53
+addr:street,шоссе Энтузиастов
+addr:street,2-й Вражский переулок
+addr:street,Бабаевская улица
+addr:housenumber,57
+addr:housenumber,4 к3
+addr:street,улица Саломеи Нерис
+addr:street,улица Неверовского
+addr:street,улица Раевского
+addr:postcode,121248
+addr:street,набережная Тараса Шевченко
+addr:housenumber,8 с5
+addr:street,улица Генерала Ермолова
+addr:housenumber,14 с8
+addr:street,Киевская улица
+addr:housenumber,3 к16
+addr:housenumber2,3/14
+addr:street,улица Барболина
+addr:housenumber,79
+addr:housenumber,23А
+addr:street,Долгоруковская улица
+addr:housenumber,38 с1
+addr:postcode,111024
+addr:postcode,111250
+addr:street,проезд Невельского
+addr:housenumber,6 к3
+addr:street,Коробейников переулок
+addr:housenumber,28Б с3
+addr:postcode,141411
+addr:street,Международное шоссе
+addr:postcode,109518
+addr:street,2-й Грайвороновский проезд
+addr:housenumber,21 с7
+addr:street,Локомотивный проезд
+addr:street,Гостиничная улица
+addr:street,Бобруйская улица
+addr:street,Коломенская улица
+addr:street,Средний Овчинниковский переулок
+addr:street,улица Малая Ордынка
+addr:housenumber,20/4
+addr:housenumber,10 с9
+addr:housenumber,27А/8 с1
+addr:housenumber,47/7 с2
+addr:housenumber,16А с4
+addr:postcode,125171
+addr:street,Ленинградское шоссе
+addr:housenumber,16А с8
+addr:housenumber,16Б
+addr:postcode,11250
+addr:street,Красноказарменная улица
+addr:street,1-й Саратовский проезд
+addr:housenumber,95
+addr:housenumber,10А
+addr:street,Гостиничный проезд
+addr:street,улица Генерала Белобородова
+addr:street,Подсосенский переулок
+addr:housenumber,85 с2
+addr:postcode,129075
+addr:housenumber,85 с1
+addr:housenumber,2А с3
+addr:street,Веткина улица
+addr:housenumber,9А с2
+addr:housenumber,3 с14А
+addr:housenumber,23 с5
+addr:street,улица 1812 Года
+addr:street,Кутузовский проезд
+addr:housenumber,5А
+addr:housenumber,44А с1
+addr:street,проезд Добролюбова
+addr:street,улица Добролюбова
+addr:housenumber,1/2 с5
+addr:housenumber,40 с4А
+addr:housenumber,40-42
+addr:housenumber,36 с3
+addr:housenumber,36 к2
+addr:housenumber,1/13/6 с2
+addr:housenumber2,13/1/6 с2
+addr:housenumber3,6/1/13 с2
+addr:street,улица Покровка
+addr:street2,Армянский переулок
+addr:street3,Девяткин переулок
+addr:street,улица Полины Осипенко
+addr:housenumber,15А с1
+addr:street,улица Циолковского
+addr:housenumber,21 с1
+addr:housenumber,21А с4
+addr:postcode,119180
+addr:street,улица Большая Якиманка
+addr:housenumber,17/1
+addr:housenumber2,1/17
+addr:street,Петровский бульвар
+addr:street2,3-й Колобовский переулок
+addr:housenumber,14 с1А
+addr:housenumber,19/11 с1
+addr:street,улица Пречистенка
+addr:housenumber,7/10 с7
+addr:street,Старосадский переулок
+addr:street,1-й Бабьегородский переулок
+addr:street,улица Академика Королёва
+addr:housenumber,21 с11
+addr:street,улица Академика Комарова
+addr:street,площадь Победы
+addr:street,Грайвороновская улица
+addr:street,Большая Марфинская улица
+addr:street,Ботаническая улица
+addr:street,Малая Ботаническая улица
+addr:postcode,127276
+addr:housenumber,1 к3 с1
+addr:housenumber,73А с3
+addr:street,Митинская улица
+addr:housenumber,110А
+addr:postcode,125459
+addr:street,Туристская улица
+addr:street,Новотушинский проезд
+addr:postcode,125430
+addr:housenumber,7 к6
+addr:postcode,117216
+addr:housenumber,29 с2
+addr:postcode,109028
+addr:street,Покровский бульвар
+addr:housenumber,8 к12
+addr:street,улица Вильгельма Пика
+addr:postcode,107140
+addr:housenumber,14 с7
+addr:postcode,121059
+addr:housenumber,57 к2
+addr:street,улица Остоженка
+addr:housenumber2,4А
+addr:street,Строительный проезд
+addr:housenumber,12/2 с1
+addr:postcode,119034
+addr:street,Староконюшенный переулок
+addr:street,улица Большая Полянка
+addr:housenumber,37 с3
+addr:street,улица Ленинская Слобода
+addr:housenumber,38
+addr:housenumber,57 с3
+addr:street,Дубининская улица
+addr:housenumber,18-20
+addr:street,Садовая-Триумфальная улица
+addr:postcode,109202
+addr:street,шоссе Фрезер
+addr:housenumber,14 с5
+addr:street,Душинская улица
+addr:housenumber,5/6
+addr:housenumber,60А с1
+addr:street,"МКАД, 25-й километр"
+addr:street,2-й Новый переулок
+addr:housenumber,71
+addr:housenumber,26 с6
+addr:housenumber,26Г
+addr:street,проспект Лихачёва
+addr:street,Цветочный проезд
+addr:housenumber,68 к3
+addr:postcode,119072
+addr:street,Берсеневская набережная
+addr:housenumber,6 с3
+addr:housenumber,6 с4
+addr:housenumber,7 с4
+addr:street,Болотная набережная
+addr:street,Берсеневский переулок
+addr:housenumber,11 с3
+addr:housenumber,3/10 с7
+addr:housenumber,14 с5А
+addr:housenumber,3/10 с8
+addr:housenumber,3/10 с2
+addr:housenumber,5 с4
+addr:housenumber,37/3
+addr:housenumber,37/7
+addr:postcode,115035
+addr:street,Садовническая набережная
+addr:housenumber,4/1
+addr:street,Малая Очаковская улица
+addr:street,Озёрная улица
+addr:postcode,115172
+addr:street,Котельническая набережная
+addr:street,улица Мнёвники
+addr:housenumber,44А
+addr:housenumber,38 к3
+addr:postcode,129343
+addr:street,проезд Серебрякова
+addr:street,Валовая улица
+addr:postcode,108836
+addr:street,1-я Нововатутинская улица
+addr:subdistrict,поселение Десёновское
+addr:street,Елоховский проезд
+addr:postcode,115419
+addr:street,2-й Донской проезд
+addr:street,Старопетровский проезд
+addr:housenumber,73 к1
+addr:street,Большая Академическая улица
+addr:postcode,119071
+addr:housenumber,22-24
+addr:housenumber,7с1
+addr:postcode,119297
+addr:street,улица Петра Непорожнего
+addr:housenumber,9 с4
+addr:housenumber,9 с3
+addr:postcode,105062
+addr:street,улица Чаплыгина
+addr:street,Садовая-Черногрязская улица
+addr:housenumber,141А к6
+addr:street,3-й Автозаводский проезд
+addr:street,1-я Ямская улица
+addr:postcode,107076
+addr:street,Краснобогатырская улица
+addr:housenumber,20 с3
+addr:housenumber,3А с1
+addr:street,улица Левитана
+addr:street,улица Орджоникидзе
+addr:street,улица Сокольнический Вал
+addr:housenumber,10Б
+addr:postcode,125212
+addr:street,Головинское шоссе
+addr:street,Старый Петровско-Разумовский проезд
+addr:postcode,129323
+addr:street,Лазоревый проезд
+addr:housenumber,17/20
+addr:postcode,107045
+addr:street,Большой Сергиевский переулок
+addr:housenumber,21/24
+addr:housenumber2,24/21
+addr:street,Пушкарёв переулок
+addr:street2,Большой Головин переулок
+addr:street,Трубная улица
+addr:housenumber,15 с2
+addr:street,улица Верхняя Масловка
+addr:postcode,127083
+addr:housenumber,12А с4
+addr:housenumber,12А с7
+addr:housenumber,3/2
+addr:street,Планетная улица
+addr:housenumber,22Б с1
+addr:street,улица Юннатов
+addr:postcode,127081
+addr:housenumber,27 к4
+addr:street,Смоленская улица
+addr:housenumber,1А к5
+addr:postcode,107553
+addr:street,Амурская улица
+addr:housenumber,1А к3
+addr:housenumber,1А к4
+addr:housenumber,1А к2
+addr:housenumber,80 к1
+addr:street,Нижегородская улица
+addr:street,улица Маршала Шапошникова
+addr:postcode,107113
+addr:street,Сокольническая площадь
+addr:housenumber,71 к2
+addr:postcode,125424
+addr:housenumber,71 к1
+addr:street,Маленковская улица
+addr:housenumber,30-36 с2
+addr:street,Поварская улица
+addr:housenumber,30-36 с1
+addr:street,Ангелов переулок
+addr:street,Партийный переулок
+addr:housenumber,1 к11
+addr:postcode,115093
+addr:housenumber,7А с4
+addr:street,2-й Магистральный тупик
+addr:housenumber,7А с3
+addr:housenumber,7А с6
+addr:housenumber,9 с6
+addr:street,1-й Магистральный проезд
+addr:housenumber,34 с2
+addr:postcode,123290
+addr:street,Шмитовский проезд
+addr:housenumber,34 с3
+addr:housenumber,34 с5
+addr:housenumber,34 с13
+addr:housenumber,34 с8
+addr:housenumber,34 с7
+addr:housenumber,34 с6
+addr:housenumber,36/11
+addr:street,Мукомольный проезд
+addr:street,Одесская улица
+addr:housenumber,36/11 с1
+addr:street,Русаковская улица
+addr:postcode,111673
+addr:street,Суздальская улица
+addr:street,Лодочная улица
+addr:postcode,107014
+addr:street,улица Жебрунова
+addr:street,Башиловская улица
+addr:housenumber,24 с20
+addr:housenumber,24 с5
+addr:housenumber,24 с18
+addr:street,улица Стромынка
+addr:postcode,125310
+addr:housenumber,14А к4
+addr:street,2-я Боевская улица
+addr:street2,2-я Боевская улица
+addr:street,Попов проезд
+addr:street,Большая Новодмитровская улица
+addr:housenumber,23 с2
+addr:housenumber,63
+addr:housenumber,64
+addr:street,Новослободская улица
+addr:housenumber,46 с3
+addr:housenumber,46 с2
+addr:housenumber,46 с1
+addr:housenumber,47 с1
+addr:housenumber,59
+addr:housenumber,76 с4
+addr:housenumber,59А
+addr:housenumber,76 с1
+addr:housenumber,23 с6
+addr:housenumber,94А
+addr:postcode,108801
+addr:street,улица Александры Монаховой
+addr:housenumber,57 с76
+addr:housenumber,57 с11
+addr:street,улица Пруд-Ключики
+addr:street,Садовническая улица
+addr:street,Родниковая улица
+addr:housenumber,2/1 с1
+addr:street,Новая Басманная улица
+addr:housenumber,30 с2
+addr:street,Басманный переулок
+addr:postcode,108811
+addr:street,Саларьевская улица
+addr:subdistrict,поселение Московский
+addr:street,Верхняя Красносельская улица
+addr:housenumber,3-5 с1
+addr:housenumber,7-9
+addr:housenumber,38 к1
+addr:street,Сельскохозяйственная улица
+addr:housenumber,38 к2
+addr:housenumber,11 с13
+addr:postcode,129301
+addr:street,улица Касаткина
+addr:housenumber,48 с1
+addr:district,Западное Дегунино
+addr:housenumber,5с5
+addr:street,Садовая-Каретная улица
+addr:housenumber,44/2
+addr:street,Звёздный бульвар
+addr:housenumber,21 c1
+addr:street,Мишина улица
+addr:housenumber,22 с1
+addr:postcode,125124
+addr:housenumber,159А с1
+addr:housenumber,9А с1
+addr:housenumber,3/5
+addr:housenumber,40 с1
+addr:street,Большая Семёновская улица
+addr:housenumber,40 с3
+addr:street,Напрудный переулок
+addr:street,Дегунинская улица
+addr:street,Берёзовая аллея
+addr:street,Олонецкая улица
+addr:suburb,Жилой комплекс Green Park
+addr:street,Абрамцевская улица
+addr:street,1-я Квесисская улица
+addr:housenumber,60 к1
+addr:postcode,111123
+addr:housenumber,44 с5
+addr:street,Цимлянская улица
+addr:street,Хибинский проезд
+addr:postcode,129085
+addr:street,улица Годовикова
+addr:housenumber,3 с6
+addr:housenumber,16 с17
+addr:street,Огородный проезд
+addr:full,"Москва, Огородный проезд, дом 20А, строение 2"
+addr:housenumber,20А с2
+addr:postcode,125464
+addr:street,Братиславская улица
+addr:housenumber,2 к8
+addr:street,Скандинавский бульвар
+addr:housenumber,18 с321
+addr:street,Новозаводская улица
+addr:street,Усачёва улица
+addr:housenumber,11к1
+addr:street,улица Анны Ахматовой
+addr:housenumber,2 к3
+addr:street,улица Картмазовские Пруды
+addr:street,улица Академика Павлова
+addr:housenumber,86 с6
+addr:unit,7
+addr:postcode,108802
+addr:street,улица Малое Понизовье
+addr:street,Производственная улица
+addr:postcode,119633
+addr:street,Чоботовская улица
+addr:street,улица Пресненский Вал
+addr:street,Новочеркасский бульвар
+addr:postcode,108814
+addr:street,бульвар Веласкеса
+addr:housenumber,5Д с1
+addr:postcode,111677
+addr:street,Покровская улица
+addr:street,улица Докукина
+addr:housenumber,7/1
+addr:postcode,125475
+addr:street,улица Дыбенко
+addr:housenumber,13А/16
+addr:street,улица Врубеля
+addr:housenumber,6 с12
+addr:postcode,105118
+addr:street,улица Буракова
+addr:housenumber,25А с3
+addr:street,проспект Будённого
+addr:street,Измайловский проезд
+addr:housenumber,29 с3
+addr:street,2-я Хуторская улица
+addr:housenumber,29 с4
+addr:postcode,119435
+addr:street,Большой Тишинский переулок
+addr:housenumber,50
+addr:postcode,125364
+addr:housenumber,50 с3
+addr:housenumber,1 с10
+addr:housenumber,22А
+addr:street,Большой Строченовский переулок
+addr:street,3-й Новый переулок
+addr:street,Нижняя Красносельская улица
+addr:housenumber,5 с10
+addr:housenumber,5 с12
+addr:housenumber,26 к1
+addr:street,Федоскинская улица
+addr:street,Илимская улица
+addr:housenumber,1 к7
+addr:housenumber,1А к1
+addr:housenumber,5 к5
+addr:housenumber,5 к4
+addr:housenumber,124А
+addr:postcode,127495
+addr:housenumber,1а
+addr:street,Большая Пионерская улица
+addr:street,Казарменный переулок
+addr:housenumber,58Б
+addr:street,проспект Андропова
+addr:housenumber,80 к3
+addr:housenumber,80 к2
+addr:housenumber,84 к2
+addr:housenumber,84 к1
+addr:housenumber,84 к3
+addr:housenumber,84 к4
+addr:postcode,119192
+addr:housenumber,14А к5
+addr:housenumber,14А к2
+addr:housenumber,2 к5
+addr:housenumber,2 к7
+addr:housenumber,44 к2
+addr:housenumber,44 к1
+addr:street,проезд Ольминского
+addr:street,улица Усиевича
+addr:housenumber,37/6
+addr:housenumber,37/5
+addr:housenumber,37/4
+addr:housenumber,29 к4
+addr:housenumber,29 к2
+addr:housenumber,4 с7
+addr:street,Абельмановская улица
+addr:postcode,111675
+addr:housenumber,44 к3
+addr:street,Куликовская улица
+addr:housenumber,вл41
+addr:housenumber,вл12 к4
+addr:street,3-я Нововатутинская улица
+addr:street,Пенягинская улица
+addr:street,улица Газопровод
+addr:postcode,117461
+addr:street,улица Каховка
+addr:housenumber,19 к3
+addr:housenumber,55А
+addr:housenumber,19/38
+addr:street,Беломорская улица
+addr:street,Муравская улица
+addr:housenumber,145 к2 с3
+addr:housenumber,145 с1
+addr:housenumber,7А к30
+addr:housenumber,7 с5
+addr:street,улица Казакова
+addr:street,Нелидовская улица
+addr:postcode,125206
+addr:street,Дмитровский проезд
+addr:housenumber,125Б
+addr:street,Большая Черкизовская улица
+addr:postcode,117556
+addr:street,Артековская улица
+addr:postcode,117452
+addr:street,Симферопольский бульвар
+addr:street,Черноморский бульвар
+addr:housenumber,6 с2
+addr:housenumber,100 с3
+addr:postcode,125481
+addr:street,улица Фомичёвой
+addr:housenumber,к809А
+addr:street,Пыжёвский переулок
+addr:street,Пожарский переулок
+addr:postcode,121471
+addr:housenumber,30 к3
+addr:postcode,117246
+addr:street,Херсонская улица
+addr:postcode,117393
+addr:street,улица Гамалеи
+addr:postcode,119261
+addr:street,улица Панфёрова
+addr:housenumber,48 с2
+addr:housenumber,48 с3
+addr:street,улица Цюрупы
+addr:street,Базовская улица
+addr:housenumber,88
+addr:housenumber,16 к5
+addr:postcode,119454
+addr:street,улица Лобачевского
+addr:housenumber,132
+addr:housenumber,132 с1
+addr:housenumber,8 с4
+addr:housenumber,16 с6
+addr:postcode,123100
+addr:street,улица Сергея Макеева
+addr:street,улица Эдварда Грига
+addr:housenumber,2 к6
+addr:housenumber,4Б
+addr:street,1-й Котляковский переулок
+addr:housenumber,23 к1
+addr:postcode,117420
+addr:street,улица Намёткина
+addr:street,проспект Куприна
+addr:housenumber,6/4 с1
+addr:street,улица Костякова
+addr:housenumber,9/28 с1
+addr:housenumber,90 к3
+addr:housenumber,90 к4
+addr:housenumber,90 к2
+addr:housenumber,90 к1
+addr:housenumber,88 к3
+addr:housenumber,88 к2
+addr:housenumber,88 к1
+addr:housenumber,92 к1
+addr:housenumber,92 к2
+addr:street,Украинский бульвар
+addr:street,улица Немчинова
+addr:street,Ивановская улица
+addr:housenumber,94 к1
+addr:housenumber,94 к2
+addr:housenumber,92 к3
+addr:housenumber,98 к1
+addr:housenumber,96 к2
+addr:housenumber,96А
+addr:housenumber,98А
+addr:housenumber,87 к5
+addr:housenumber,89 к2
+addr:housenumber,89 к1
+addr:postcode,125504
+addr:street,Пяловская улица
+addr:street,Ильменский проезд
+addr:postcode,109443
+addr:housenumber,130
+addr:street,Чечёрский проезд
+addr:housenumber,134 к1
+addr:street,Бачуринская улица
+addr:housenumber,5А к2
+addr:postcode,117624
+addr:housenumber,5А к6
+addr:postcode,107370
+addr:street,Тюменский проезд
+addr:housenumber,3 к7
+addr:housenumber,3 к8
+addr:housenumber,3 к4
+addr:housenumber,3 к6
+addr:street,улица Василия Ощепкова
+addr:housenumber,3 с29
+addr:street,Колодезный переулок
+addr:housenumber,12А
+addr:street,Нововатутинский проспект
+addr:housenumber,16 к4
+addr:street,Новоалексеевская улица
+addr:street,5-я Нововатутинская улица
+addr:housenumber,42 с4
+addr:housenumber,124А с1
+addr:street,бульвар Академика Ландау
+addr:street,улица Кибальчича
+addr:housenumber,16 с11
+addr:postcode,109428
+addr:street,2-й Вязовский проезд
+addr:housenumber,16 с20
+addr:housenumber,16 с10
+addr:housenumber,12 с5
+addr:housenumber,31 к2
+addr:postcode,108823
+addr:street,Рязановское шоссе
+addr:street,Пермская улица
+addr:street,набережная Марка Шагала
+addr:street,бульвар Братьев Весниных
+addr:street,улица Родченко
+addr:housenumber,4 к5
+addr:housenumber,4 к6
+addr:street,улица Дубки
+addr:housenumber,120 к1
+addr:housenumber,16/15 с17
+addr:street,Спартаковская площадь
+addr:housenumber,16/15 с2
+addr:street,улица Янковского
+addr:housenumber,11Д
+addr:housenumber,11Е
+addr:housenumber,11Г
+addr:street,улица Викторенко
+addr:street,Большая Филёвская улица
+addr:housenumber,3 c5
+addr:flats,409-1127
+addr:street,Багратионовский проезд
+addr:postcode,127006
+addr:street,Донская улица
+addr:postcode,115114
+addr:street,Павелецкая набережная
+addr:housenumber,8Б
+addr:street,3-й Павелецкий проезд
+addr:housenumber,25 к3
+addr:postcode,115201
+addr:street,Каширский проезд
+addr:housenumber,25 к4
+addr:street,4-й Верхний Михайловский проезд
+addr:street,Духовской переулок
+addr:housenumber,1А/29 с1
+addr:street,Старообрядческая улица
+addr:housenumber,43 к5
+addr:housenumber,32/3 к7
+addr:housenumber,32/3 к6
+addr:housenumber,32/3 к3
+addr:housenumber,32/3 к4
+addr:housenumber,32/3 к5
+addr:postcode,115088
+addr:street,1-я улица Машиностроения
+addr:postcode,115142
+addr:street,Корабельная улица
+addr:housenumber,52 к1
+addr:housenumber,30А к1
+addr:street,улица Михайлова
+addr:housenumber,30А к4
+addr:housenumber,31А
+addr:postcode,121108
+addr:housenumber,33А
+addr:postcode,121374
+addr:street,улица Красных Зорь
+addr:housenumber,10 к4
+addr:street,улица Багрицкого
+addr:street,Пересветов переулок
+addr:street,проезд Досфлота
+addr:street,Гжатская улица
+addr:housenumber,5 к6
+addr:housenumber,5 к8
+addr:housenumber,5 к7
+addr:housenumber,5 к10
+addr:housenumber,71 с2
+addr:housenumber,4 к1 с2
+addr:housenumber,15А с14
+addr:street,3-я Черепковская улица
+addr:housenumber,15А с34
+addr:housenumber,15А с15
+addr:housenumber,15А с13
+addr:housenumber,15А с40
+addr:housenumber,15А с16
+addr:housenumber,15А с9
+addr:housenumber,15А с8
+addr:housenumber,15А с2
+addr:housenumber,15А с7
+addr:housenumber,15А с6
+addr:housenumber,15А с10
+addr:housenumber,15А с5
+addr:housenumber,15А с3
+addr:housenumber,15А с4
+addr:postcode,123154
+addr:street,бульвар Генерала Карбышева
+addr:postcode,125438
+addr:street,4-й Лихачёвский переулок
+addr:street,7-й Ростовский переулок
+addr:street,Клинская улица
+addr:place,Квартал №100
+addr:postcode,121500
+addr:housenumber,2 с5
+addr:street,Новый Зыковский проезд
+addr:housenumber,9 с11
+addr:housenumber,3 к2 с4
+addr:housenumber,54 с16
+addr:street,Молодогвардейская улица
+addr:housenumber,54 с43
+addr:housenumber,54 с6
+addr:street,1-й Котельнический переулок
+addr:postcode,129345
+addr:street,Тайнинская улица
+addr:street,улица Шумкина
+addr:housenumber,71 к4
+addr:housenumber,71 к8
+addr:housenumber,71 к5
+addr:street,Просвирин переулок
+addr:postcode,125565
+addr:street,Пулковская улица
+addr:postcode,125130
+addr:street,1-й Пехотный переулок
+addr:street,улица Берзарина
+addr:housenumber,28А
+addr:housenumber,28А к1
+addr:postcode,127644
+addr:housenumber,107 к3
+addr:housenumber,107 к2
+addr:housenumber,107 к4
+addr:housenumber,107А к2
+addr:housenumber,107А к5
+addr:housenumber,107А к3
+addr:housenumber,5А к7
+addr:housenumber,5А к5
+addr:housenumber,5А к4
+addr:housenumber,5А к3
+addr:postcode,129337
+addr:street,улица Красная Сосна
+addr:housenumber,27 к5
+addr:postcode,107143
+addr:street,Тагильская улица
+addr:housenumber,4В
+addr:street,улица Проспект Мира
+addr:postcode,123557
+addr:street,Средний Тишинский переулок
+addr:street,Зубовская улица
+addr:postcode,119021
+addr:street,Софийская набережная
+addr:housenumber,12/3
+addr:housenumber2,3/12
+addr:postcode,107031
+addr:street,Серебрянический переулок
+addr:street,Звенигородское шоссе
+addr:housenumber,34 к1
+addr:street,Шелепихинская набережная
+addr:housenumber,34 к2
+addr:unit,Здание 8
+addr:postcode,115477
+addr:street,улица Бехтерева
+addr:housenumber,15 с5
+addr:housenumber,39 к6
+addr:street,улица Коминтерна
+addr:postcode,125252
+addr:street,улица Зорге
+addr:street,Уваровский переулок
+addr:housenumber,73Б
+addr:street,Бакунинская улица
+addr:postcode,105094
+addr:street,улица Новая Дорога
+addr:street,Большая Почтовая улица
+addr:housenumber,30 с1
+addr:postcode,111020
+addr:street,Солдатский переулок
+addr:housenumber,1 к4
+addr:street,Золоторожский проезд
+addr:postcode,109457
+addr:housenumber,32 к3
+addr:postcode,109451
+addr:housenumber,32 к2
+addr:housenumber,32 к1
+addr:housenumber,74А
+addr:postcode,115409
+addr:housenumber,36А
+addr:postcode,119330
+addr:street,Ломоносовский проспект
+addr:postcode,119285
+addr:housenumber,1Б
+addr:street,улица Довженко
+addr:street,2-й переулок Петра Алексеева
+addr:street,улица Маршала Сергеева
+addr:street,улица Наташи Качуевской
+addr:housenumber,95Б к2
+addr:street,Лётная улица
+addr:housenumber,69 к2
+addr:postcode,125195
+addr:postcode,127566
+addr:street,Высоковольтный проезд
+addr:housenumber,11 к8
+addr:street,улица Римского-Корсакова
+addr:housenumber,11 к7
+addr:housenumber,11 к6
+addr:housenumber,11 к3
+addr:housenumber,11 к4
+addr:housenumber,71А
+addr:housenumber,19 к6
+addr:postcode,105425
+addr:street,Никитинская улица
+addr:housenumber,78 к3
+addr:housenumber,78 к2
+addr:housenumber,76 к5
+addr:housenumber,76 к2
+addr:housenumber,72А к1
+addr:housenumber,74/1
+addr:housenumber,72А к2
+addr:housenumber,23А к3
+addr:street,Автозаводская улица
+addr:housenumber,23Б к2
+addr:housenumber,23 с120
+addr:housenumber,18 к7
+addr:housenumber,18 к3
+addr:housenumber,18 к4
+addr:housenumber,18 к6
+addr:housenumber,18 к5
+addr:housenumber,78А
+addr:housenumber,23 с931
+addr:housenumber,93
+addr:place,квартал 27
+addr:subdistrict,Жилой комплекс «Эдельвейс»
+addr:postcode,108849
+addr:street,улица Бориса Пастернака
+addr:housenumber,62 с1 к4
+addr:street,Старокалужское шоссе
+addr:street,улица Самуила Маршака
+addr:housenumber,62 с1 к9
+addr:postcode,117630
+addr:street,улица Лётчика Ульянина
+addr:street,Домостроительная улица
+addr:housenumber,2 к4
+addr:postcode,108815
+addr:street,Золотошвейная улица
+addr:housenumber,52 с1
+addr:postcode,115054
+addr:street,Космодамианская набережная
+addr:street,улица Яворки
+addr:street,Астрадамская улица
+addr:housenumber,11А
+addr:housenumber,26к1
+addr:street,улица Потаповская Роща
+addr:postcode,108816
+addr:street,улица Погодина
+addr:housenumber,4 с5
+addr:housenumber,86 с3
+addr:housenumber,87 к4
+addr:housenumber,87 к3
+addr:housenumber,87 к2
+addr:housenumber,109 к4
+addr:postcode,109651
+addr:street,Донецкая улица
+addr:housenumber,30 к2
+addr:housenumber,30 к1
+addr:street,улица Гришина
+addr:housenumber,2 с12
+addr:street,Спартаковский переулок
+addr:housenumber,13 с1
+addr:housenumber,2 с11
+addr:housenumber,45 с2
+addr:postcode,117218
+addr:housenumber,168
+addr:housenumber,7 к3
+addr:housenumber,141А к3
+addr:housenumber,28/4 к3
+addr:postcode,105187
+addr:street,Вольная улица
+addr:housenumber,28/4 к1
+addr:street,1-й Грайвороновский проезд
+addr:housenumber,65 к2
+addr:housenumber,65 к1
+addr:street,Ясеневая улица
+addr:housenumber,10 с5
+addr:street,1-й Волоколамский проезд
+addr:housenumber,12 с4
+addr:housenumber,34 с10
+addr:housenumber,14 c2
+addr:housenumber,182 к3 ст4
+addr:housenumber,40 к5
+addr:postcode,115162
+addr:street,Мытная улица
+addr:housenumber,40 к2
+addr:housenumber,40 с6
+addr:housenumber,40 к3
+addr:housenumber,40 к4
+addr:housenumber,2/1 к2
+addr:unit,Д
+addr:unit,Г
+addr:unit,Б
+addr:unit,А
+addr:unit,Е
+addr:housenumber,2/1 к4
+addr:unit,П
+addr:unit,Н
+addr:housenumber,2/1 к3
+addr:unit,Л
+addr:housenumber,2/1 к5
+addr:unit,У
+addr:unit,Т
+addr:unit,С
+addr:unit,М
+addr:unit,К
+addr:street,1-я Аэропортовская улица
+addr:unit,И
+addr:unit,Р
+addr:housenumber,3 с7
+addr:postcode,115230
+addr:street,Электролитный проезд
+addr:housenumber,3 с87
+addr:housenumber,3 с88
+addr:street,Давыдовский переулок
+addr:street,улица Паршина
+addr:housenumber,23 с3
+addr:street,3-я Хорошёвская улица
+addr:housenumber,21 к6
+addr:housenumber,21 к5
+addr:street,Комсомольская площадь
+addr:housenumber,8А с6
+addr:housenumber,8А с4
+addr:housenumber,2/7
+addr:housenumber,8А с1
+addr:housenumber,8А с2
+addr:housenumber,8А с3
+addr:street,Красноворотский проезд
+addr:postcode,127282
+addr:housenumber,19А
+addr:housenumber,14А к1
+addr:street,улица Уточкина
+addr:housenumber,14А с3
+addr:housenumber,14А к6
+addr:street,4-й Вятский переулок
+addr:housenumber,10Д с1
+addr:housenumber,27 с9
+addr:housenumber,27 с8
+addr:housenumber,35 с3
+addr:street,Открытое шоссе
+addr:housenumber,86А к2
+addr:housenumber,86А к1
+addr:housenumber,86А к3
+addr:street,проспект 40 лет Октября
+addr:street,Совхозная улица
+addr:housenumber,41 к2
+addr:street,Зеленодольская улица
+addr:street,улица Фёдора Полетаева
+addr:housenumber,48/8 с5
+addr:postcode,105275
+addr:street,улица Уткина
+addr:housenumber,16/11
+addr:housenumber,74
+addr:postcode,109544
+addr:street,Большая Андроньевская улица
+addr:street,улица Крузенштерна
+addr:housenumber,5 с7
+addr:housenumber,18 с17
+addr:housenumber,18 с5
+addr:street,1-й Басманный переулок
+addr:street,1-й Новый переулок
+addr:street,улица Недорубова
+addr:street,улица Маресьева
+addr:postcode,119602
+addr:postcode,127254
+addr:street,Нагатинская улица
+addr:housenumber,5 к1 с3
+addr:street,Звонарский переулок
+addr:housenumber,21 к4
+addr:postcode,105318
+addr:street,Ткацкая улица
+addr:housenumber,5 с16
+addr:housenumber,24А с2
+addr:postcode,127030
+addr:street,Электрический переулок
+addr:postcode,123001
+addr:street,Мантулинская улица
+addr:housenumber,9 к6
+addr:housenumber,9 с5
+addr:street,2-я Черногрязская улица
+addr:housenumber,18 с2
+addr:street,3-я Рыбинская улица
+addr:housenumber,15Б
+addr:housenumber,17 с3
+addr:street,Токмаков переулок
+addr:street,улица Мельникова
+addr:postcode,123317
+addr:street,Красногвардейский бульвар
+addr:postcode,125412
+addr:street,Коровинское шоссе
+addr:postcode,107564
+addr:street,1-я Мясниковская улица
+addr:street,улица Лавриненко
+addr:street,1-й Стрелецкий проезд
+addr:housenumber,26А с4
+addr:housenumber,2/10
+addr:housenumber,1/12
+addr:housenumber,17А к1
+addr:housenumber,17А к3
+addr:housenumber,17А к2
+addr:housenumber,169Б
+addr:postcode,127204
+addr:housenumber,2В к4
+addr:street,Минская улица
+addr:housenumber,2В к3
+addr:housenumber,2В к6
+addr:housenumber,2В к5
+addr:housenumber,2В к2
+addr:housenumber,2В к1
+addr:housenumber,8Б с2
+addr:street,улица Фонвизина
+addr:street,улица Улофа Пальме
+addr:housenumber,4Д к3
+addr:postcode,119530
+addr:street,Аминьевское шоссе
+addr:housenumber,4Д к2
+addr:housenumber,4Д к1
+addr:housenumber,159 с1
+addr:housenumber,159 с2
+addr:housenumber,37А с1
+addr:street,улица Татьянин Парк
+addr:housenumber,19 к1
+addr:housenumber,25 c1
+addr:street,улица Юлиана Семёнова
+addr:street,улица Липовый парк
+addr:street,Прокшинский проспект
+addr:street,Расторгуевский переулок
+addr:housenumber,21/8 с5
+addr:housenumber,71/13 к1
+addr:housenumber,71/22 к2
+addr:housenumber,78 с5
+addr:housenumber,78 с7
+addr:housenumber,78
+addr:postcode,129344
+addr:street,Енисейская улица
+addr:postcode,109240
+addr:postcode,127576
+addr:postcode,127411
+addr:street,улица Софьи Ковалевской
+addr:postcode,127322
+addr:housenumber,14/11 с1
+addr:street,Голиковский переулок
+addr:housenumber,40-42 с1
+addr:housenumber,18/10
+addr:housenumber,6Б к2
+addr:street,улица Адмирала Макарова
+addr:housenumber,9/1
+addr:street,Выборгская улица
+addr:postcode,127106
+addr:street,Нововладыкинский проезд
+addr:housenumber,1A
+addr:housenumber,141 к15
+addr:housenumber,141 к14
+addr:postcode,115304
+addr:street,Кавказский бульвар
+addr:housenumber,5/1к1
+addr:postcode,105037
+addr:street,улица Пришвина
+addr:postcode,121596
+addr:street,Барвихинская улица
+addr:housenumber,38А к3
+addr:postcode,119334
+addr:housenumber,51 с2
+addr:housenumber,51 к3
+addr:street,Измайловское шоссе
+addr:street,2-я Рощинская улица
+addr:street,Шлюзовая набережная
+addr:housenumber,154 к2
+addr:street,Востряковское шоссе
+addr:housenumber,7 с6
+addr:housenumber,105 к1
+addr:street,улица Эльдара Рязанова
+addr:street,улица Обручева
+addr:housenumber,3В
+addr:postcode,117574
+addr:housenumber,105 к2
+addr:postcode,117186
+addr:street,Всеволожский переулок
+addr:street,Земледельческий переулок
+addr:street,Большой Ордынский переулок
+addr:street,Большой Николоворобинский переулок
+addr:street,бульвар Адмирала Ушакова
+addr:housenumber,34 к6
+addr:postcode,123112
+addr:street,1-й Красногвардейский проезд
+addr:housenumber,79 с1
+addr:housenumber,77 к2
+addr:housenumber,110 с53
+addr:housenumber,39 с5
+addr:housenumber,39 к2
+addr:housenumber,39 к1
+addr:housenumber,39 к8
+addr:housenumber,39 к9
+addr:housenumber,39 к3
+addr:place,Мостовая улица
+addr:postcode,108818
+addr:place,квартал № 4
+addr:housenumber,вл45
+addr:street,улица Нижние Мнёвники
+addr:housenumber,110
+addr:street,улица Сталеваров
+addr:street,4-й Добрынинский переулок
+addr:housenumber,21 с10
+addr:postcode,127206
+addr:street,улица Вучетича
+addr:housenumber,21 с9
+addr:street,Ангарская улица
+addr:housenumber,23-41
+addr:housenumber,27 к6
+addr:housenumber,18-20-22 с1
+addr:street,Большая Сухаревская площадь
+addr:housenumber,5/1 с2
+addr:housenumber2,1 с2
+addr:street2,1-й Коптельский переулок
+addr:postcode,129329
+addr:street,Кольская улица
+addr:housenumber,56/2 с1
+addr:housenumber,56/2
+addr:housenumber,1/18 с2
+addr:street,улица Бирюсинка
+addr:housenumber,1/18 с1
+addr:housenumber,1/18 с4
+addr:housenumber,30А к6
+addr:street,Перовское шоссе
+addr:street,Рогачёвский переулок
+addr:housenumber,41 с9
+addr:housenumber,41 с8
+addr:housenumber,41 с7
+addr:housenumber,41 с12
+addr:housenumber,41 с63
+addr:housenumber,41 с13
+addr:housenumber,41 с14
+addr:street,Мурановская улица
+addr:street,2-я Пугачёвская улица
+addr:housenumber,12/7 кБ
+addr:street,улица Руставели
+addr:housenumber,12/7 с3
+addr:street,Триумфальная площадь
+addr:housenumber,31/4
+addr:housenumber,27 с2
+addr:street,Ермолаевский переулок
+addr:housenumber,77А
+addr:housenumber,79 к4
+addr:street,Гранатный переулок
+addr:street,улица Лихоборские Бугры
+addr:housenumber,73 к3
+addr:housenumber,73А
+addr:housenumber,10 с6
+addr:street,Часовая улица
+addr:street,Газгольдерная улица
+addr:housenumber,6/11
+addr:housenumber,228 к3
+addr:postcode,141431
+addr:housenumber,18 с3
+addr:housenumber,13 к4 с1
+addr:housenumber,13 к4 с3
+addr:housenumber,13 к4 с4
+addr:housenumber,16 с2
+addr:street,улица Генерала Дорохова
+addr:housenumber,17/27 с1
+addr:housenumber2,27/17
+addr:street,Астраханский переулок
+addr:street2,Протопоповский переулок
+addr:housenumber,35В
+addr:housenumber,41 к4
+addr:housenumber,23 с9
+addr:street,улица Павла Андреева
+addr:housenumber,23 с7
+addr:housenumber,29 к5
+addr:housenumber,17А
+addr:postcode,121096
+addr:street,улица Василисы Кожиной
+addr:housenumber,1А с4
+addr:postcode,115211
+addr:street,улица Борисовские Пруды
+addr:housenumber,1А с5
+addr:housenumber,1А с8
+addr:housenumber,1А с2
+addr:housenumber,1А с7
+addr:postcode,129272
+addr:street,проезд Черского
+addr:postcode,129110
+addr:street,Суворовская площадь
+addr:street,Угрешская улица
+addr:housenumber,24 с49
+addr:housenumber,24 с50
+addr:street,Севильский бульвар
+addr:street,улица Федосьино
+addr:housenumber,29 с1
+addr:housenumber,24 с41
+addr:housenumber,24 с40
+addr:housenumber,39А
+addr:street,Бережковская набережная
+addr:street,улица Правды
+addr:housenumber,11А с2
+addr:postcode,127473
+addr:street,Селезнёвская улица
+addr:street,улица Грузинский Вал
+addr:street,Москворецкая набережная
+addr:street,Китайгородский проезд
+addr:street,Старобитцевская улица
+addr:street,улица Главмосстроя
+addr:street,переулок Обуха
+addr:housenumber,99
+addr:street,Станционная улица
+addr:housenumber,вл4
+addr:housenumber,10Г
+addr:street,улица Толбухина
+addr:place,3-я Хорошевская улица
+addr:street,4-й Новомихалковский проезд
+addr:street,Куркинское шоссе
+addr:postcode,109156
+addr:street,улица Генерала Кузнецова
+addr:housenumber,10/6
+addr:housenumber,43-45 с1
+addr:housenumber,к14
+addr:place,квартал Грайвороново 90А
+addr:housenumber,98 к10
+addr:postcode,117485
+addr:street,улица Лобановский Лес
+addr:street,улица Покрышкина
+addr:housenumber,91 к2
+addr:housenumber,91 к1
+addr:postcode,115551
+addr:street,Домодедовская улица
+addr:street,Ружейный переулок
+addr:street,Смоленский бульвар
+addr:housenumber,19 с2
+addr:housenumber,17 с5
+addr:housenumber,46 к4
+addr:housenumber,46 к5
+addr:housenumber,46 к6
+addr:housenumber,51 к2
+addr:housenumber,13А с2
+addr:housenumber,2/2 к2
+addr:postcode,115487
+addr:street,2-й Нагатинский проезд
+addr:housenumber,2/2 к1
+addr:housenumber,30Б
+addr:street,улица Петра Алексеева
+addr:street,1-й Вязовский проезд
+addr:street,проспект 60-летия Октября
+addr:housenumber,17 с25
+addr:postcode,107061
+addr:street,улица Преображенский Вал
+addr:housenumber,69 к3
+addr:housenumber,48 к2
+addr:street,Михалковская улица
+addr:street,Тессинский переулок
+addr:street,улица Виктора Маслова
+addr:housenumber,10В
+addr:housenumber,1Б с1
+addr:housenumber,1Б с3
+addr:street,Киевское шоссе
+addr:street,улица Василия Ланового
+addr:street,улица Шекспира
+addr:street,Гренадерская улица
+addr:housenumber,19 с51
+addr:street,проезд Энтузиастов
+addr:housenumber,284 к1
+addr:housenumber,284 к4
+addr:housenumber,284 к3
+addr:housenumber,284 к2
+addr:housenumber,282 к2
+addr:housenumber,282 к3
+addr:housenumber,282 к1
+addr:housenumber,4 с24
+addr:street,проектируемый проезд № 3683
+addr:housenumber,74 к3
+addr:street,Новохохловская улица
+addr:housenumber,63 к1
+addr:street,улица Лавочкина
+addr:postcode,111116
+addr:street,Аргуновская улица
+addr:housenumber,9 с18
+addr:street,улица Космонавтов
+addr:street,Большой Овчинниковский переулок
+addr:housenumber,84
+addr:housenumber,146
+addr:housenumber,122
+addr:housenumber,138
+addr:housenumber,31 с20
+addr:street,улица Шаболовка
+addr:street,Хавская улица
+addr:street,Новоданиловская набережная
+addr:street,1-й Иртышский проезд
+addr:street,Витебская улица
+addr:housenumber,14 с12
+addr:housenumber,14 с11
+addr:housenumber,37 с4
+addr:postcode,117105
+addr:housenumber,10/2 с2Б
+addr:housenumber,7с 71
+addr:housenumber,7 c82
+addr:housenumber,17/22
+addr:housenumber2,22/17
+addr:postcode,109652
+addr:street,Поречная улица
+addr:street2,Мячковский бульвар
+addr:housenumber,22 к6
+addr:postcode,125581
+addr:street,Подольское шоссе
+addr:postcode,127591
+addr:housenumber,22 к3
+addr:street,Староалексеевская улица
+addr:housenumber,60
+addr:postcode,105484
+addr:street,Сиреневый бульвар
+addr:postcode,109469
+addr:street,Болотная улица
+addr:housenumber,29А к3
+addr:street,Мрузовский переулок
+addr:housenumber,18 с10
+addr:postcode,125993
+addr:street,улица Архитектора Власова
+addr:postcode,117335
+addr:street,Юрловский проезд
+addr:housenumber,173А
+addr:street,улица Братьев Бромлей
+addr:housenumber,20А с8
+addr:street,улица Арбат
+addr:street,Большая Юшуньская улица
+addr:housenumber,8/40
+addr:street,Гончарный проезд
+addr:housenumber,26 к2
+addr:street,Брянская улица
+addr:street,улица Саморы Машела
+addr:housenumber,38Б к4
+addr:street,улица Большое Понизовье
+addr:street,улица Николая Озерова
+addr:street,Чкаловский бульвар
+addr:housenumber,26/1
+addr:street,улица Александра Солженицына
+addr:housenumber,27/35 с1
+addr:street,улица Эдуарда Стрельцова
+addr:housenumber,10 с24
+addr:street,Смирновская улица
+addr:housenumber,33 с32
+addr:housenumber,33 с30
+addr:housenumber,33 с16
+addr:housenumber,33 с31
+addr:housenumber,33 с15
+addr:housenumber,29-33 с2
+addr:housenumber,54 с10
+addr:street,Перовский проезд
+addr:housenumber,14 с25
+addr:street,Подъёмная улица
+addr:housenumber,25А с2
+addr:housenumber,14 с42А
+addr:housenumber,14 с37
+addr:housenumber,54 с7
+addr:housenumber,14 с10
+addr:housenumber,73А с2
+addr:street,Ратная улица
+addr:housenumber,40 с4
+addr:housenumber,33/41 с1
+addr:housenumber,33/41 с2
+addr:housenumber,33/41 с3
+addr:street,Большая Черёмушкинская улица
+addr:housenumber,3с16
+addr:street,Рубцовская набережная
+addr:street,улица Лобачика
+addr:housenumber,2/8 к5
+addr:street,Малая Красносельская улица
+addr:housenumber,2/8 к4
+addr:housenumber,1 к5
+addr:housenumber,23стр3
+addr:street,аллея Витте
+addr:street,1-я Прядильная улица
+addr:housenumber,лит Г
+addr:street,Остафьевская улица
+addr:housenumber,43 с2
+addr:street,Леснорядский переулок
+addr:housenumber,18.2
+addr:housenumber,18.1
+addr:housenumber,12 с3

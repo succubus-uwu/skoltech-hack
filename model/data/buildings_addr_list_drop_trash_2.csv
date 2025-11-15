@@ -1,0 +1,2370 @@
+addr,value,count
+addr:city,Москва,2833
+addr:country,RU,1009
+addr:housenumber,1,43
+addr:housenumber,1 к1,20
+addr:housenumber,1 к11,1
+addr:housenumber,1 к2,16
+addr:housenumber,1 к3,7
+addr:housenumber,1 к3 с1,1
+addr:housenumber,1 к4,3
+addr:housenumber,1 к5,1
+addr:housenumber,1 к7,1
+addr:housenumber,1 с1,8
+addr:housenumber,1 с10,1
+addr:housenumber,1 с16,2
+addr:housenumber,1 с2,7
+addr:housenumber,1 с20А,1
+addr:housenumber,1 с3,4
+addr:housenumber,1 с31,1
+addr:housenumber,1 с4,1
+addr:housenumber,1 с40,1
+addr:housenumber,1 с48,1
+addr:housenumber,1 с53,1
+addr:housenumber,1 с6,1
+addr:housenumber,1 с7,1
+addr:housenumber,1 с8,1
+addr:housenumber,1/12,1
+addr:housenumber,1/13/6 с2,1
+addr:housenumber,1/18 с1,1
+addr:housenumber,1/18 с2,1
+addr:housenumber,1/18 с4,1
+addr:housenumber,1/2,2
+addr:housenumber,1/2 с1,1
+addr:housenumber,1/2 с5,1
+addr:housenumber,1/5,1
+addr:housenumber,10,28
+addr:housenumber,10 к1,14
+addr:housenumber,10 к2,6
+addr:housenumber,10 к3,5
+addr:housenumber,10 к4,2
+addr:housenumber,10 с1,4
+addr:housenumber,10 с10,1
+addr:housenumber,10 с2,7
+addr:housenumber,10 с24,1
+addr:housenumber,10 с3,3
+addr:housenumber,10 с4,1
+addr:housenumber,10 с5,1
+addr:housenumber,10 с6,1
+addr:housenumber,10 с9,1
+addr:housenumber,10/2 с2Б,1
+addr:housenumber,10/6,1
+addr:housenumber,100,1
+addr:housenumber,100 с3,1
+addr:housenumber,101,1
+addr:housenumber,101 к1,1
+addr:housenumber,101 к2,1
+addr:housenumber,101 к3,1
+addr:housenumber,101 к6,1
+addr:housenumber,105 к1,1
+addr:housenumber,105 к2,1
+addr:housenumber,105 к4,2
+addr:housenumber,105 с12,1
+addr:housenumber,105 с15,1
+addr:housenumber,107 к1,2
+addr:housenumber,107 к2,1
+addr:housenumber,107 к3,2
+addr:housenumber,107 к4,1
+addr:housenumber,107 с17,1
+addr:housenumber,107 с3,1
+addr:housenumber,107А к1,1
+addr:housenumber,107А к2,1
+addr:housenumber,107А к3,1
+addr:housenumber,107А к5,1
+addr:housenumber,108,2
+addr:housenumber,109 к4,1
+addr:housenumber,10А,1
+addr:housenumber,10А с1,2
+addr:housenumber,10Б,2
+addr:housenumber,10В,1
+addr:housenumber,10Г,1
+addr:housenumber,10Д с1,1
+addr:housenumber,11,29
+addr:housenumber,11 к1,5
+addr:housenumber,11 к2,7
+addr:housenumber,11 к3,1
+addr:housenumber,11 к4,2
+addr:housenumber,11 к5,2
+addr:housenumber,11 к6,1
+addr:housenumber,11 к7,1
+addr:housenumber,11 к8,1
+addr:housenumber,11 кБ,1
+addr:housenumber,11 с1,6
+addr:housenumber,11 с10,1
+addr:housenumber,11 с13,1
+addr:housenumber,11 с2,4
+addr:housenumber,11 с3,1
+addr:housenumber,11 с4,2
+addr:housenumber,11/2 с4,1
+addr:housenumber,11/5 с4,1
+addr:housenumber,110,1
+addr:housenumber,110 с23,1
+addr:housenumber,110 с28,1
+addr:housenumber,110 с53,1
+addr:housenumber,110 с62,1
+addr:housenumber,110А,1
+addr:housenumber,110А c3,1
+addr:housenumber,112 к1 3Б,1
+addr:housenumber,112 к1 с1,1
+addr:housenumber,112 к1 с2,1
+addr:housenumber,112 к1 с3,1
+addr:housenumber,116,1
+addr:housenumber,116 с4,1
+addr:housenumber,119 с40,1
+addr:housenumber,11А,1
+addr:housenumber,11А с2,1
+addr:housenumber,11Г,1
+addr:housenumber,11Д,1
+addr:housenumber,11Е,1
+addr:housenumber,11к1,2
+addr:housenumber,12,28
+addr:housenumber,12 к1,8
+addr:housenumber,12 к2,6
+addr:housenumber,12 к2 с3,1
+addr:housenumber,12 к3,4
+addr:housenumber,12 к4,3
+addr:housenumber,12 с1,11
+addr:housenumber,12 с10Г,1
+addr:housenumber,12 с15,2
+addr:housenumber,12 с16,2
+addr:housenumber,12 с2,6
+addr:housenumber,12 с3,1
+addr:housenumber,12 с4,1
+addr:housenumber,12 с5,1
+addr:housenumber,12 с9,1
+addr:housenumber,12/2,1
+addr:housenumber,12/2 с1,1
+addr:housenumber,12/3,1
+addr:housenumber,12/7 кБ,1
+addr:housenumber,12/7 с3,1
+addr:housenumber,120,1
+addr:housenumber,120 к1,1
+addr:housenumber,122,1
+addr:housenumber,122 к1,1
+addr:housenumber,124А,1
+addr:housenumber,124А с1,1
+addr:housenumber,125Б,1
+addr:housenumber,126,1
+addr:housenumber,126А,1
+addr:housenumber,128,1
+addr:housenumber,12А,2
+addr:housenumber,12А с4,1
+addr:housenumber,12А с7,1
+addr:housenumber,12Б,1
+addr:housenumber,13,13
+addr:housenumber,13 к1,6
+addr:housenumber,13 к2,3
+addr:housenumber,13 к3,3
+addr:housenumber,13 к4 с1,1
+addr:housenumber,13 к4 с3,1
+addr:housenumber,13 к4 с4,1
+addr:housenumber,13 с1,2
+addr:housenumber,13 с2,2
+addr:housenumber,13 с3,1
+addr:housenumber,13/12,1
+addr:housenumber,13/2,1
+addr:housenumber,13/5 с15,1
+addr:housenumber,130,2
+addr:housenumber,132,2
+addr:housenumber,132 к1,1
+addr:housenumber,132 с1,1
+addr:housenumber,134 к1,1
+addr:housenumber,138,1
+addr:housenumber,13А,3
+addr:housenumber,13А с2,1
+addr:housenumber,13А/16,1
+addr:housenumber,14,30
+addr:housenumber,14 c2,1
+addr:housenumber,14 к1,8
+addr:housenumber,14 к1 с1,1
+addr:housenumber,14 к2,4
+addr:housenumber,14 к3,5
+addr:housenumber,14 к4,1
+addr:housenumber,14 к5,2
+addr:housenumber,14 с1,7
+addr:housenumber,14 с1-2,1
+addr:housenumber,14 с10,1
+addr:housenumber,14 с11,1
+addr:housenumber,14 с12,1
+addr:housenumber,14 с18,1
+addr:housenumber,14 с1А,1
+addr:housenumber,14 с2,5
+addr:housenumber,14 с25,1
+addr:housenumber,14 с3,2
+addr:housenumber,14 с37,1
+addr:housenumber,14 с4,3
+addr:housenumber,14 с42А,1
+addr:housenumber,14 с5,3
+addr:housenumber,14 с5А,1
+addr:housenumber,14 с6,3
+addr:housenumber,14 с7,3
+addr:housenumber,14 с8,2
+addr:housenumber,14 с9,1
+addr:housenumber,14/11 с1,1
+addr:housenumber,141 к14,1
+addr:housenumber,141 к15,1
+addr:housenumber,141А к3,1
+addr:housenumber,141А к6,1
+addr:housenumber,145 к2 с3,1
+addr:housenumber,145 с1,1
+addr:housenumber,146,1
+addr:housenumber,147 к1 с2,1
+addr:housenumber,14А,4
+addr:housenumber,14А к1,1
+addr:housenumber,14А к2,1
+addr:housenumber,14А к4,1
+addr:housenumber,14А к5,1
+addr:housenumber,14А к6,1
+addr:housenumber,14А с3,1
+addr:housenumber,15,27
+addr:housenumber,15 к1,10
+addr:housenumber,15 к2,6
+addr:housenumber,15 к3,3
+addr:housenumber,15 к4,1
+addr:housenumber,15 к5,2
+addr:housenumber,15 с1,3
+addr:housenumber,15 с2,2
+addr:housenumber,15 с5,1
+addr:housenumber,15-17 с2,1
+addr:housenumber,15/1 с1,1
+addr:housenumber,15/10,1
+addr:housenumber,15/17 с1,1
+addr:housenumber,154 к2,1
+addr:housenumber,156Б,1
+addr:housenumber,157,1
+addr:housenumber,157 с12,1
+addr:housenumber,157 с14,1
+addr:housenumber,157 с15,1
+addr:housenumber,157 с16,1
+addr:housenumber,157 с3,1
+addr:housenumber,157 с4,1
+addr:housenumber,157 с7,1
+addr:housenumber,159 с1,1
+addr:housenumber,159 с2,1
+addr:housenumber,159А с1,1
+addr:housenumber,15А,4
+addr:housenumber,15А с1,2
+addr:housenumber,15А с10,1
+addr:housenumber,15А с13,1
+addr:housenumber,15А с14,1
+addr:housenumber,15А с15,1
+addr:housenumber,15А с16,1
+addr:housenumber,15А с2,1
+addr:housenumber,15А с3,1
+addr:housenumber,15А с34,1
+addr:housenumber,15А с4,1
+addr:housenumber,15А с40,1
+addr:housenumber,15А с5,1
+addr:housenumber,15А с6,1
+addr:housenumber,15А с7,1
+addr:housenumber,15А с8,1
+addr:housenumber,15А с9,1
+addr:housenumber,15Б,1
+addr:housenumber,16,13
+addr:housenumber,16 к1,6
+addr:housenumber,16 к2,7
+addr:housenumber,16 к3,5
+addr:housenumber,16 к4,2
+addr:housenumber,16 к5,2
+addr:housenumber,16 с1,4
+addr:housenumber,16 с10,1
+addr:housenumber,16 с11,1
+addr:housenumber,16 с17,1
+addr:housenumber,16 с2,1
+addr:housenumber,16 с20,1
+addr:housenumber,16 с6,1
+addr:housenumber,16/11,1
+addr:housenumber,16/15 с17,1
+addr:housenumber,16/15 с2,1
+addr:housenumber,16/4 с4,1
+addr:housenumber,165 к1,1
+addr:housenumber,165Д к7,1
+addr:housenumber,165Е к12,1
+addr:housenumber,165Е к14,1
+addr:housenumber,168,1
+addr:housenumber,169 к2,1
+addr:housenumber,169Б,1
+addr:housenumber,16А,2
+addr:housenumber,16А с4,1
+addr:housenumber,16А с8,1
+addr:housenumber,16Б,1
+addr:housenumber,17,15
+addr:housenumber,17 к1,8
+addr:housenumber,17 к2,9
+addr:housenumber,17 к3,4
+addr:housenumber,17 к4,3
+addr:housenumber,17 с1,4
+addr:housenumber,17 с2,3
+addr:housenumber,17 с25,1
+addr:housenumber,17 с3,1
+addr:housenumber,17 с5,1
+addr:housenumber,17/1,1
+addr:housenumber,17/20,1
+addr:housenumber,17/22,1
+addr:housenumber,17/27 с1,1
+addr:housenumber,17/9,1
+addr:housenumber,170Г,1
+addr:housenumber,173А,1
+addr:housenumber,17А,2
+addr:housenumber,17А к1,1
+addr:housenumber,17А к2,1
+addr:housenumber,17А к3,1
+addr:housenumber,18,14
+addr:housenumber,18 к1,5
+addr:housenumber,18 к2,4
+addr:housenumber,18 к3,2
+addr:housenumber,18 к4,1
+addr:housenumber,18 к5,1
+addr:housenumber,18 к6,1
+addr:housenumber,18 к7,1
+addr:housenumber,18 с1,4
+addr:housenumber,18 с10,1
+addr:housenumber,18 с17,1
+addr:housenumber,18 с2,1
+addr:housenumber,18 с3,1
+addr:housenumber,18 с321,1
+addr:housenumber,18 с5,1
+addr:housenumber,18 с7,2
+addr:housenumber,18-20,1
+addr:housenumber,18-20-22 с1,1
+addr:housenumber,18.1,1
+addr:housenumber,18.2,1
+addr:housenumber,18/1,1
+addr:housenumber,18/1 с1,1
+addr:housenumber,18/10,1
+addr:housenumber,18/2,1
+addr:housenumber,18/8,1
+addr:housenumber,182 к3 ст4,1
+addr:housenumber,18А,1
+addr:housenumber,19,16
+addr:housenumber,19 к1,2
+addr:housenumber,19 к2,3
+addr:housenumber,19 к3,2
+addr:housenumber,19 к6,1
+addr:housenumber,19 с1,4
+addr:housenumber,19 с2,1
+addr:housenumber,19 с51,1
+addr:housenumber,19 с7,1
+addr:housenumber,19-21,1
+addr:housenumber,19-23,1
+addr:housenumber,19/11 с1,1
+addr:housenumber,19/38,1
+addr:housenumber,19А,1
+addr:housenumber,1A,1
+addr:housenumber,1А,9
+addr:housenumber,1А к1,1
+addr:housenumber,1А к2,2
+addr:housenumber,1А к3,2
+addr:housenumber,1А к4,1
+addr:housenumber,1А к5,1
+addr:housenumber,1А с1,1
+addr:housenumber,1А с2,1
+addr:housenumber,1А с4,1
+addr:housenumber,1А с5,1
+addr:housenumber,1А с7,1
+addr:housenumber,1А с8,1
+addr:housenumber,1А/29 с1,1
+addr:housenumber,1Б,1
+addr:housenumber,1Б с1,1
+addr:housenumber,1Б с3,1
+addr:housenumber,1а,2
+addr:housenumber,2,48
+addr:housenumber,2 c1,1
+addr:housenumber,2 к1,14
+addr:housenumber,2 к2,8
+addr:housenumber,2 к3,4
+addr:housenumber,2 к4,1
+addr:housenumber,2 к5,3
+addr:housenumber,2 к6,2
+addr:housenumber,2 к7,3
+addr:housenumber,2 к8,1
+addr:housenumber,2 с1,5
+addr:housenumber,2 с11,1
+addr:housenumber,2 с12,1
+addr:housenumber,2 с18,1
+addr:housenumber,2 с2,6
+addr:housenumber,2 с24,1
+addr:housenumber,2 с3,4
+addr:housenumber,2 с4,3
+addr:housenumber,2 с49,1
+addr:housenumber,2 с5,1
+addr:housenumber,2 с6,2
+addr:housenumber,2 с8,3
+addr:housenumber,2 с86,1
+addr:housenumber,2/1 к1Б,1
+addr:housenumber,2/1 к2,5
+addr:housenumber,2/1 к3,3
+addr:housenumber,2/1 к4,4
+addr:housenumber,2/1 к5,3
+addr:housenumber,2/1 с1,2
+addr:housenumber,2/10,1
+addr:housenumber,2/14,1
+addr:housenumber,2/15 с1,1
+addr:housenumber,2/2 к1,1
+addr:housenumber,2/2 к2,1
+addr:housenumber,2/2 с6,1
+addr:housenumber,2/3,2
+addr:housenumber,2/7,1
+addr:housenumber,2/8 к4,1
+addr:housenumber,2/8 к5,1
+addr:housenumber,20,16
+addr:housenumber,20 к1,5
+addr:housenumber,20 к2,3
+addr:housenumber,20 к3,1
+addr:housenumber,20 с1,2
+addr:housenumber,20 с2,2
+addr:housenumber,20 с3,1
+addr:housenumber,20-22,1
+addr:housenumber,20/1,1
+addr:housenumber,20/3 с2,1
+addr:housenumber,20/4,1
+addr:housenumber,20А,5
+addr:housenumber,20А с2,1
+addr:housenumber,20А с8,1
+addr:housenumber,21,15
+addr:housenumber,21 c1,1
+addr:housenumber,21 к1,5
+addr:housenumber,21 к1 с2,1
+addr:housenumber,21 к2,2
+addr:housenumber,21 к4,1
+addr:housenumber,21 к5,1
+addr:housenumber,21 к6,1
+addr:housenumber,21 с1,3
+addr:housenumber,21 с10,1
+addr:housenumber,21 с11,1
+addr:housenumber,21 с7,1
+addr:housenumber,21 с9,1
+addr:housenumber,21/24,1
+addr:housenumber,21/34,1
+addr:housenumber,21/8 с5,1
+addr:housenumber,211 к2,1
+addr:housenumber,21А,2
+addr:housenumber,21А с4,1
+addr:housenumber,22,14
+addr:housenumber,22 к1,1
+addr:housenumber,22 к2,2
+addr:housenumber,22 к3,1
+addr:housenumber,22 к6,1
+addr:housenumber,22 с1,2
+addr:housenumber,22 с2,2
+addr:housenumber,22-24,1
+addr:housenumber,22/2,1
+addr:housenumber,228 к3,1
+addr:housenumber,22А,2
+addr:housenumber,22Б с1,1
+addr:housenumber,23,14
+addr:housenumber,23 к1,1
+addr:housenumber,23 к2,4
+addr:housenumber,23 с1,2
+addr:housenumber,23 с120,1
+addr:housenumber,23 с2,2
+addr:housenumber,23 с3,1
+addr:housenumber,23 с5,2
+addr:housenumber,23 с6,1
+addr:housenumber,23 с7,1
+addr:housenumber,23 с9,1
+addr:housenumber,23 с931,1
+addr:housenumber,23-41,2
+addr:housenumber,23А,4
+addr:housenumber,23А к3,1
+addr:housenumber,23Б к2,1
+addr:housenumber,23стр3,1
+addr:housenumber,24,11
+addr:housenumber,24 к1,4
+addr:housenumber,24 к19,1
+addr:housenumber,24 к2,5
+addr:housenumber,24 к3,2
+addr:housenumber,24 с1,2
+addr:housenumber,24 с12,1
+addr:housenumber,24 с18,1
+addr:housenumber,24 с2,2
+addr:housenumber,24 с20,1
+addr:housenumber,24 с22,1
+addr:housenumber,24 с23,1
+addr:housenumber,24 с31,1
+addr:housenumber,24 с32,1
+addr:housenumber,24 с33,1
+addr:housenumber,24 с40,1
+addr:housenumber,24 с41,1
+addr:housenumber,24 с49,1
+addr:housenumber,24 с4В,1
+addr:housenumber,24 с5,1
+addr:housenumber,24 с50,1
+addr:housenumber,24 с7,1
+addr:housenumber,24 с9,2
+addr:housenumber,24А,2
+addr:housenumber,24А с2,1
+addr:housenumber,25,11
+addr:housenumber,25 c1,1
+addr:housenumber,25 к1,6
+addr:housenumber,25 к2,3
+addr:housenumber,25 к3,1
+addr:housenumber,25 к4,1
+addr:housenumber,25 с1,2
+addr:housenumber,25А,3
+addr:housenumber,25А с2,1
+addr:housenumber,25А с3,1
+addr:housenumber,26,8
+addr:housenumber,26 к1,1
+addr:housenumber,26 к2,1
+addr:housenumber,26 к4,1
+addr:housenumber,26 с1,7
+addr:housenumber,26 с2,1
+addr:housenumber,26 с3,1
+addr:housenumber,26 с6,1
+addr:housenumber,26/1,1
+addr:housenumber,26А,1
+addr:housenumber,26А с4,1
+addr:housenumber,26Г,2
+addr:housenumber,26к1,2
+addr:housenumber,27,6
+addr:housenumber,27 к1,4
+addr:housenumber,27 к2,2
+addr:housenumber,27 к3,3
+addr:housenumber,27 к4,1
+addr:housenumber,27 к5,1
+addr:housenumber,27 к6,1
+addr:housenumber,27 с1,1
+addr:housenumber,27 с2,1
+addr:housenumber,27 с8,1
+addr:housenumber,27 с9,1
+addr:housenumber,27/35 с1,1
+addr:housenumber,27А/8 с1,1
+addr:housenumber,27Б,1
+addr:housenumber,28,14
+addr:housenumber,28 к1,2
+addr:housenumber,28 к2,2
+addr:housenumber,28 с1,2
+addr:housenumber,28 с2,2
+addr:housenumber,28/4 к1,1
+addr:housenumber,28/4 к3,1
+addr:housenumber,282 к1,1
+addr:housenumber,282 к2,1
+addr:housenumber,282 к3,1
+addr:housenumber,284 к1,1
+addr:housenumber,284 к2,1
+addr:housenumber,284 к3,1
+addr:housenumber,284 к4,1
+addr:housenumber,28А,1
+addr:housenumber,28А к1,1
+addr:housenumber,28Б с3,1
+addr:housenumber,29,5
+addr:housenumber,29 к1,3
+addr:housenumber,29 к2,2
+addr:housenumber,29 к3,1
+addr:housenumber,29 к4,1
+addr:housenumber,29 к5,1
+addr:housenumber,29 с1,2
+addr:housenumber,29 с2,1
+addr:housenumber,29 с3,1
+addr:housenumber,29 с4,1
+addr:housenumber,29-33 с2,1
+addr:housenumber,29А к3,1
+addr:housenumber,2А,6
+addr:housenumber,2А к1,2
+addr:housenumber,2А к2,2
+addr:housenumber,2А к3,2
+addr:housenumber,2А к4,1
+addr:housenumber,2А с1,2
+addr:housenumber,2А с3,2
+addr:housenumber,2Б,2
+addr:housenumber,2В к1,1
+addr:housenumber,2В к2,1
+addr:housenumber,2В к3,1
+addr:housenumber,2В к4,1
+addr:housenumber,2В к5,1
+addr:housenumber,2В к6,1
+addr:housenumber,3,44
+addr:housenumber,3 c5,1
+addr:housenumber,3 к1,18
+addr:housenumber,3 к16,1
+addr:housenumber,3 к2,10
+addr:housenumber,3 к2 с4,1
+addr:housenumber,3 к3,6
+addr:housenumber,3 к4,3
+addr:housenumber,3 к5,4
+addr:housenumber,3 к6,3
+addr:housenumber,3 к7,2
+addr:housenumber,3 к8,1
+addr:housenumber,3 с1,11
+addr:housenumber,3 с14А,1
+addr:housenumber,3 с2,6
+addr:housenumber,3 с29,1
+addr:housenumber,3 с3,5
+addr:housenumber,3 с4,2
+addr:housenumber,3 с5,3
+addr:housenumber,3 с6,1
+addr:housenumber,3 с7,1
+addr:housenumber,3 с87,1
+addr:housenumber,3 с88,1
+addr:housenumber,3-5 с1,1
+addr:housenumber,3-5 с13,1
+addr:housenumber,3/1 к5,1
+addr:housenumber,3/10 с2,1
+addr:housenumber,3/10 с7,1
+addr:housenumber,3/10 с8,1
+addr:housenumber,3/13 с1,1
+addr:housenumber,3/13 с4,1
+addr:housenumber,3/2,1
+addr:housenumber,3/5,1
+addr:housenumber,3/6,1
+addr:housenumber,30,11
+addr:housenumber,30 к1,1
+addr:housenumber,30 к2,1
+addr:housenumber,30 к3,1
+addr:housenumber,30 с1,1
+addr:housenumber,30 с2,1
+addr:housenumber,30 с6,1
+addr:housenumber,30-36 с1,1
+addr:housenumber,30-36 с2,1
+addr:housenumber,30А,2
+addr:housenumber,30А к1,1
+addr:housenumber,30А к4,1
+addr:housenumber,30А к6,1
+addr:housenumber,30Б,2
+addr:housenumber,31,5
+addr:housenumber,31 к1,2
+addr:housenumber,31 к2,1
+addr:housenumber,31 с1,2
+addr:housenumber,31 с20,1
+addr:housenumber,31/4,1
+addr:housenumber,31А,1
+addr:housenumber,32,8
+addr:housenumber,32 к1,1
+addr:housenumber,32 к2,1
+addr:housenumber,32 к3,1
+addr:housenumber,32 к8,1
+addr:housenumber,32 с5,1
+addr:housenumber,32/3 к3,1
+addr:housenumber,32/3 к4,1
+addr:housenumber,32/3 к5,1
+addr:housenumber,32/3 к6,1
+addr:housenumber,32/3 к7,1
+addr:housenumber,32А,2
+addr:housenumber,33,3
+addr:housenumber,33 к2,1
+addr:housenumber,33 к4,1
+addr:housenumber,33 с1,2
+addr:housenumber,33 с15,1
+addr:housenumber,33 с16,1
+addr:housenumber,33 с30,1
+addr:housenumber,33 с31,1
+addr:housenumber,33 с32,1
+addr:housenumber,33 с5,1
+addr:housenumber,33/41 с1,1
+addr:housenumber,33/41 с2,1
+addr:housenumber,33/41 с3,1
+addr:housenumber,33А,1
+addr:housenumber,34,5
+addr:housenumber,34 к1,3
+addr:housenumber,34 к2,3
+addr:housenumber,34 к3,3
+addr:housenumber,34 к4,2
+addr:housenumber,34 к6,1
+addr:housenumber,34 с10,1
+addr:housenumber,34 с13,1
+addr:housenumber,34 с2,1
+addr:housenumber,34 с3,1
+addr:housenumber,34 с5,1
+addr:housenumber,34 с6,1
+addr:housenumber,34 с7,1
+addr:housenumber,34 с8,1
+addr:housenumber,34/29,1
+addr:housenumber,35,6
+addr:housenumber,35 к1,1
+addr:housenumber,35 к2,1
+addr:housenumber,35 с1,3
+addr:housenumber,35 с2,1
+addr:housenumber,35 с3,1
+addr:housenumber,35 с49,1
+addr:housenumber,35Б к2,1
+addr:housenumber,35В,1
+addr:housenumber,35Г,1
+addr:housenumber,36,3
+addr:housenumber,36 к1,1
+addr:housenumber,36 к2,1
+addr:housenumber,36 с1,2
+addr:housenumber,36 с3,1
+addr:housenumber,36 с41,2
+addr:housenumber,36/11,1
+addr:housenumber,36/11 с1,1
+addr:housenumber,36/40,1
+addr:housenumber,36А,1
+addr:housenumber,37,3
+addr:housenumber,37 к1,2
+addr:housenumber,37 к2,1
+addr:housenumber,37 к2 с4,1
+addr:housenumber,37 с1,2
+addr:housenumber,37 с3,1
+addr:housenumber,37 с4,1
+addr:housenumber,37/3,1
+addr:housenumber,37/4,1
+addr:housenumber,37/5,1
+addr:housenumber,37/6,1
+addr:housenumber,37/7,1
+addr:housenumber,37А с1,2
+addr:housenumber,37Б,1
+addr:housenumber,38,3
+addr:housenumber,38 к1,4
+addr:housenumber,38 к2,2
+addr:housenumber,38 к3,1
+addr:housenumber,38 с1,2
+addr:housenumber,38А к3,1
+addr:housenumber,38Б к4,1
+addr:housenumber,39,4
+addr:housenumber,39 к1,1
+addr:housenumber,39 к2,1
+addr:housenumber,39 к3,1
+addr:housenumber,39 к6,1
+addr:housenumber,39 к8,1
+addr:housenumber,39 к9,1
+addr:housenumber,39 с1А,1
+addr:housenumber,39 с4,1
+addr:housenumber,39 с5,1
+addr:housenumber,39А,1
+addr:housenumber,39Б с3,1
+addr:housenumber,3А,9
+addr:housenumber,3А с1,1
+addr:housenumber,3В,1
+addr:housenumber,3с16,1
+addr:housenumber,4,50
+addr:housenumber,4 к1,9
+addr:housenumber,4 к1 с2,1
+addr:housenumber,4 к1 с4,1
+addr:housenumber,4 к10,1
+addr:housenumber,4 к2,9
+addr:housenumber,4 к3,4
+addr:housenumber,4 к4,2
+addr:housenumber,4 к5,2
+addr:housenumber,4 к6,1
+addr:housenumber,4 с1,10
+addr:housenumber,4 с2,4
+addr:housenumber,4 с24,1
+addr:housenumber,4 с3,6
+addr:housenumber,4 с4,3
+addr:housenumber,4 с5,2
+addr:housenumber,4 с7,2
+addr:housenumber,4/1,1
+addr:housenumber,4/2,1
+addr:housenumber,4/2 с8,1
+addr:housenumber,4/3,1
+addr:housenumber,4/5,1
+addr:housenumber,40,4
+addr:housenumber,40 к1,2
+addr:housenumber,40 к2,1
+addr:housenumber,40 к3,1
+addr:housenumber,40 к4,1
+addr:housenumber,40 к5,1
+addr:housenumber,40 с1,1
+addr:housenumber,40 с2,3
+addr:housenumber,40 с3,1
+addr:housenumber,40 с4,1
+addr:housenumber,40 с4А,1
+addr:housenumber,40 с5,1
+addr:housenumber,40 с6,1
+addr:housenumber,40-42,1
+addr:housenumber,40-42 с1,1
+addr:housenumber,41,5
+addr:housenumber,41 к2,1
+addr:housenumber,41 к4,1
+addr:housenumber,41 с1,1
+addr:housenumber,41 с12,1
+addr:housenumber,41 с13,1
+addr:housenumber,41 с14,1
+addr:housenumber,41 с4,1
+addr:housenumber,41 с63,1
+addr:housenumber,41 с7,1
+addr:housenumber,41 с8,1
+addr:housenumber,41 с9,1
+addr:housenumber,42,4
+addr:housenumber,42 к12,1
+addr:housenumber,42 к2,4
+addr:housenumber,42 к3,1
+addr:housenumber,42 к4,1
+addr:housenumber,42 к5,1
+addr:housenumber,42 с4,1
+addr:housenumber,42/2,1
+addr:housenumber,42Б,1
+addr:housenumber,43,4
+addr:housenumber,43 к1,1
+addr:housenumber,43 к2,3
+addr:housenumber,43 к3,1
+addr:housenumber,43 к5,1
+addr:housenumber,43 с1,3
+addr:housenumber,43 с1Б,1
+addr:housenumber,43 с2,1
+addr:housenumber,43-45 с1,1
+addr:housenumber,44,3
+addr:housenumber,44 к1,1
+addr:housenumber,44 к2,1
+addr:housenumber,44 к3,1
+addr:housenumber,44 с5,1
+addr:housenumber,44/2,1
+addr:housenumber,44А,1
+addr:housenumber,44А с1,1
+addr:housenumber,45,3
+addr:housenumber,45 к1,1
+addr:housenumber,45 к2,2
+addr:housenumber,45 с1,2
+addr:housenumber,45 с2,1
+addr:housenumber,45 с3,1
+addr:housenumber,45/1 с2А,1
+addr:housenumber,46,5
+addr:housenumber,46 к4,1
+addr:housenumber,46 к5,1
+addr:housenumber,46 к6,1
+addr:housenumber,46 с1,1
+addr:housenumber,46 с2,1
+addr:housenumber,46 с3,1
+addr:housenumber,46/15,1
+addr:housenumber,47,2
+addr:housenumber,47 с1,2
+addr:housenumber,47/7 с2,1
+addr:housenumber,47А,2
+addr:housenumber,48,3
+addr:housenumber,48 к1,4
+addr:housenumber,48 к2,1
+addr:housenumber,48 с1,2
+addr:housenumber,48 с2,1
+addr:housenumber,48 с3,1
+addr:housenumber,48/8 с5,1
+addr:housenumber,49,6
+addr:housenumber,49 с2,1
+addr:housenumber,4А,9
+addr:housenumber,4А с1,1
+addr:housenumber,4Б,1
+addr:housenumber,4В,1
+addr:housenumber,4Д,1
+addr:housenumber,4Д к1,1
+addr:housenumber,4Д к2,1
+addr:housenumber,4Д к3,1
+addr:housenumber,5,38
+addr:housenumber,5 к1,11
+addr:housenumber,5 к1 с3,1
+addr:housenumber,5 к10,1
+addr:housenumber,5 к2,13
+addr:housenumber,5 к3,5
+addr:housenumber,5 к4,2
+addr:housenumber,5 к5,1
+addr:housenumber,5 к6,1
+addr:housenumber,5 к7,1
+addr:housenumber,5 к8,1
+addr:housenumber,5 с1,10
+addr:housenumber,5 с10,1
+addr:housenumber,5 с11,2
+addr:housenumber,5 с12,1
+addr:housenumber,5 с16,1
+addr:housenumber,5 с17,1
+addr:housenumber,5 с19,2
+addr:housenumber,5 с2,4
+addr:housenumber,5 с24,1
+addr:housenumber,5 с3,3
+addr:housenumber,5 с4,1
+addr:housenumber,5 с6,3
+addr:housenumber,5 с7,1
+addr:housenumber,5 с9,2
+addr:housenumber,5 сБ,1
+addr:housenumber,5/1,1
+addr:housenumber,5/1 с2,1
+addr:housenumber,5/1 с3,1
+addr:housenumber,5/1к1,1
+addr:housenumber,5/3,1
+addr:housenumber,5/6,1
+addr:housenumber,5/8,1
+addr:housenumber,50,2
+addr:housenumber,50 к1,1
+addr:housenumber,50 с3,1
+addr:housenumber,51,3
+addr:housenumber,51 к2,1
+addr:housenumber,51 к3,1
+addr:housenumber,51 с2,1
+addr:housenumber,52,1
+addr:housenumber,52 к1,1
+addr:housenumber,52 с1,2
+addr:housenumber,52/16 с1,1
+addr:housenumber,52/2,1
+addr:housenumber,53,2
+addr:housenumber,54,2
+addr:housenumber,54 с1,1
+addr:housenumber,54 с10,1
+addr:housenumber,54 с16,1
+addr:housenumber,54 с2,1
+addr:housenumber,54 с43,1
+addr:housenumber,54 с6,1
+addr:housenumber,54 с7,1
+addr:housenumber,55,6
+addr:housenumber,55А,1
+addr:housenumber,56/2,1
+addr:housenumber,56/2 с1,1
+addr:housenumber,57,2
+addr:housenumber,57 к2,2
+addr:housenumber,57 с10,1
+addr:housenumber,57 с11,1
+addr:housenumber,57 с3,1
+addr:housenumber,57 с76,1
+addr:housenumber,58,3
+addr:housenumber,58 с1,1
+addr:housenumber,58 с31,1
+addr:housenumber,58/23,1
+addr:housenumber,58Б,1
+addr:housenumber,59,1
+addr:housenumber,59А,2
+addr:housenumber,59А с2А,1
+addr:housenumber,5А,9
+addr:housenumber,5А к1,3
+addr:housenumber,5А к2,3
+addr:housenumber,5А к3,1
+addr:housenumber,5А к4,1
+addr:housenumber,5А к5,1
+addr:housenumber,5А к6,2
+addr:housenumber,5А к7,1
+addr:housenumber,5А с1,3
+addr:housenumber,5А с4,1
+addr:housenumber,5А с8,1
+addr:housenumber,5Д с1,1
+addr:housenumber,5с5,1
+addr:housenumber,6,37
+addr:housenumber,6 к1,8
+addr:housenumber,6 к1 с1,2
+addr:housenumber,6 к1 с2,2
+addr:housenumber,6 к2,7
+addr:housenumber,6 к3,3
+addr:housenumber,6 с1,9
+addr:housenumber,6 с12,1
+addr:housenumber,6 с2,1
+addr:housenumber,6 с3,1
+addr:housenumber,6 с4,2
+addr:housenumber,6 с5,1
+addr:housenumber,6 с6,1
+addr:housenumber,6/1,1
+addr:housenumber,6/11,1
+addr:housenumber,6/2,1
+addr:housenumber,6/2 с1,1
+addr:housenumber,6/2 с10,1
+addr:housenumber,6/2 с2,2
+addr:housenumber,6/2 с8,1
+addr:housenumber,6/4 с1,1
+addr:housenumber,60,1
+addr:housenumber,60 к1,2
+addr:housenumber,60А,1
+addr:housenumber,60А с1,1
+addr:housenumber,61,1
+addr:housenumber,61 к1,1
+addr:housenumber,62,7
+addr:housenumber,62 с1 к4,1
+addr:housenumber,62 с1 к9,1
+addr:housenumber,63,2
+addr:housenumber,63 к1,1
+addr:housenumber,63 с1,1
+addr:housenumber,64,1
+addr:housenumber,64А с2,1
+addr:housenumber,65,1
+addr:housenumber,65 к1,1
+addr:housenumber,65 к2,1
+addr:housenumber,65 к3,1
+addr:housenumber,66,2
+addr:housenumber,66 к2,1
+addr:housenumber,67,2
+addr:housenumber,68 к3,1
+addr:housenumber,69,2
+addr:housenumber,69 к2,1
+addr:housenumber,69 к3,1
+addr:housenumber,6А,9
+addr:housenumber,6Б к2,1
+addr:housenumber,7,42
+addr:housenumber,7 c82,1
+addr:housenumber,7 к1,6
+addr:housenumber,7 к2,8
+addr:housenumber,7 к3,3
+addr:housenumber,7 к4,3
+addr:housenumber,7 к5,2
+addr:housenumber,7 к6,1
+addr:housenumber,7 с1,3
+addr:housenumber,7 с2,4
+addr:housenumber,7 с3,3
+addr:housenumber,7 с4,1
+addr:housenumber,7 с5,1
+addr:housenumber,7 с6,1
+addr:housenumber,7-9,1
+addr:housenumber,7/1,1
+addr:housenumber,7/10 с7,1
+addr:housenumber,7/5 с3,1
+addr:housenumber,7/8 с1,1
+addr:housenumber,7/9 с1,1
+addr:housenumber,70 к1,1
+addr:housenumber,71,2
+addr:housenumber,71 к1,1
+addr:housenumber,71 к2,1
+addr:housenumber,71 к4,1
+addr:housenumber,71 к5,1
+addr:housenumber,71 к8,1
+addr:housenumber,71 с2,1
+addr:housenumber,71/13 к1,1
+addr:housenumber,71/22 к2,1
+addr:housenumber,71А,1
+addr:housenumber,72А к1,1
+addr:housenumber,72А к2,1
+addr:housenumber,73,3
+addr:housenumber,73 к1,1
+addr:housenumber,73 к3,1
+addr:housenumber,73А,1
+addr:housenumber,73А с2,1
+addr:housenumber,73А с3,1
+addr:housenumber,73Б,1
+addr:housenumber,74,1
+addr:housenumber,74 к3,1
+addr:housenumber,74/1,1
+addr:housenumber,74А,1
+addr:housenumber,75,2
+addr:housenumber,75 к1,1
+addr:housenumber,76,1
+addr:housenumber,76 к2,1
+addr:housenumber,76 к5,1
+addr:housenumber,76 с1,1
+addr:housenumber,76 с4,1
+addr:housenumber,77,1
+addr:housenumber,77 к2,2
+addr:housenumber,77 с1,1
+addr:housenumber,77 с2,1
+addr:housenumber,77А,1
+addr:housenumber,78,1
+addr:housenumber,78 к2,1
+addr:housenumber,78 к3,1
+addr:housenumber,78 с2,1
+addr:housenumber,78 с3,1
+addr:housenumber,78 с5,1
+addr:housenumber,78 с6,1
+addr:housenumber,78 с7,1
+addr:housenumber,78А,1
+addr:housenumber,78с1,1
+addr:housenumber,79,3
+addr:housenumber,79 к1,3
+addr:housenumber,79 к19,1
+addr:housenumber,79 к4,1
+addr:housenumber,79 к8,1
+addr:housenumber,79 с1,1
+addr:housenumber,79 с28,1
+addr:housenumber,7А,5
+addr:housenumber,7А к30,1
+addr:housenumber,7А с26,1
+addr:housenumber,7А с3,1
+addr:housenumber,7А с4,1
+addr:housenumber,7А с6,1
+addr:housenumber,7с 71,1
+addr:housenumber,7с1,1
+addr:housenumber,8,24
+addr:housenumber,8 к1,10
+addr:housenumber,8 к12,1
+addr:housenumber,8 к2,11
+addr:housenumber,8 к3,3
+addr:housenumber,8 с1,11
+addr:housenumber,8 с1А,1
+addr:housenumber,8 с2,3
+addr:housenumber,8 с4,1
+addr:housenumber,8 с5,1
+addr:housenumber,8/15,1
+addr:housenumber,8/3 с1,1
+addr:housenumber,8/40,1
+addr:housenumber,8/5,1
+addr:housenumber,8/9,1
+addr:housenumber,80,1
+addr:housenumber,80 к1,1
+addr:housenumber,80 к2,2
+addr:housenumber,80 к3,1
+addr:housenumber,80А,2
+addr:housenumber,81,2
+addr:housenumber,81 с2,1
+addr:housenumber,81А,1
+addr:housenumber,81А с16,1
+addr:housenumber,81А с18,1
+addr:housenumber,84,1
+addr:housenumber,84 к1,1
+addr:housenumber,84 к2,1
+addr:housenumber,84 к3,1
+addr:housenumber,84 к4,1
+addr:housenumber,84 с1,1
+addr:housenumber,85,1
+addr:housenumber,85 с1,1
+addr:housenumber,85 с2,1
+addr:housenumber,86 с3,1
+addr:housenumber,86 с6,1
+addr:housenumber,86А к1,1
+addr:housenumber,86А к2,1
+addr:housenumber,86А к3,1
+addr:housenumber,87 к1,2
+addr:housenumber,87 к2,1
+addr:housenumber,87 к3,1
+addr:housenumber,87 к4,1
+addr:housenumber,87 к5,1
+addr:housenumber,88,1
+addr:housenumber,88 к1,1
+addr:housenumber,88 к2,1
+addr:housenumber,88 к3,1
+addr:housenumber,88 к3 с3,1
+addr:housenumber,89 к1,1
+addr:housenumber,89 к2,1
+addr:housenumber,8А,4
+addr:housenumber,8А с1,1
+addr:housenumber,8А с2,1
+addr:housenumber,8А с3,1
+addr:housenumber,8А с4,1
+addr:housenumber,8А с6,1
+addr:housenumber,8Б,3
+addr:housenumber,8Б с2,1
+addr:housenumber,9,30
+addr:housenumber,9 к1,14
+addr:housenumber,9 к2,7
+addr:housenumber,9 к3,4
+addr:housenumber,9 к4,3
+addr:housenumber,9 к6,2
+addr:housenumber,9 с1,7
+addr:housenumber,9 с11,1
+addr:housenumber,9 с12,1
+addr:housenumber,9 с18,1
+addr:housenumber,9 с2,1
+addr:housenumber,9 с3,1
+addr:housenumber,9 с4,2
+addr:housenumber,9 с5,1
+addr:housenumber,9 с6,1
+addr:housenumber,9 с8,1
+addr:housenumber,9 с9,1
+addr:housenumber,9/1,1
+addr:housenumber,9/23 с1,1
+addr:housenumber,9/25 с1,1
+addr:housenumber,9/28 с1,1
+addr:housenumber,9/7,1
+addr:housenumber,90 к1,1
+addr:housenumber,90 к2,1
+addr:housenumber,90 к3,1
+addr:housenumber,90 к4,1
+addr:housenumber,90 с1,2
+addr:housenumber,90 с12,1
+addr:housenumber,90 с2,2
+addr:housenumber,90 с3,1
+addr:housenumber,90 с6,1
+addr:housenumber,91,1
+addr:housenumber,91 к1,1
+addr:housenumber,91 к2,1
+addr:housenumber,92 к1,1
+addr:housenumber,92 к2,1
+addr:housenumber,92 к3,1
+addr:housenumber,93,2
+addr:housenumber,93 с2,1
+addr:housenumber,94,1
+addr:housenumber,94 к1,1
+addr:housenumber,94 к2,1
+addr:housenumber,94А,1
+addr:housenumber,95,2
+addr:housenumber,95 к11,1
+addr:housenumber,95 с2,1
+addr:housenumber,95Б к2,1
+addr:housenumber,96 к2,1
+addr:housenumber,96А,1
+addr:housenumber,98 к1,1
+addr:housenumber,98 к10,1
+addr:housenumber,98А,1
+addr:housenumber,99,1
+addr:housenumber,9А,4
+addr:housenumber,9А с1,1
+addr:housenumber,9А с2,1
+addr:housenumber,вл112,1
+addr:housenumber,вл12 к4,1
+addr:housenumber,вл133Г с1,1
+addr:housenumber,вл2 к2,1
+addr:housenumber,вл4,1
+addr:housenumber,вл41,1
+addr:housenumber,вл45,1
+addr:housenumber,вл6 с4,1
+addr:housenumber,вл8 к1,1
+addr:housenumber,к14,1
+addr:housenumber,к809,1
+addr:housenumber,к809А,1
+addr:housenumber,к810,1
+addr:housenumber,лит Г,1
+addr:place,3-й квартал Капотня,1
+addr:place,3-я Хорошевская улица,1
+addr:place,5-й квартал Капотня,3
+addr:place,Квартал №100,3
+addr:place,Кремль,10
+addr:place,Мостовая улица,1
+addr:place,квартал 27,1
+addr:place,квартал Грайвороново 90А,1
+addr:place,квартал № 4,2
+addr:place,микрорайон Северное Чертаново,3
+addr:postcode,101000,1
+addr:postcode,103073,11
+addr:postcode,105005,3
+addr:postcode,105037,3
+addr:postcode,105062,1
+addr:postcode,105064,6
+addr:postcode,105082,8
+addr:postcode,105094,1
+addr:postcode,105118,1
+addr:postcode,105187,2
+addr:postcode,105275,3
+addr:postcode,105318,3
+addr:postcode,105425,1
+addr:postcode,105484,1
+addr:postcode,105568,1
+addr:postcode,107014,3
+addr:postcode,107023,3
+addr:postcode,107031,2
+addr:postcode,107045,3
+addr:postcode,107061,1
+addr:postcode,107076,2
+addr:postcode,107078,7
+addr:postcode,107113,1
+addr:postcode,107140,22
+addr:postcode,107143,2
+addr:postcode,107370,9
+addr:postcode,107497,4
+addr:postcode,107553,4
+addr:postcode,107564,1
+addr:postcode,107589,1
+addr:postcode,108801,45
+addr:postcode,108802,4
+addr:postcode,108811,12
+addr:postcode,108814,34
+addr:postcode,108815,1
+addr:postcode,108816,2
+addr:postcode,108818,6
+addr:postcode,108823,4
+addr:postcode,108836,13
+addr:postcode,108849,4
+addr:postcode,108850,5
+addr:postcode,109012,6
+addr:postcode,109028,4
+addr:postcode,109052,35
+addr:postcode,109117,3
+addr:postcode,109125,7
+addr:postcode,109145,6
+addr:postcode,109147,15
+addr:postcode,109156,1
+addr:postcode,109202,3
+addr:postcode,109240,1
+addr:postcode,109316,15
+addr:postcode,109378,2
+addr:postcode,109382,10
+addr:postcode,109387,4
+addr:postcode,109390,2
+addr:postcode,109391,2
+addr:postcode,109428,8
+addr:postcode,109429,1
+addr:postcode,109443,2
+addr:postcode,109451,3
+addr:postcode,109457,1
+addr:postcode,109462,2
+addr:postcode,109469,1
+addr:postcode,109518,7
+addr:postcode,109542,3
+addr:postcode,109544,1
+addr:postcode,109559,5
+addr:postcode,109651,5
+addr:postcode,109652,1
+addr:postcode,111020,1
+addr:postcode,111024,16
+addr:postcode,111116,1
+addr:postcode,111123,6
+addr:postcode,111250,16
+addr:postcode,111402,5
+addr:postcode,111538,2
+addr:postcode,111673,1
+addr:postcode,111675,2
+addr:postcode,111677,21
+addr:postcode,11250,1
+addr:postcode,115035,2
+addr:postcode,115054,2
+addr:postcode,115088,2
+addr:postcode,115093,1
+addr:postcode,115114,4
+addr:postcode,115142,9
+addr:postcode,115162,6
+addr:postcode,115172,1
+addr:postcode,115184,6
+addr:postcode,115191,6
+addr:postcode,115201,7
+addr:postcode,115211,6
+addr:postcode,115230,2
+addr:postcode,115280,9
+addr:postcode,115304,1
+addr:postcode,115409,1
+addr:postcode,115419,4
+addr:postcode,115432,30
+addr:postcode,115477,1
+addr:postcode,115487,2
+addr:postcode,115551,1
+addr:postcode,115563,1
+addr:postcode,115569,1
+addr:postcode,115583,7
+addr:postcode,117042,3
+addr:postcode,117105,1
+addr:postcode,117186,2
+addr:postcode,117216,5
+addr:postcode,117218,1
+addr:postcode,117246,2
+addr:postcode,117279,1
+addr:postcode,117335,1
+addr:postcode,117393,1
+addr:postcode,117405,10
+addr:postcode,117418,7
+addr:postcode,117420,1
+addr:postcode,117452,9
+addr:postcode,117461,3
+addr:postcode,117485,1
+addr:postcode,117519,2
+addr:postcode,117534,1
+addr:postcode,117535,1
+addr:postcode,117546,1
+addr:postcode,117556,1
+addr:postcode,117574,1
+addr:postcode,117587,1
+addr:postcode,117593,25
+addr:postcode,117624,3
+addr:postcode,117628,1
+addr:postcode,117630,1
+addr:postcode,117647,2
+addr:postcode,117648,3
+addr:postcode,119002,2
+addr:postcode,119019,12
+addr:postcode,119021,1
+addr:postcode,119034,3
+addr:postcode,119048,25
+addr:postcode,119049,5
+addr:postcode,119071,2
+addr:postcode,119072,22
+addr:postcode,119121,5
+addr:postcode,119146,1
+addr:postcode,119180,2
+addr:postcode,119192,1
+addr:postcode,119261,1
+addr:postcode,119285,10
+addr:postcode,119297,6
+addr:postcode,119330,2
+addr:postcode,119334,1
+addr:postcode,119361,9
+addr:postcode,119415,7
+addr:postcode,119421,9
+addr:postcode,119435,3
+addr:postcode,119454,1
+addr:postcode,119501,4
+addr:postcode,119526,1
+addr:postcode,119530,4
+addr:postcode,119571,2
+addr:postcode,119602,5
+addr:postcode,119607,1
+addr:postcode,119618,23
+addr:postcode,119619,10
+addr:postcode,119633,3
+addr:postcode,121059,2
+addr:postcode,121069,3
+addr:postcode,121087,16
+addr:postcode,121096,1
+addr:postcode,121099,5
+addr:postcode,121108,2
+addr:postcode,121170,2
+addr:postcode,121248,2
+addr:postcode,121351,12
+addr:postcode,121353,3
+addr:postcode,121354,4
+addr:postcode,121357,2
+addr:postcode,121359,1
+addr:postcode,121374,2
+addr:postcode,121451,1
+addr:postcode,121471,12
+addr:postcode,121500,3
+addr:postcode,121552,22
+addr:postcode,121596,1
+addr:postcode,121614,6
+addr:postcode,123001,1
+addr:postcode,123007,3
+addr:postcode,123022,3
+addr:postcode,123056,6
+addr:postcode,123060,7
+addr:postcode,123098,1
+addr:postcode,123100,12
+addr:postcode,123103,2
+addr:postcode,123104,2
+addr:postcode,123112,2
+addr:postcode,123154,3
+addr:postcode,123181,8
+addr:postcode,123182,5
+addr:postcode,123242,2
+addr:postcode,123290,20
+addr:postcode,123298,9
+addr:postcode,123308,4
+addr:postcode,123317,2
+addr:postcode,123423,14
+addr:postcode,123458,2
+addr:postcode,123557,1
+addr:postcode,123592,1
+addr:postcode,125009,8
+addr:postcode,125040,5
+addr:postcode,125047,47
+addr:postcode,125124,1
+addr:postcode,125130,1
+addr:postcode,125167,14
+addr:postcode,125171,2
+addr:postcode,125195,1
+addr:postcode,125206,2
+addr:postcode,125212,6
+addr:postcode,125252,2
+addr:postcode,125284,7
+addr:postcode,125310,5
+addr:postcode,125315,3
+addr:postcode,125319,3
+addr:postcode,125363,4
+addr:postcode,125364,3
+addr:postcode,125371,1
+addr:postcode,125373,1
+addr:postcode,125412,1
+addr:postcode,125424,8
+addr:postcode,125430,3
+addr:postcode,125438,1
+addr:postcode,125445,9
+addr:postcode,125459,2
+addr:postcode,125464,1
+addr:postcode,125466,1
+addr:postcode,125475,2
+addr:postcode,125480,10
+addr:postcode,125481,2
+addr:postcode,125493,2
+addr:postcode,125499,1
+addr:postcode,125504,7
+addr:postcode,125565,1
+addr:postcode,125581,1
+addr:postcode,125599,1
+addr:postcode,125993,1
+addr:postcode,127006,6
+addr:postcode,127015,3
+addr:postcode,127018,8
+addr:postcode,127030,1
+addr:postcode,127081,6
+addr:postcode,127083,6
+addr:postcode,127106,5
+addr:postcode,127204,1
+addr:postcode,127206,2
+addr:postcode,127238,10
+addr:postcode,127247,8
+addr:postcode,127253,2
+addr:postcode,127254,1
+addr:postcode,127273,4
+addr:postcode,127276,2
+addr:postcode,127282,1
+addr:postcode,127322,1
+addr:postcode,127343,1
+addr:postcode,127411,1
+addr:postcode,127422,4
+addr:postcode,127434,5
+addr:postcode,127473,1
+addr:postcode,127474,5
+addr:postcode,127486,6
+addr:postcode,127495,4
+addr:postcode,127540,1
+addr:postcode,127543,1
+addr:postcode,127549,2
+addr:postcode,127550,2
+addr:postcode,127560,12
+addr:postcode,127562,7
+addr:postcode,127566,9
+addr:postcode,127576,1
+addr:postcode,127591,1
+addr:postcode,127644,2
+addr:postcode,129075,4
+addr:postcode,129085,4
+addr:postcode,129090,2
+addr:postcode,129110,2
+addr:postcode,129164,1
+addr:postcode,129223,1
+addr:postcode,129226,2
+addr:postcode,129272,1
+addr:postcode,129301,1
+addr:postcode,129323,17
+addr:postcode,129327,2
+addr:postcode,129329,1
+addr:postcode,129337,5
+addr:postcode,129343,2
+addr:postcode,129344,3
+addr:postcode,129345,2
+addr:postcode,129347,1
+addr:postcode,129626,15
+addr:postcode,141411,1
+addr:postcode,141431,1
+addr:street,1-й Бабьегородский переулок,1
+addr:street,1-й Басманный переулок,1
+addr:street,1-й Волоколамский проезд,1
+addr:street,1-й Вязовский проезд,1
+addr:street,1-й Грайвороновский проезд,1
+addr:street,1-й Иртышский проезд,1
+addr:street,1-й Кадашёвский переулок,2
+addr:street,1-й Котельнический переулок,1
+addr:street,1-й Котляковский переулок,6
+addr:street,1-й Красногвардейский проезд,2
+addr:street,1-й Красногорский проезд,1
+addr:street,1-й Магистральный проезд,1
+addr:street,1-й Митинский переулок,1
+addr:street,1-й Новый переулок,1
+addr:street,1-й Пехотный переулок,1
+addr:street,1-й Саратовский проезд,1
+addr:street,1-й Смоленский переулок,1
+addr:street,1-й Стрелецкий проезд,1
+addr:street,1-й Тверской-Ямской переулок,1
+addr:street,1-й Хорошёвский проезд,1
+addr:street,1-й переулок Тружеников,2
+addr:street,1-я Аэропортовская улица,1
+addr:street,1-я Брестская улица,2
+addr:street,1-я Квесисская улица,4
+addr:street,1-я Магистральная улица,2
+addr:street,1-я Мясниковская улица,1
+addr:street,1-я Нововатутинская улица,2
+addr:street,1-я Останкинская улица,1
+addr:street,1-я Парковая улица,1
+addr:street,1-я Прядильная улица,1
+addr:street,1-я Тверская-Ямская улица,7
+addr:street,1-я Ямская улица,2
+addr:street,1-я улица Машиностроения,2
+addr:street,1-я улица Текстильщиков,1
+addr:street,2-й Вражский переулок,1
+addr:street,2-й Вязовский проезд,4
+addr:street,2-й Грайвороновский проезд,5
+addr:street,2-й Донской проезд,2
+addr:street,2-й Кадашёвский переулок,5
+addr:street,2-й Красносельский переулок,1
+addr:street,2-й Лесной переулок,1
+addr:street,2-й Магистральный тупик,3
+addr:street,2-й Нагатинский проезд,2
+addr:street,2-й Новый переулок,1
+addr:street,2-й переулок Петра Алексеева,1
+addr:street,2-я Бауманская улица,2
+addr:street,2-я Боевская улица,1
+addr:street,2-я Брестская улица,6
+addr:street,2-я Квесисская улица,2
+addr:street,2-я Пугачёвская улица,2
+addr:street,2-я Рощинская улица,1
+addr:street,2-я Хуторская улица,2
+addr:street,2-я Черногрязская улица,2
+addr:street,2-я улица Бебеля,1
+addr:street,3-й Автозаводский проезд,1
+addr:street,3-й Нижнелихоборский проезд,3
+addr:street,3-й Новый переулок,2
+addr:street,3-й Павелецкий проезд,1
+addr:street,3-й Самотёчный переулок,1
+addr:street,3-й Хорошёвский проезд,3
+addr:street,3-я Нововатутинская улица,7
+addr:street,3-я Рыбинская улица,1
+addr:street,3-я Тверская-Ямская улица,1
+addr:street,3-я Хорошёвская улица,8
+addr:street,3-я Черепковская улица,16
+addr:street,3-я улица Ямского Поля,3
+addr:street,4-й Верхний Михайловский проезд,1
+addr:street,4-й Вятский переулок,2
+addr:street,4-й Добрынинский переулок,1
+addr:street,4-й Лесной переулок,2
+addr:street,4-й Лихачёвский переулок,1
+addr:street,4-й Новомихалковский проезд,1
+addr:street,4-я Тверская-Ямская улица,13
+addr:street,5-я Кабельная улица,1
+addr:street,5-я Нововатутинская улица,1
+addr:street,7-й Ростовский переулок,2
+addr:street,9-я Парковая улица,1
+addr:street,Абельмановская улица,1
+addr:street,Абрамцевская улица,5
+addr:street,Абрикосовский переулок,3
+addr:street,Авиамоторная улица,7
+addr:street,Авиационная улица,3
+addr:street,Автозаводская улица,5
+addr:street,Азовская улица,1
+addr:street,Алтайская улица,1
+addr:street,Алтуфьевское шоссе,11
+addr:street,Аминьевское шоссе,3
+addr:street,Амурская улица,7
+addr:street,Ангарская улица,1
+addr:street,Ангелов переулок,1
+addr:street,Андреевская набережная,1
+addr:street,Аргуновская улица,1
+addr:street,Армянский переулок,1
+addr:street,Артековская улица,5
+addr:street,Астрадамская улица,1
+addr:street,Астраханский переулок,1
+addr:street,Бабаевская улица,1
+addr:street,Багратионовский проезд,1
+addr:street,Базовская улица,1
+addr:street,Байкальская улица,3
+addr:street,Бакунинская улица,3
+addr:street,Балаклавский проспект,2
+addr:street,Балтийская улица,1
+addr:street,Барвихинская улица,1
+addr:street,Баррикадная улица,1
+addr:street,Басманный переулок,4
+addr:street,Бачуринская улица,4
+addr:street,Башиловская улица,7
+addr:street,Беломорская улица,2
+addr:street,Белореченская улица,1
+addr:street,Береговая улица,1
+addr:street,Береговой проезд,9
+addr:street,Бережковская набережная,1
+addr:street,Берсеневская набережная,9
+addr:street,Берсеневский переулок,8
+addr:street,Берёзовая аллея,3
+addr:street,Бескудниковский бульвар,4
+addr:street,Бибиревская улица,2
+addr:street,Благовещенский переулок,4
+addr:street,Бобруйская улица,1
+addr:street,Богословский переулок,1
+addr:street,Болотная набережная,4
+addr:street,Болотная улица,3
+addr:street,Большая Академическая улица,7
+addr:street,Большая Андроньевская улица,1
+addr:street,Большая Бронная улица,1
+addr:street,Большая Грузинская улица,2
+addr:street,Большая Дорогомиловская улица,5
+addr:street,Большая Марфинская улица,12
+addr:street,Большая Набережная улица,3
+addr:street,Большая Никитская улица,3
+addr:street,Большая Новодмитровская улица,16
+addr:street,Большая Очаковская улица,2
+addr:street,Большая Пионерская улица,2
+addr:street,Большая Пироговская улица,6
+addr:street,Большая Почтовая улица,4
+addr:street,Большая Садовая улица,9
+addr:street,Большая Семёновская улица,3
+addr:street,Большая Спасская улица,3
+addr:street,Большая Сухаревская площадь,4
+addr:street,Большая Татарская улица,3
+addr:street,Большая Филёвская улица,6
+addr:street,Большая Черкизовская улица,1
+addr:street,Большая Черёмушкинская улица,1
+addr:street,Большая Юшуньская улица,1
+addr:street,Большой Козихинский переулок,3
+addr:street,Большой Коптевский проезд,2
+addr:street,Большой Николоворобинский переулок,1
+addr:street,Большой Овчинниковский переулок,1
+addr:street,Большой Ордынский переулок,4
+addr:street,Большой Саввинский переулок,6
+addr:street,Большой Сергиевский переулок,1
+addr:street,Большой Спасоглинищевский переулок,1
+addr:street,Большой Строченовский переулок,1
+addr:street,Большой Тишинский переулок,1
+addr:street,Большой Черкасский переулок,4
+addr:street,Боровское шоссе,11
+addr:street,Ботаническая улица,8
+addr:street,Братиславская улица,2
+addr:street,Брянская улица,1
+addr:street,Бумажный проезд,4
+addr:street,Бутырская улица,9
+addr:street,Вагоноремонтная улица,2
+addr:street,Валовая улица,1
+addr:street,Варшавское шоссе,24
+addr:street,Васильевская улица,2
+addr:street,Велозаводская улица,2
+addr:street,Верхнелихоборская улица,3
+addr:street,Верхняя Красносельская улица,4
+addr:street,Верхняя Радищевская улица,1
+addr:street,Верхняя Сыромятническая улица,1
+addr:street,Верхняя улица,2
+addr:street,Весенняя улица,1
+addr:street,Веткина улица,1
+addr:street,Вешняковская улица,4
+addr:street,Вильнюсская улица,2
+addr:street,Витебская улица,1
+addr:street,Волгоградский проспект,12
+addr:street,Волжский бульвар,4
+addr:street,Волков переулок,2
+addr:street,Волоколамское шоссе,30
+addr:street,Вольная улица,2
+addr:street,Воронежская улица,2
+addr:street,Воронцовская улица,7
+addr:street,Воротынская улица,1
+addr:street,Востряковский проезд,1
+addr:street,Востряковское шоссе,4
+addr:street,Всеволожский переулок,1
+addr:street,Выборгская улица,1
+addr:street,Высоковольтный проезд,1
+addr:street,Вятская улица,2
+addr:street,Газгольдерная улица,1
+addr:street,Гжатская улица,8
+addr:street,Голиковский переулок,1
+addr:street,Головинское шоссе,2
+addr:street,Голубинская улица,9
+addr:street,Гончарный проезд,1
+addr:street,Гостиничная улица,4
+addr:street,Гостиничный проезд,1
+addr:street,Грайвороновская улица,1
+addr:street,Гранатный переулок,2
+addr:street,Гренадерская улица,3
+addr:street,Давыдовский переулок,1
+addr:street,Дегунинская улица,4
+addr:street,Дмитровский проезд,4
+addr:street,Дмитровское шоссе,64
+addr:street,Докучаев переулок,3
+addr:street,Долгоруковская улица,7
+addr:street,Домодедовская улица,1
+addr:street,Домостроительная улица,1
+addr:street,Донецкая улица,5
+addr:street,Донская улица,1
+addr:street,Дорожная улица,5
+addr:street,Дубининская улица,2
+addr:street,Дубнинская улица,15
+addr:street,Дубравная улица,6
+addr:street,Духовской переулок,1
+addr:street,Душинская улица,2
+addr:street,Елоховский проезд,2
+addr:street,Енисейская улица,2
+addr:street,Ермолаевский переулок,1
+addr:street,Жулебинский бульвар,6
+addr:street,Зарайская улица,4
+addr:street,Звенигородское шоссе,1
+addr:street,Звонарский переулок,2
+addr:street,Звёздный бульвар,2
+addr:street,Зеленодольская улица,1
+addr:street,Земледельческий переулок,2
+addr:street,Золоторожский проезд,1
+addr:street,Золотошвейная улица,1
+addr:street,Зубовская улица,2
+addr:street,Ивановская улица,1
+addr:street,Ижорская улица,1
+addr:street,Измайловский проезд,3
+addr:street,Измайловское шоссе,1
+addr:street,Изумрудная улица,1
+addr:street,Илимская улица,2
+addr:street,Ильменский проезд,6
+addr:street,Инженерная улица,1
+addr:street,Инициативная улица,2
+addr:street,Иркутская улица,1
+addr:street,Истринская улица,2
+addr:street,Кавказский бульвар,2
+addr:street,Кадашёвская набережная,2
+addr:street,Кадашёвский тупик,4
+addr:street,Казарменный переулок,1
+addr:street,Каланчёвская улица,4
+addr:street,Кантемировская улица,1
+addr:street,Карамышевская набережная,1
+addr:street,Карельский бульвар,10
+addr:street,Кастанаевская улица,2
+addr:street,Каширский проезд,4
+addr:street,Каширское шоссе,7
+addr:street,Керченская улица,1
+addr:street,Киевская улица,3
+addr:street,Киевское шоссе,1
+addr:street,Кировоградская улица,5
+addr:street,Китайгородский проезд,2
+addr:street,Климентовский переулок,2
+addr:street,Клинская улица,1
+addr:street,Клязьминская улица,5
+addr:street,Колодезный переулок,1
+addr:street,Коломенская улица,1
+addr:street,Кольская улица,1
+addr:street,Комсомольская площадь,1
+addr:street,Комсомольский проспект,2
+addr:street,Корабельная улица,9
+addr:street,Коробейников переулок,1
+addr:street,Коровинское шоссе,3
+addr:street,Космодамианская набережная,2
+addr:street,Котельническая набережная,2
+addr:street,Красная площадь,2
+addr:street,Красноармейская улица,6
+addr:street,Краснобогатырская улица,2
+addr:street,Красноворотский проезд,1
+addr:street,Красногвардейский бульвар,1
+addr:street,Краснодарская улица,1
+addr:street,Красноказарменная улица,9
+addr:street,Краснопресненская набережная,1
+addr:street,Краснопрудная улица,10
+addr:street,Красностуденческий проезд,4
+addr:street,Кременчугская улица,1
+addr:street,Кремлёвская набережная,1
+addr:street,Кронштадтский бульвар,2
+addr:street,Крылатская улица,7
+addr:street,Куликовская улица,2
+addr:street,Куркинское шоссе,1
+addr:street,Кутузовский проезд,1
+addr:street,Кутузовский проспект,6
+addr:street,Лаврушинский переулок,2
+addr:street,Лазоревый проезд,10
+addr:street,Лебедянская улица,1
+addr:street,Ленинградский проспект,21
+addr:street,Ленинградское шоссе,7
+addr:street,Ленинский проспект,17
+addr:street,Леонтьевский переулок,1
+addr:street,Лермонтовский проспект,7
+addr:street,Лесная улица,7
+addr:street,Леснорядский переулок,2
+addr:street,Летняя улица,1
+addr:street,Липецкая улица,1
+addr:street,Лиственничная аллея,1
+addr:street,Литовский бульвар,8
+addr:street,Лобненская улица,8
+addr:street,Лодочная улица,1
+addr:street,Локомотивный проезд,2
+addr:street,Ломоносовский проспект,2
+addr:street,Лосиноостровская улица,1
+addr:street,Лубянский проезд,2
+addr:street,Лухмановская улица,2
+addr:street,Люблинская улица,17
+addr:street,Лётная улица,1
+addr:street,"МКАД, 14-й километр",1
+addr:street,"МКАД, 25-й километр",3
+addr:street,Малая Ботаническая улица,2
+addr:street,Малая Бронная улица,2
+addr:street,Малая Калужская улица,1
+addr:street,Малая Красносельская улица,2
+addr:street,Малая Очаковская улица,2
+addr:street,Малая Пироговская улица,5
+addr:street,Малая Семёновская улица,5
+addr:street,Малая Юшуньская улица,1
+addr:street,Маленковская улица,2
+addr:street,Маломосковская улица,1
+addr:street,Мантулинская улица,6
+addr:street,Марксистская улица,6
+addr:street,Матвеевская улица,3
+addr:street,Международное шоссе,1
+addr:street,Мельницкий переулок,1
+addr:street,Мерзляковский переулок,2
+addr:street,Минская улица,7
+addr:street,Митинская улица,9
+addr:street,Миусская площадь,2
+addr:street,Михалковская улица,1
+addr:street,Мичуринский проспект,5
+addr:street,Мишина улица,3
+addr:street,Можайское шоссе,1
+addr:street,Молодогвардейская улица,4
+addr:street,Моршанская улица,3
+addr:street,Москворецкая набережная,1
+addr:street,Мосфильмовская улица,3
+addr:street,Моховая улица,1
+addr:street,Мрузовский переулок,2
+addr:street,Мукомольный проезд,1
+addr:street,Муравская улица,5
+addr:street,Мурановская улица,2
+addr:street,Мытная улица,6
+addr:street,Мясницкая улица,3
+addr:street,Нагатинская улица,1
+addr:street,Нагорная улица,1
+addr:street,Нагорный бульвар,1
+addr:street,Напрудный переулок,1
+addr:street,Наставнический переулок,1
+addr:street,Неглинная улица,6
+addr:street,Нежинская улица,5
+addr:street,Нелидовская улица,3
+addr:street,Неманский проезд,2
+addr:street,Нижегородская улица,10
+addr:street,Нижний Журавлёв переулок,1
+addr:street,Нижний Сусальный переулок,5
+addr:street,Нижняя Красносельская улица,5
+addr:street,Никитинская улица,1
+addr:street,Никитский бульвар,3
+addr:street,Никольская улица,5
+addr:street,Новая Басманная улица,4
+addr:street,Новгородская улица,2
+addr:street,Новинский бульвар,3
+addr:street,Новоалексеевская улица,4
+addr:street,Нововатутинский проспект,1
+addr:street,Нововладыкинский проезд,4
+addr:street,Новоданиловская набережная,2
+addr:street,Новодмитровская улица,5
+addr:street,Новозаводская улица,1
+addr:street,Новоконюшенный переулок,1
+addr:street,Новокузнецкая улица,2
+addr:street,Новомосковская улица,2
+addr:street,Новоорловская улица,3
+addr:street,Новорязанская улица,15
+addr:street,Новослободская улица,2
+addr:street,Новосущёвский переулок,1
+addr:street,Новотушинский проезд,1
+addr:street,Новохохловская улица,1
+addr:street,Новочеркасский бульвар,1
+addr:street,Новочерёмушкинская улица,7
+addr:street,Новоясеневский проспект,3
+addr:street,Новый Зыковский проезд,1
+addr:street,Огородный проезд,3
+addr:street,Одесская улица,1
+addr:street,Озёрная улица,4
+addr:street,Окская улица,4
+addr:street,Октябрьская улица,1
+addr:street,Олимпийский проспект,4
+addr:street,Олонецкая улица,2
+addr:street,Олсуфьевский переулок,2
+addr:street,Ольховская улица,3
+addr:street,Ореховый бульвар,1
+addr:street,Оружейный переулок,2
+addr:street,Остафьевская улица,1
+addr:street,Открытое шоссе,1
+addr:street,Павелецкая набережная,2
+addr:street,Павелецкая площадь,1
+addr:street,Палехская улица,1
+addr:street,Партийный переулок,2
+addr:street,Пенягинская улица,1
+addr:street,Первомайская улица,1
+addr:street,Переведеновский переулок,1
+addr:street,Перекопская улица,2
+addr:street,Пересветов переулок,1
+addr:street,Пермская улица,1
+addr:street,Перовский проезд,2
+addr:street,Перовское шоссе,3
+addr:street,Петровский бульвар,1
+addr:street,Петровско-Разумовская аллея,6
+addr:street,Петровско-Разумовский проезд,3
+addr:street,Писцовая улица,1
+addr:street,Планерная улица,7
+addr:street,Планетная улица,1
+addr:street,Поварская улица,3
+addr:street,Погодинская улица,5
+addr:street,Погонный проезд,1
+addr:street,Подмосковная улица,1
+addr:street,Подольское шоссе,1
+addr:street,Подсосенский переулок,2
+addr:street,Подъёмная улица,6
+addr:street,Пожарский переулок,1
+addr:street,Покровская улица,6
+addr:street,Покровский бульвар,1
+addr:street,Полевая улица,1
+addr:street,Полярная улица,9
+addr:street,Попов проезд,1
+addr:street,Поречная улица,1
+addr:street,Пресненская набережная,1
+addr:street,Пречистенская набережная,3
+addr:street,Привольная улица,26
+addr:street,Производственная улица,6
+addr:street,Прокшинский проспект,2
+addr:street,Пронская улица,4
+addr:street,Просвирин переулок,1
+addr:street,Профсоюзная улица,8
+addr:street,Псковская улица,4
+addr:street,Пулковская улица,1
+addr:street,Пушечная улица,3
+addr:street,Пушкарёв переулок,1
+addr:street,Пыжёвский переулок,1
+addr:street,Пяловская улица,1
+addr:street,Пятницкая улица,8
+addr:street,Пятницкое шоссе,6
+addr:street,Расторгуевский переулок,1
+addr:street,Ратная улица,1
+addr:street,Рижская площадь,6
+addr:street,Рогачёвский переулок,1
+addr:street,Родниковая улица,5
+addr:street,Романов переулок,2
+addr:street,Рублёвское шоссе,2
+addr:street,Рубцовская набережная,1
+addr:street,Ружейный переулок,2
+addr:street,Русаковская улица,2
+addr:street,Рябиновая улица,3
+addr:street,Рязановское шоссе,2
+addr:street,Рязанский проспект,23
+addr:street,Саввинская набережная,2
+addr:street,Савёловская линия,1
+addr:street,Савёловский проезд,2
+addr:street,Садовая-Каретная улица,1
+addr:street,Садовая-Кудринская улица,3
+addr:street,Садовая-Триумфальная улица,1
+addr:street,Садовая-Черногрязская улица,1
+addr:street,Садовническая набережная,1
+addr:street,Садовническая улица,1
+addr:street,Саларьевская улица,11
+addr:street,Саратовская улица,2
+addr:street,Севастопольский проспект,2
+addr:street,Севильский бульвар,1
+addr:street,Селезнёвская улица,1
+addr:street,Сельскохозяйственная улица,5
+addr:street,Семёновская набережная,1
+addr:street,Серебряническая набережная,1
+addr:street,Серебрянический переулок,2
+addr:street,Сигнальный проезд,4
+addr:street,Симферопольский бульвар,1
+addr:street,Сиреневый бульвар,1
+addr:street,Скаковая улица,2
+addr:street,Скандинавский бульвар,22
+addr:street,Скатертный переулок,1
+addr:street,Складочная улица,14
+addr:street,Скобелевская улица,1
+addr:street,Сколковское шоссе,2
+addr:street,Смирновская улица,3
+addr:street,Смоленская улица,2
+addr:street,Смоленская-Сенная площадь,1
+addr:street,Смоленский бульвар,5
+addr:street,Смольная улица,4
+addr:street,Совхозная улица,1
+addr:street,Сокольническая площадь,1
+addr:street,Солдатский переулок,1
+addr:street,Солнцевский проспект,1
+addr:street,Соловьиный проезд,3
+addr:street,Сосинская улица,1
+addr:street,Софийская набережная,3
+addr:street,Спартаковская площадь,2
+addr:street,Спартаковский переулок,3
+addr:street,Спасопесковский переулок,1
+addr:street,Средний Овчинниковский переулок,1
+addr:street,Средний Тишинский переулок,1
+addr:street,Станционная улица,5
+addr:street,Старая площадь,3
+addr:street,Староалексеевская улица,1
+addr:street,Старобитцевская улица,3
+addr:street,Старокалужское шоссе,2
+addr:street,Староконюшенный переулок,1
+addr:street,Старообрядческая улица,1
+addr:street,Старопетровский проезд,2
+addr:street,Старосадский переулок,1
+addr:street,Старый Петровско-Разумовский проезд,1
+addr:street,Столовый переулок,2
+addr:street,Страстной бульвар,1
+addr:street,Строгинский бульвар,2
+addr:street,Строительный проезд,6
+addr:street,Суворовская площадь,1
+addr:street,Суздальская улица,1
+addr:street,Сходненская улица,5
+addr:street,Таганская улица,9
+addr:street,Тагильская улица,2
+addr:street,Тайнинская улица,2
+addr:street,Таллинская улица,1
+addr:street,Тверская улица,12
+addr:street,Тверской бульвар,4
+addr:street,Театральная площадь,1
+addr:street,Театральный проезд,5
+addr:street,Тепличный переулок,1
+addr:street,Тессинский переулок,1
+addr:street,Тимирязевская улица,15
+addr:street,Тихая улица,2
+addr:street,Тихорецкий бульвар,1
+addr:street,Тишинская площадь,1
+addr:street,Ткацкая улица,2
+addr:street,Товарищеский переулок,1
+addr:street,Токмаков переулок,1
+addr:street,Триумфальная площадь,1
+addr:street,Трубецкая улица,3
+addr:street,Трубная улица,1
+addr:street,Туристская улица,1
+addr:street,Тушинская улица,1
+addr:street,Тюменский проезд,9
+addr:street,Уваровский переулок,1
+addr:street,Угличская улица,1
+addr:street,Угрешская улица,1
+addr:street,Украинский бульвар,1
+addr:street,Усачёва улица,9
+addr:street,Федоскинская улица,1
+addr:street,Феодосийская улица,5
+addr:street,Фестивальная улица,3
+addr:street,Хавская улица,1
+addr:street,Хвалынский бульвар,8
+addr:street,Херсонская улица,2
+addr:street,Хибинский проезд,2
+addr:street,Ходынская улица,3
+addr:street,Ходынский бульвар,2
+addr:street,Хорошёвское шоссе,4
+addr:street,Цветной бульвар,1
+addr:street,Цветочный проезд,1
+addr:street,Цимлянская улица,3
+addr:street,Часовая улица,1
+addr:street,Челябинская улица,1
+addr:street,Черниговский переулок,1
+addr:street,Черноморский бульвар,4
+addr:street,Чечёрский проезд,2
+addr:street,Чкаловский бульвар,2
+addr:street,Чоботовская улица,3
+addr:street,Шебашёвский проезд,1
+addr:street,Шелепихинская набережная,6
+addr:street,Шенкурский проезд,1
+addr:street,Шереметьевская улица,4
+addr:street,Шипиловская улица,1
+addr:street,Шлюзовая набережная,1
+addr:street,Шмитовский проезд,15
+addr:street,Шоссейная улица,1
+addr:street,Щукинская улица,5
+addr:street,Электрический переулок,1
+addr:street,Электрозаводская улица,4
+addr:street,Электролитный проезд,3
+addr:street,Южнобутовская улица,1
+addr:street,Юрловский проезд,1
+addr:street,Ярославская улица,3
+addr:street,Ярославское шоссе,8
+addr:street,Ярцевская улица,8
+addr:street,Ясеневая улица,4
+addr:street,аллея Витте,1
+addr:street,бульвар Адмирала Ушакова,1
+addr:street,бульвар Академика Ландау,2
+addr:street,бульвар Андрея Тарковского,4
+addr:street,бульвар Братьев Весниных,1
+addr:street,бульвар Веласкеса,4
+addr:street,бульвар Генерала Карбышева,3
+addr:street,бульвар Яна Райниса,7
+addr:street,набережная Марка Шагала,3
+addr:street,набережная Тараса Шевченко,3
+addr:street,переулок Обуха,1
+addr:street,переулок Хользунова,1
+addr:street,площадь Академика Курчатова,1
+addr:street,площадь Донецкой Народной Республики,2
+addr:street,площадь Журавлёва,2
+addr:street,площадь Киевского Вокзала,1
+addr:street,площадь Победы,1
+addr:street,площадь Савёловского Вокзала,1
+addr:street,площадь Тверская Застава,2
+addr:street,проезд Берёзовой Рощи,1
+addr:street,проезд Воскресенские Ворота,2
+addr:street,проезд Девичьего Поля,1
+addr:street,проезд Добролюбова,3
+addr:street,проезд Досфлота,1
+addr:street,проезд Завода Серп и Молот,1
+addr:street,проезд Невельского,8
+addr:street,проезд Ольминского,2
+addr:street,проезд Серебрякова,2
+addr:street,проезд Стратонавтов,4
+addr:street,проезд Черского,1
+addr:street,проезд Энтузиастов,1
+addr:street,проектируемый проезд № 3683,1
+addr:street,проспект 40 лет Октября,2
+addr:street,проспект 60-летия Октября,1
+addr:street,проспект Андропова,3
+addr:street,проспект Будённого,3
+addr:street,проспект Вернадского,20
+addr:street,проспект Куприна,14
+addr:street,проспект Лихачёва,24
+addr:street,проспект Маршала Жукова,8
+addr:street,проспект Мира,13
+addr:street,улица 1812 Года,1
+addr:street,улица 800-летия Москвы,2
+addr:street,улица Авиаконструктора Микояна,4
+addr:street,улица Авиаторов,3
+addr:street,улица Адмирала Лазарева,1
+addr:street,улица Адмирала Макарова,2
+addr:street,улица Айвазовского,3
+addr:street,улица Академика Анохина,1
+addr:street,улица Академика Волгина,4
+addr:street,улица Академика Глушко,1
+addr:street,улица Академика Капицы,2
+addr:street,улица Академика Комарова,3
+addr:street,улица Академика Королёва,3
+addr:street,улица Академика Павлова,4
+addr:street,улица Академика Скрябина,1
+addr:street,улица Алабяна,1
+addr:street,улица Александра Невского,1
+addr:street,улица Александра Солженицына,1
+addr:street,улица Александры Монаховой,33
+addr:street,улица Анны Ахматовой,2
+addr:street,улица Арбат,1
+addr:street,улица Артамонова,3
+addr:street,улица Архитектора Власова,1
+addr:street,улица Архитектора Щусева,7
+addr:street,улица Багрицкого,2
+addr:street,улица Барболина,1
+addr:street,улица Барышиха,1
+addr:street,улица Берзарина,6
+addr:street,улица Бехтерева,1
+addr:street,улица Бирюсинка,3
+addr:street,улица Богданова,3
+addr:street,улица Боженко,2
+addr:street,улица Большая Дмитровка,6
+addr:street,улица Большая Ордынка,21
+addr:street,улица Большая Полянка,8
+addr:street,улица Большая Якиманка,1
+addr:street,улица Большое Понизовье,1
+addr:street,улица Бориса Пастернака,3
+addr:street,улица Борисовские Пруды,6
+addr:street,улица Братьев Бромлей,1
+addr:street,улица Буракова,1
+addr:street,улица Бусиновская Горка,1
+addr:street,улица Бутырский Вал,8
+addr:street,улица Вавилова,4
+addr:street,улица Варварка,5
+addr:street,улица Василисы Кожиной,1
+addr:street,улица Василия Ланового,1
+addr:street,улица Василия Ощепкова,5
+addr:street,улица Васильцовский Стан,1
+addr:street,улица Верхние Поля,4
+addr:street,улица Верхняя Масловка,4
+addr:street,улица Виктора Маслова,1
+addr:street,улица Викторенко,2
+addr:street,улица Вилиса Лациса,4
+addr:street,улица Вильгельма Пика,1
+addr:street,улица Волхонка,5
+addr:street,улица Врубеля,2
+addr:street,улица Вучетича,2
+addr:street,улица Газопровод,1
+addr:street,улица Гамалеи,1
+addr:street,улица Гашека,1
+addr:street,улица Генерала Белобородова,5
+addr:street,улица Генерала Белова,3
+addr:street,улица Генерала Глаголева,1
+addr:street,улица Генерала Дорохова,1
+addr:street,улица Генерала Ермолова,2
+addr:street,улица Генерала Кузнецова,1
+addr:street,улица Героев Панфиловцев,7
+addr:street,улица Главмосстроя,1
+addr:street,улица Годовикова,3
+addr:street,улица Гончарова,2
+addr:street,улица Гризодубовой,1
+addr:street,улица Гришина,1
+addr:street,улица Грузинский Вал,1
+addr:street,улица Демьяна Бедного,2
+addr:street,улица Добролюбова,3
+addr:street,улица Довженко,1
+addr:street,улица Докукина,1
+addr:street,улица Дубки,1
+addr:street,улица Дыбенко,1
+addr:street,улица Ефремова,1
+addr:street,улица Жебрунова,1
+addr:street,улица Земляной Вал,7
+addr:street,улица Зорге,5
+addr:street,улица Ивана Франко,6
+addr:street,улица Измайловский Вал,1
+addr:street,улица Ильинка,2
+addr:street,улица Исаковского,8
+addr:street,улица Казакова,1
+addr:street,улица Каретный Ряд,4
+addr:street,улица Картмазовские Пруды,1
+addr:street,улица Касаткина,1
+addr:street,улица Каховка,2
+addr:street,улица Кибальчича,1
+addr:street,улица Коминтерна,2
+addr:street,улица Конёнкова,3
+addr:street,улица Космонавта Волкова,5
+addr:street,улица Космонавтов,1
+addr:street,улица Костякова,1
+addr:street,улица Красная Пресня,4
+addr:street,улица Красная Сосна,2
+addr:street,улица Красных Зорь,1
+addr:street,улица Крузенштерна,4
+addr:street,улица Крылатские Холмы,5
+addr:street,улица Крымский Вал,1
+addr:street,улица Кузнецкий Мост,7
+addr:street,улица Кулакова,7
+addr:street,улица Куусинена,4
+addr:street,улица Лавочкина,2
+addr:street,улица Лавриненко,7
+addr:street,улица Левитана,1
+addr:street,улица Ленивка,1
+addr:street,улица Ленинская Слобода,1
+addr:street,улица Лескова,4
+addr:street,улица Липовый парк,1
+addr:street,улица Лихоборские Бугры,3
+addr:street,улица Лобановский Лес,2
+addr:street,улица Лобачевского,2
+addr:street,улица Лобачика,1
+addr:street,улица Лужники,14
+addr:street,улица Лётчика Ульянина,1
+addr:street,улица Малая Ордынка,1
+addr:street,улица Малое Понизовье,4
+addr:street,улица Маресьева,5
+addr:street,улица Маросейка,4
+addr:street,улица Маршала Бирюзова,2
+addr:street,улица Маршала Василевского,1
+addr:street,улица Маршала Захарова,1
+addr:street,улица Маршала Катукова,10
+addr:street,улица Маршала Конева,1
+addr:street,улица Маршала Новикова,1
+addr:street,улица Маршала Рыбалко,2
+addr:street,улица Маршала Сергеева,1
+addr:street,улица Маршала Тимошенко,2
+addr:street,улица Маршала Тухачевского,1
+addr:street,улица Маршала Шапошникова,1
+addr:street,улица Марьинский Парк,1
+addr:street,улица Матросская Тишина,1
+addr:street,улица Мельникова,7
+addr:street,улица Миклухо-Маклая,6
+addr:street,улица Милашенкова,1
+addr:street,улица Михайлова,4
+addr:street,"улица Мичуринский Проспект, Олимпийская Деревня",2
+addr:street,улица Мнёвники,1
+addr:street,улица Намёткина,1
+addr:street,улица Народного Ополчения,8
+addr:street,улица Наташи Качуевской,1
+addr:street,улица Неверовского,1
+addr:street,улица Недорубова,3
+addr:street,улица Немчинова,1
+addr:street,улица Нижние Мнёвники,3
+addr:street,улица Нижняя Масловка,1
+addr:street,улица Николая Озерова,1
+addr:street,улица Новая Башиловка,1
+addr:street,улица Новая Дорога,1
+addr:street,улица Новый Арбат,6
+addr:street,улица Образцова,1
+addr:street,улица Обручева,3
+addr:street,улица Орджоникидзе,1
+addr:street,улица Остоженка,1
+addr:street,улица Островитянова,1
+addr:street,улица Охотный Ряд,1
+addr:street,улица Павла Андреева,3
+addr:street,улица Панфёрова,1
+addr:street,улица Паршина,1
+addr:street,улица Петра Алексеева,1
+addr:street,улица Петра Непорожнего,1
+addr:street,улица Петровка,1
+addr:street,улица Планерная,1
+addr:street,улица Плещеева,1
+addr:street,улица Плющиха,2
+addr:street,улица Погодина,2
+addr:street,улица Покровка,1
+addr:street,улица Покрышкина,1
+addr:street,улица Полины Осипенко,2
+addr:street,улица Поляны,4
+addr:street,улица Потаповская Роща,3
+addr:street,улица Правды,1
+addr:street,улица Преображенский Вал,1
+addr:street,улица Пресненский Вал,3
+addr:street,улица Пречистенка,3
+addr:street,улица Пришвина,2
+addr:street,улица Проспект Мира,1
+addr:street,улица Пруд-Ключики,4
+addr:street,улица Прянишникова,4
+addr:street,улица Радио,3
+addr:street,улица Раевского,1
+addr:street,улица Раменки,1
+addr:street,улица Римского-Корсакова,8
+addr:street,улица Родченко,1
+addr:street,улица Рождественка,3
+addr:street,улица Рокотова,6
+addr:street,улица Россолимо,2
+addr:street,улица Руставели,2
+addr:street,улица Саломеи Нерис,1
+addr:street,улица Саморы Машела,1
+addr:street,улица Самуила Маршака,1
+addr:street,улица Санникова,1
+addr:street,улица Свободы,14
+addr:street,улица Сергея Макеева,4
+addr:street,улица Сергия Радонежского,1
+addr:street,улица Серпуховский Вал,4
+addr:street,улица Серёгина,1
+addr:street,улица Скульптора Мухиной,4
+addr:street,улица Советской Армии,1
+addr:street,улица Сокольнический Вал,3
+addr:street,улица Софьи Ковалевской,1
+addr:street,улица Спиридоновка,3
+addr:street,улица Сталеваров,1
+addr:street,улица Стромынка,1
+addr:street,улица Сущёвский Вал,3
+addr:street,улица Талалихина,8
+addr:street,улица Татьянин Парк,12
+addr:street,улица Твардовского,2
+addr:street,улица Толбухина,1
+addr:street,улица Удальцова,9
+addr:street,улица Улофа Пальме,1
+addr:street,улица Усиевича,1
+addr:street,улица Уткина,1
+addr:street,улица Уточкина,3
+addr:street,улица Фабрициуса,4
+addr:street,улица Фадеева,12
+addr:street,улица Федосьино,1
+addr:street,улица Фомичёвой,2
+addr:street,улица Фонвизина,2
+addr:street,улица Фёдора Полетаева,1
+addr:street,улица Хачатуряна,1
+addr:street,улица Хлобыстова,1
+addr:street,улица Циолковского,1
+addr:street,улица Цюрупы,2
+addr:street,улица Чаплыгина,1
+addr:street,улица Чаянова,6
+addr:street,улица Чечулина,1
+addr:street,улица Чичерина,1
+addr:street,улица Шаболовка,2
+addr:street,улица Шекспира,1
+addr:street,улица Шумкина,2
+addr:street,улица Шухова,6
+addr:street,улица Щипок,1
+addr:street,улица Эдварда Грига,7
+addr:street,улица Эдуарда Стрельцова,1
+addr:street,улица Эльдара Рязанова,1
+addr:street,улица Юлиана Семёнова,2
+addr:street,улица Юннатов,3
+addr:street,улица Юности,1
+addr:street,улица Юных Ленинцев,2
+addr:street,улица Яблочкова,7
+addr:street,улица Яворки,2
+addr:street,улица Янковского,3
+addr:street,шоссе Фрезер,3
+addr:street,шоссе Энтузиастов,14
