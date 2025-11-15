@@ -48,51 +48,53 @@ TRAIN_DATA = [
 ]
 
 
-def train_spacy_ner(train_data, n_iter=20, model_dir="./spacy_geo_model"):
+def train_spacy_ner(train_data, n_iter=30, model_dir="./spacy_geo_model"):
     """
-    Обучает SpaCy NER модель с кастомными метками.
+    Обучает SpaCy NER модель с кастомными метками, используя ru_core_web_sm как базу.
     :param train_data: Список тренировочных данных в формате SpaCy (text, {"entities": ...}).
     :param n_iter: Количество эпох обучения.
     :param model_dir: Путь для сохранения обученной модели.
     """
-    nlp = spacy.blank("ru")
+    # 1. Загружаем уже существующую русскую модель
+    nlp = spacy.load("ru_core_web_sm")
+    print(f"Используем базовую модель: {nlp.meta['name']}")
 
+    # 2. Получаем компонент NER
+    # ru_core_web_sm уже имеет компонент 'ner'
     if "ner" not in nlp.pipe_names:
+        # Это маловероятно для ru_core_web_sm, но хорошая проверка
         ner = nlp.add_pipe("ner", last=True)
     else:
         ner = nlp.get_pipe("ner")
 
-    # Добавляем кастомные метки в NER
+    # 3. Добавляем кастомные метки в NER
     for _, annotations in train_data:
-        for ent in annotations.get("entities", []):  # Используем .get для безопасного доступа
-            ner.add_label(ent[2])
+        for ent in annotations.get("entities", []):
+            if ent[2] not in ner.labels:  # Проверяем, чтобы не добавлять метку, если она уже есть
+                ner.add_label(ent[2])
+
+    # Отображаем все метки, которые теперь знает NER компонент
+    print(f"Все метки NER: {ner.labels}")
 
     optimizer = nlp.begin_training()
+    # Отключаем другие компоненты конвейера на время обучения NER
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
-
-    with nlp.disable_pipes(other_pipes):  # only train NER
+    with nlp.disable_pipes(other_pipes):
         for itn in range(n_iter):
             losses = {}
-            # НОВОЕ: Преобразуем тренировочные данные в объекты Example
-            # Каждый объект Example связывает "золотой стандарт" (размеченный Doc)
-            # с текстом, который будет передан модели.
-            # Для начала обучения с нуля, doc будет "чистым" текстом,
-            # а аннотации будут в Example.
-
+            # Преобразуем тренировочные данные в объекты Example
             examples = []
             for text, annotations in train_data:
-                doc = nlp.make_doc(text)  # Создаем Doc из чистого текста
-                # Example.from_dict принимает Doc объект и словарь с аннотациями
+                # В случае дообучения, Doc объект должен быть создан с помощью nlp
+                # чтобы он содержал всю предварительную информацию (токены, части речи и т.д.)
+                doc = nlp.make_doc(text)
                 examples.append(Example.from_dict(doc, annotations))
 
-            random.shuffle(examples)  # Перемешиваем Example объекты для каждой эпохи
+            random.shuffle(examples)
 
-            # Создаем батчи из Example объектов
-            # compounding используется для динамически меняющегося размера батча
             batches = minibatch(examples, size=compounding(4.0, 32.0, 1.001))
 
             for batch in batches:
-                # НОВОЕ: nlp.update теперь принимает список объектов Example
                 nlp.update(
                     batch,  # Пакет объектов Example
                     drop=0.5,  # вероятность дропаута
