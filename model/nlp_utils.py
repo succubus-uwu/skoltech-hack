@@ -1,4 +1,5 @@
 import spacy
+from spacy.tokens import Doc
 
 nlp = spacy.load("ru_core_news_sm")
 test_doc = nlp.make_doc(input())

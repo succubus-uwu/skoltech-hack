@@ -9,12 +9,19 @@ from spacy.training import offsets_to_biluo_tags
 
 # Пример тренировочных данных (остаются без изменений в формате)
 TRAIN_DATA = [
-    ("Я живу в городе Москва на улице Ленина дом 51.", {
-        "entities": [
-            (9, 22, "CITY_FULL"),  # "городе Москва"
-            (26, 38, "STREET_FULL"),  # "улице Ленина"
-            (39, 42, "BUILDING_TYPE"),  # "дом"
-            (43, 45, "BUILDING_NUMBER")  # "51"
+    # ("Я живу в городе Москва на улице Ленина дом 51.", {
+    #     "entities": [
+    #         (9, 22, "CITY_FULL"),  # "городе Москва"
+    #         (26, 38, "STREET_FULL"),  # "улице Ленина"
+    #         (39, 42, "BUILDING_TYPE"),  # "дом"
+    #         (43, 45, "BUILDING_NUMBER")  # "51"
+    #     ]
+    # }),
+    ('москва ул арбат далее 28 кв 15',
+        {'entities': [
+            (7, 9, 'addr:street'),
+            (10, 15, 'addr:street'),
+            (22, 24, 'addr:housenumber')
         ]
     }),
 ]
@@ -84,7 +91,7 @@ print("=" * 70)
 output_dir = "./spacy_geo_model"
 nlp_loaded = spacy.load(output_dir)
 
-test_text = "Я живу в городе Москва на улице Ленина дом 51."
+test_text = "москва ул арбат далее 28 кв 15"
 doc = nlp_loaded(test_text)
 
 print(f"\nТекст: '{test_text}'")
