@@ -12,7 +12,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-from model.data.train_data_fixed_housenumber_city import TRAIN_DATA
+from model.data.train_housenumber_sity_merged import TRAIN_DATA
 
 
 class NERTrainer:
@@ -70,7 +70,7 @@ class NERTrainer:
                 })
 
         if issues:
-            print(f"⚠️  Найдено {len(issues)} проблем в разметке:\n")
+            print(f"Найдено {len(issues)} проблем в разметке:\n")
             for issue in issues[:5]:  # Показываем первые 5
                 print(f"Пример #{issue['index']}: {issue['text'][:50]}...")
                 print(f"  Проблема: {issue['problem']}")
@@ -491,7 +491,7 @@ def main():
     print(f"Всего примеров в датасете: {len(TRAIN_DATA)}\n")
 
     # Создаем тренер
-    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_housenumber_fixed_city")
+    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_final")
 
     # 1. Валидация разметки
     if not trainer.validate_annotations():
