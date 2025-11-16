@@ -492,6 +492,8 @@ class Finder:
 
             return similar_address
 
+        return []
+
 
 
 if __name__ == "__main__":
