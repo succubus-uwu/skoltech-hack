@@ -17,7 +17,4 @@ RUN pip install --upgrade pip && \
 
 COPY . .
 
-# Директория, куда будет сохраняться модель
-VOLUME ["/app/spacy_geo_model_housenumber_fixed_city"]
-
 # CMD/ENTRYPOINT ты сам задашь в docker-compose или docker run

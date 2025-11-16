@@ -537,7 +537,7 @@ def main():
             if not test_text:
                 continue
 
-            trainer.predict([test_text], verbose=True)
+            print(trainer.predict([test_text], verbose=True))
 
         except KeyboardInterrupt:
             print("\n\nЗавершение работы...")
