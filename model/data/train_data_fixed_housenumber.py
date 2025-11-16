@@ -4,7 +4,7 @@ Generated: 2025-11-16 05:36:27.844007
 Total samples: 200
 """
 
-train_data = [
+TRAIN_DATA = [
     (
         'москва улица арбат 25',
         {'entities': [(7, 18, 'addr:street'), (19, 21, 'addr:housenumber')]}
