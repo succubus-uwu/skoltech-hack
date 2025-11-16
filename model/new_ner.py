@@ -12,7 +12,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-from model.data.train_data_fixed_housenumber import TRAIN_DATA
+from model.data.train_data_fixed_housenumber_city import TRAIN_DATA
 
 
 class NERTrainer:
@@ -491,7 +491,7 @@ def main():
     print(f"Всего примеров в датасете: {len(TRAIN_DATA)}\n")
 
     # Создаем тренер
-    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_housenumber_fixed")
+    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_housenumber_fixed_city")
 
     # 1. Валидация разметки
     if not trainer.validate_annotations():
