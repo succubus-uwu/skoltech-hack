@@ -6,4 +6,4 @@ services:
     volumes:
       - ./final_model:/app/model
     ports:
-      - "8000:8000"
+      - "8777:8000"
