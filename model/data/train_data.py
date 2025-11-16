@@ -1,50 +1,50 @@
 TRAIN_DATA = [
-    # Sample 1
+    # Sample 1 (1/40)
     (
         'москва улица арбат дом 28',
         {'entities': [(7, 18, 'addr:street'), (23, 25, 'addr:housenumber')]}
     ),
 
-    # Sample 2
+    # Sample 2 (1/10)
     (
-        '620075 екатеринбург ленин проспект 54 корп 1',
-        {'entities': [(0, 6, 'addr:postcode'), (20, 34, 'addr:street'), (35, 44, 'addr:housenumber')]}
+        '620075 екатеринбург ленин проспект 54 к1',
+        {'entities': [(0, 6, 'addr:postcode'), (20, 34, 'addr:street'), (35, 40, 'addr:housenumber')]}
     ),
 
-    # Sample 3
+    # Sample 3 (2/40)
     (
         'спб невский пр 88/2',
         {'entities': [(4, 14, 'addr:street'), (15, 19, 'addr:housenumber')]}
     ),
 
-    # Sample 4
+    # Sample 4 (3/40)
     (
-        'казань улица бауман дом 25',
-        {'entities': [(7, 19, 'addr:street'), (24, 26, 'addr:housenumber')]}
+        'казань улица бауман дом 25А',
+        {'entities': [(7, 19, 'addr:street'), (24, 27, 'addr:housenumber')]}
     ),
 
     # Sample 5
     (
-        'новосибирск красный проспект 35 корпус 3',
-        {'entities': [(12, 28, 'addr:street'), (29, 40, 'addr:housenumber')]}
+        'новосибирск красный проспект 35 к3',
+        {'entities': [(12, 28, 'addr:street'), (29, 34, 'addr:housenumber')]}
     ),
 
     # Sample 6
     (
-        'нижний новгород больший покровский 15',
-        {'entities': [(16, 34, 'addr:street'), (35, 37, 'addr:housenumber')]}
+        'нижний новгород больший покровский 15к5',
+        {'entities': [(16, 34, 'addr:street'), (35, 39, 'addr:housenumber')]}
     ),
 
     # Sample 7
     (
-        'город краснодар улица красный дом 122',
-        {'entities': [(16, 29, 'addr:street'), (34, 37, 'addr:housenumber')]}
+        'город краснодар улица красный дом вл122',
+        {'entities': [(16, 29, 'addr:street'), (34, 39, 'addr:housenumber')]}
     ),
 
     # Sample 8
     (
-        'владивосток улица светланский 33',
-        {'entities': [(12, 29, 'addr:street'), (30, 32, 'addr:housenumber')]}
+        'владивосток улица светланский 33 с7 к2',
+        {'entities': [(12, 29, 'addr:street'), (30, 38, 'addr:housenumber')]}
     ),
 
     # Sample 9
@@ -55,14 +55,14 @@ TRAIN_DATA = [
 
     # Sample 10
     (
-        'ростов-на-дон проспект будённовский 65',
-        {'entities': [(14, 35, 'addr:street'), (36, 38, 'addr:housenumber')]}
+        'ростов-на-дон проспект будённовский 65Б',
+        {'entities': [(14, 35, 'addr:street'), (36, 39, 'addr:housenumber')]}
     ),
 
     # Sample 11
     (
-        'москва дом 12 корп 5 кутузовский проспект',
-        {'entities': [(21, 41, 'addr:street'), (11, 20, 'addr:housenumber')]}
+        'москва дом 12 к. 5 кутузовский проспект',
+        {'entities': [(19, 41, 'addr:street'), (11, 18, 'addr:housenumber')]}
     ),
 
     # Sample 12

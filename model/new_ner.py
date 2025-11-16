@@ -392,129 +392,104 @@ class NERTrainer:
 
         print(f"\nМодель сохранена в: {self.model_dir / 'final_model'}")
 
-    def fine_tune(self,
-                  new_data: List[Tuple],
-                  n_iter: int = 20,
-                  dropout: float = 0.2,
-                  mix_old_ratio: float = 0.5):
+    # def fine_tune(self,
+    #               new_data: List[Tuple],
+    #               n_iter: int = 20,
+    #               dropout: float = 0.2,
+    #               mix_old_ratio: float = 0.5):
+    #     """
+    #     Точечное дообучение модели на новых примерах.
+    #
+    #     new_data     — новые размеченные примеры [(text, {"entities": [...]})]
+    #     n_iter       — сколько эпох дообучать
+    #     dropout      — дропаут (можно поменьше, чем при первичном обучении)
+    #     mix_old_ratio — доля старых примеров в смеси (0..1)
+    #     """
+    #     print("=" * 70)
+    #     print("ДОПОЛНИТЕЛЬНОЕ ОБУЧЕНИЕ (FINE-TUNING)")
+    #     print("=" * 70)
+    #
+    #     # 1. Опционально мешаем новые примеры со старыми, чтобы не забыть старое
+    #     train_pool = list(new_data)
+    #
+    #     if mix_old_ratio > 0 and hasattr(self, "train_data_split"):
+    #         import random
+    #         old_count = int(len(new_data) * mix_old_ratio)
+    #         old_samples = random.sample(
+    #             self.train_data_split,
+    #             k=min(old_count, len(self.train_data_split))
+    #         )
+    #         train_pool.extend(old_samples)
+    #
+    #     # 2. Собираем Example'ы
+    #     examples = []
+    #     for text, annotations in train_pool:
+    #         doc = self.nlp.make_doc(text)
+    #         examples.append(Example.from_dict(doc, annotations))
+    #
+    #     # 3. Возобновляем обучение
+    #     optimizer = self.nlp.resume_training()
+    #
+    #     print(f"Всего примеров для дообучения: {len(examples)}")
+    #     print(f"Эпох: {n_iter}, dropout: {dropout}\n")
+    #
+    #     for epoch in range(n_iter):
+    #         import random
+    #         random.shuffle(examples)
+    #         losses = {}
+    #         # Можно батчевать, но для простоты — всё сразу
+    #         self.nlp.update(
+    #             examples,
+    #             sgd=optimizer,
+    #             drop=dropout,
+    #             losses=losses
+    #         )
+    #         print(f"Epoch {epoch + 1}/{n_iter}  Loss: {losses.get('ner', 0):.4f}")
+    #
+    #     print("\n✓ Дообучение завершено")
+
+    @classmethod
+    def load_from_path(cls, model_dir: str | Path):
         """
-        Точечное дообучение модели на новых примерах.
+        Загрузка уже обученной модели с диска.
 
-        new_data     — новые размеченные примеры [(text, {"entities": [...]})]
-        n_iter       — сколько эпох дообучать
-        dropout      — дропаут (можно поменьше, чем при первичном обучении)
-        mix_old_ratio — доля старых примеров в смеси (0..1)
+        Использование:
+            trainer = NERTrainer.load_from_path("spacy_geo_model/final_model")
+            trainer.predict(["Москва, Тверская, 10"])
         """
-        print("=" * 70)
-        print("ДОПОЛНИТЕЛЬНОЕ ОБУЧЕНИЕ (FINE-TUNING)")
-        print("=" * 70)
+        model_dir = Path(model_dir)
 
-        # 1. Опционально мешаем новые примеры со старыми, чтобы не забыть старое
-        train_pool = list(new_data)
+        if not model_dir.exists():
+            raise ValueError(f"Модель по пути {model_dir} не найдена")
 
-        if mix_old_ratio > 0 and hasattr(self, "train_data_split"):
-            import random
-            old_count = int(len(new_data) * mix_old_ratio)
-            old_samples = random.sample(
-                self.train_data_split,
-                k=min(old_count, len(self.train_data_split))
-            )
-            train_pool.extend(old_samples)
+        # Загружаем spaCy-модель
+        nlp = spacy.load(model_dir)
 
-        # 2. Собираем Example'ы
-        examples = []
-        for text, annotations in train_pool:
-            doc = self.nlp.make_doc(text)
-            examples.append(Example.from_dict(doc, annotations))
+        # Создаем "пустой" тренер, но с правильным model_dir
+        trainer = cls(train_data=[], model_dir=str(model_dir))
+        trainer.nlp = nlp
 
-        # 3. Возобновляем обучение
-        optimizer = self.nlp.resume_training()
+        # Чтобы не словить AttributeError в методах, которые ждут эти атрибуты
+        trainer.train_data_split = []
+        trainer.val_data = []
+        trainer.test_data = []
 
-        print(f"Всего примеров для дообучения: {len(examples)}")
-        print(f"Эпох: {n_iter}, dropout: {dropout}\n")
+        # best_model_path и best_f1 можно не трогать, но на всякий случай:
+        trainer.best_model_path = model_dir
+        trainer.best_f1 = 0.0
 
-        for epoch in range(n_iter):
-            import random
-            random.shuffle(examples)
-            losses = {}
-            # Можно батчевать, но для простоты — всё сразу
-            self.nlp.update(
-                examples,
-                sgd=optimizer,
-                drop=dropout,
-                losses=losses
-            )
-            print(f"Epoch {epoch + 1}/{n_iter}  Loss: {losses.get('ner', 0):.4f}")
-
-        print("\n✓ Дообучение завершено")
-
-
-def main():
-    """
-    Основная функция для запуска обучения
-    """
-    print("=" * 70)
-    print("NER TRAINER - SpaCy Address Recognition")
-    print("=" * 70)
-    print(f"Всего примеров в датасете: {len(TRAIN_DATA)}\n")
-
-    # Создаем тренер
-    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_housenumber_fixed")
-
-    # 1. Валидация разметки
-    if not trainer.validate_annotations():
-        print("Обучение прервано из-за проблем с разметкой")
-        return
-
-    # 2. Разделение данных
-    trainer.split_data(test_size=0.15, val_size=0.15, random_state=42)
-
-    # 3. Создание модели
-    labels = trainer.create_model()
-
-    # 4. Обучение
-    trainer.train(
-        n_iter=200,  # Количество эпох
-        dropout=0.5,  # Dropout для регуляризации
-        eval_every=5,  # Оценка каждые N эпох
-        patience=15,  # Early stopping patience
-        min_delta=0.001  # Минимальное улучшение для early stopping
-    )
-
-    # 5. Тестирование
-    test_scores, per_entity_results = trainer.test()
-
-    # 6. Сохранение модели
-    model_path = trainer.save_model(final=True)
-
-    # 7. Итоговая сводка
-    trainer.print_summary()
-
-    # 8. Интерактивное тестирование
-    print("\n" + "=" * 70)
-    print("ИНТЕРАКТИВНОЕ ТЕСТИРОВАНИЕ")
-    print("=" * 70)
-    print("Введите адрес для распознавания (или 'quit' для выхода)\n")
-
-    while True:
-        try:
-            test_text = input("\nАдрес: ").strip()
-            if test_text.lower() in ['quit', 'exit', 'q']:
-                break
-
-            if not test_text:
-                continue
-
-            trainer.predict([test_text], verbose=True)
-
-        except KeyboardInterrupt:
-            print("\n\nЗавершение работы...")
-            break
-
-    print("\n✓ Обучение завершено!")
-    print(f"✓ Лучший F1-Score: {trainer.best_f1:.4f}")
-    print(f"✓ Модель сохранена: {model_path}")
-
+        return trainer
 
 if __name__ == "__main__":
-    main()
+    from pathlib import Path
+
+    # грузим финальную модель
+    trainer = NERTrainer.load_from_path("spacy_geo_model/final_model")
+
+    # предсказание на новых строках
+    result = trainer.predict([
+        "г. Москва, ул. Пушкина, д. 10",
+        "Москва, Тверская 7"
+    ], verbose=False)
+
+    print(result)
