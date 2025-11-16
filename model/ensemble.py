@@ -1,5 +1,7 @@
 from typing import List, Dict
 
+import pandas as pd
+
 from model.main import Validator
 from model.new_ner import NERTrainer
 
@@ -17,3 +19,8 @@ class Ensamble:
 
 
 
+if __name__ == '__main__':
+    e = Ensamble(
+        validator=Validator(init_df_osm=pd.read_csv("model/data/test.csv"))
+    )
+    print(e.process_text("119361 больший очаковский улица 47А"))
