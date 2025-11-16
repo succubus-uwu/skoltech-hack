@@ -2,3 +2,6 @@ osmium
 pandas
 pymorphy3
 bs4
+fuzzywuzzy
+fastapi>=0.95.0
+uvicorn
