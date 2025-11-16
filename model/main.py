@@ -1,7 +1,7 @@
 from sklearn.model_selection import train_test_split
 import pandas as pd
 
-df_osm = pd.read_csv('/Users/luzin/PycharmProjects/skoltech-hack/model/data/buildings_addr_list_drop_trash_2.csv')
+df_osm = pd.read_csv('/Users/luzin/PycharmProjects/skoltech-hack/model/data/test.csv')
 
 print(list(set(df_osm["addr"].to_list())))
 print(df_osm)
@@ -28,17 +28,9 @@ from sklearn.model_selection import GridSearchCV
 sgd_ppl_clf = Pipeline([
     ('tfidf', TfidfVectorizer()),
     ('sgd_clf', SGDClassifier(random_state=42))])
-knb_ppl_clf = Pipeline([
-    ('tfidf', TfidfVectorizer()),
-    ('knb_clf', KNeighborsClassifier(n_neighbors=10))])
-sgd_ppl_clf.fit(X_train, y_train)
-knb_ppl_clf.fit(X_train, y_train)
 
-X_test = ["БЦ Вивальди Плаза Летниковская улица, 2 ст1 1 этаж"]
+sgd_ppl_clf.fit(X_train, y_train)
+
 predicted_sgd = sgd_ppl_clf.predict(X_test)
 print(predicted_sgd)
-# print(metrics.classification_report(predicted_sgd, y_test))
-
-predicted_knb = knb_ppl_clf.predict(X_test)
-print(predicted_knb)
-# print(metrics.classification_report(predicted_knb, y_test))
+print(metrics.classification_report(predicted_sgd, y_test))
