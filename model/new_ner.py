@@ -480,15 +480,73 @@ class NERTrainer:
 
         return trainer
 
+
+def main():
+    """
+    Основная функция для запуска обучения
+    """
+    print("=" * 70)
+    print("NER TRAINER - SpaCy Address Recognition")
+    print("=" * 70)
+    print(f"Всего примеров в датасете: {len(TRAIN_DATA)}\n")
+
+    # Создаем тренер
+    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_housenumber_fixed")
+
+    # 1. Валидация разметки
+    if not trainer.validate_annotations():
+        print("Обучение прервано из-за проблем с разметкой")
+        return
+
+    # 2. Разделение данных
+    trainer.split_data(test_size=0.15, val_size=0.15, random_state=42)
+
+    # 3. Создание модели
+    labels = trainer.create_model()
+
+    # 4. Обучение
+    trainer.train(
+        n_iter=200,  # Количество эпох
+        dropout=0.5,  # Dropout для регуляризации
+        eval_every=5,  # Оценка каждые N эпох
+        patience=15,  # Early stopping patience
+        min_delta=0.001  # Минимальное улучшение для early stopping
+    )
+
+    # 5. Тестирование
+    test_scores, per_entity_results = trainer.test()
+
+    # 6. Сохранение модели
+    model_path = trainer.save_model(final=True)
+
+    # 7. Итоговая сводка
+    trainer.print_summary()
+
+    # 8. Интерактивное тестирование
+    print("\n" + "=" * 70)
+    print("ИНТЕРАКТИВНОЕ ТЕСТИРОВАНИЕ")
+    print("=" * 70)
+    print("Введите адрес для распознавания (или 'quit' для выхода)\n")
+
+    while True:
+        try:
+            test_text = input("\nАдрес: ").strip()
+            if test_text.lower() in ['quit', 'exit', 'q']:
+                break
+
+            if not test_text:
+                continue
+
+            trainer.predict([test_text], verbose=True)
+
+        except KeyboardInterrupt:
+            print("\n\nЗавершение работы...")
+            break
+
+    print("\n✓ Обучение завершено!")
+    print(f"✓ Лучший F1-Score: {trainer.best_f1:.4f}")
+    print(f"✓ Модель сохранена: {model_path}")
+
+
 if __name__ == "__main__":
-    from pathlib import Path
-
-    # грузим финальную модель
-    trainer = NERTrainer.load_from_path("spacy_geo_model_housenumber_fixed/final_model")
-
-    # предсказание на новых строках
-    result = trainer.predict([
-        "город москва улица пушкин 88 к2",
-    ])
-
-    print(result)
+    main()
