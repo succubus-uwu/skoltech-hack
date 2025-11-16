@@ -10,13 +10,23 @@ class Ensamble:
     def __init__(self, validator: Validator):
         self.validator = validator
         self.ner_extractor = NERTrainer.load_from_path("/app/model_data")
+        self.labels = {"addr:postcode", "addr:street", "addr:housenumber", "addr:city"}
 
     def process_text(self, text: str) -> dict:
         topos: dict = self.ner_extractor.predict([text])[0]
         topos_entities: list = topos["entities"]
+
+        result = dict()
+        for key in self.labels:
+            result[key] = None
+
+
         for entity in topos_entities:
             validation_verdict = self.validator.predict(entity[0])
-            print(entity[0], validation_verdict)
+            if entity[1] == validation_verdict[0]:
+                result[validation_verdict[0]] = entity[0]
+
+        return result
 
 
 
