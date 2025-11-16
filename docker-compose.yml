@@ -1,0 +1,11 @@
+services:
+  geo-api:
+    container_name: hack_skolkovo
+    build: .
+#    image: geo-ner-trainer
+    working_dir: /app
+    command: "python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload"
+    volumes:
+      - ./app/final_model_local/final_model:/app/model_data
+    ports:
+      - "8777:8000"

@@ -1,17 +1,21 @@
 from contextlib import asynccontextmanager
 
+import pandas as pd
 from fastapi import FastAPI
 
 from app.finder import Finder
+from app.model.ensemble import Ensamble
+from app.model.main import Validator
 from app.normalizer import Normalizer
 from app.schemas import ResponseSchema, ObjectLocation
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    global FINDER
+    global FINDER, ENSAMBLE
     n = Normalizer(contractions_path="./resources/contractions.json")
     FINDER = Finder(data_path="./resources/finder_dump_with_city.csv", normalizer=n)
+    ENSAMBLE = Ensamble(validator=Validator(init_df_osm=pd.read_csv("model/data/test.csv")))
     yield
 
 
@@ -23,11 +27,11 @@ async def hello():
 
 @app.get("/send_request")
 async def send_request(input: str) -> ResponseSchema:
-    # TODO Код парсера
-    user_input = {"street": "мичуринский проспект",
-                  "housenumber": "27Б к2",
-                  "city": None,
-                  "postcode": None}
+    user_input = ENSAMBLE.process_text(input)
+    user_input = {"street": user_input["addr:street"],
+                  "housenumber": user_input["addr:housenumber"],
+                  "city": user_input["addr:city"],
+                  "postcode": user_input["addr:postcode"]}
     user_input["housenumber"] = FINDER.normalizer.parse_address_suffix(user_input["housenumber"])
     similars = FINDER.get_most_similar(user_input)
     objects = []
