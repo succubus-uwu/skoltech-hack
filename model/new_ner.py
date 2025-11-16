@@ -392,6 +392,62 @@ class NERTrainer:
 
         print(f"\nМодель сохранена в: {self.model_dir / 'final_model'}")
 
+    def fine_tune(self,
+                  new_data: List[Tuple],
+                  n_iter: int = 20,
+                  dropout: float = 0.2,
+                  mix_old_ratio: float = 0.5):
+        """
+        Точечное дообучение модели на новых примерах.
+
+        new_data     — новые размеченные примеры [(text, {"entities": [...]})]
+        n_iter       — сколько эпох дообучать
+        dropout      — дропаут (можно поменьше, чем при первичном обучении)
+        mix_old_ratio — доля старых примеров в смеси (0..1)
+        """
+        print("=" * 70)
+        print("ДОПОЛНИТЕЛЬНОЕ ОБУЧЕНИЕ (FINE-TUNING)")
+        print("=" * 70)
+
+        # 1. Опционально мешаем новые примеры со старыми, чтобы не забыть старое
+        train_pool = list(new_data)
+
+        if mix_old_ratio > 0 and hasattr(self, "train_data_split"):
+            import random
+            old_count = int(len(new_data) * mix_old_ratio)
+            old_samples = random.sample(
+                self.train_data_split,
+                k=min(old_count, len(self.train_data_split))
+            )
+            train_pool.extend(old_samples)
+
+        # 2. Собираем Example'ы
+        examples = []
+        for text, annotations in train_pool:
+            doc = self.nlp.make_doc(text)
+            examples.append(Example.from_dict(doc, annotations))
+
+        # 3. Возобновляем обучение
+        optimizer = self.nlp.resume_training()
+
+        print(f"Всего примеров для дообучения: {len(examples)}")
+        print(f"Эпох: {n_iter}, dropout: {dropout}\n")
+
+        for epoch in range(n_iter):
+            import random
+            random.shuffle(examples)
+            losses = {}
+            # Можно батчевать, но для простоты — всё сразу
+            self.nlp.update(
+                examples,
+                sgd=optimizer,
+                drop=dropout,
+                losses=losses
+            )
+            print(f"Epoch {epoch + 1}/{n_iter}  Loss: {losses.get('ner', 0):.4f}")
+
+        print("\n✓ Дообучение завершено")
+
 
 def main():
     """
@@ -403,7 +459,7 @@ def main():
     print(f"Всего примеров в датасете: {len(TRAIN_DATA)}\n")
 
     # Создаем тренер
-    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model")
+    trainer = NERTrainer(TRAIN_DATA, model_dir="./spacy_geo_model_housenumber_fixed")
 
     # 1. Валидация разметки
     if not trainer.validate_annotations():
