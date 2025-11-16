@@ -27,7 +27,7 @@ async def hello():
 
 @app.get("/send_request")
 async def send_request(input: str) -> ResponseSchema:
-    user_input = ENSAMBLE.process_text(input)
+    user_input = ENSAMBLE.process_text(FINDER.normalizer.normalize_sentence(input))
     user_input = {"street": user_input["addr:street"],
                   "housenumber": user_input["addr:housenumber"],
                   "city": user_input["addr:city"],
