@@ -13,8 +13,8 @@ from app.schemas import ResponseSchema, ObjectLocation
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     global FINDER, ENSAMBLE
-    n = Normalizer(contractions_path="./resources/contractions.json")
-    FINDER = Finder(data_path="./resources/finder_dump_with_city.csv", normalizer=n)
+    n = Normalizer(contractions_path="/app/resources/contractions.json")
+    FINDER = Finder(data_path="/app/resources/finder_dump_with_city.csv", normalizer=n)
     ENSAMBLE = Ensamble(validator=Validator(init_df_osm=pd.read_csv("model/data/test.csv")))
     yield
 
