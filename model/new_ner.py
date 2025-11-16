@@ -489,7 +489,6 @@ if __name__ == "__main__":
     # предсказание на новых строках
     result = trainer.predict([
         "г. Москва, ул. Пушкина, д. 10",
-        "Москва, Тверская 7"
-    ], verbose=False)
+    ])
 
     print(result)
