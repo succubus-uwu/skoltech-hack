@@ -2,8 +2,8 @@ from typing import List, Dict
 
 import pandas as pd
 
-from model.main import Validator
-from model.new_ner import NERTrainer
+from app.model.main import Validator
+from app.model.new_ner import NERTrainer
 
 
 class Ensamble:

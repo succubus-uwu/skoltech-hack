@@ -2,9 +2,10 @@ import spacy
 import random
 from pathlib import Path
 from spacy.training import Example
-from model.data.train_data import TRAIN_DATA
 from spacy.util import minibatch, compounding
 from spacy.training import offsets_to_biluo_tags
+
+from app.model.data.train_housenumber_sity_merged import TRAIN_DATA
 
 "Я жить город Москва улица Ленин дом 51"
 

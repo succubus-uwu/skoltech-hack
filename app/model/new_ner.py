@@ -12,7 +12,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-from model.data.train_housenumber_sity_merged import TRAIN_DATA
+from app.model.data.train_housenumber_sity_merged import TRAIN_DATA
 
 
 class NERTrainer:
