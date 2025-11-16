@@ -4,6 +4,6 @@ services:
     working_dir: /app
     command: sleep 100000
     volumes:
-      - ./final_model:/app/model
+      - final_model_local/final_model:/app/model
     ports:
       - "8777:8000"
