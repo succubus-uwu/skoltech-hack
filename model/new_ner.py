@@ -484,7 +484,7 @@ if __name__ == "__main__":
     from pathlib import Path
 
     # грузим финальную модель
-    trainer = NERTrainer.load_from_path("spacy_geo_model/final_model")
+    trainer = NERTrainer.load_from_path("spacy_geo_model_housenumber_fixed/final_model")
 
     # предсказание на новых строках
     result = trainer.predict([
