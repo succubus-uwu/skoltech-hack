@@ -15,7 +15,7 @@ async def lifespan(app: FastAPI):
     global FINDER, ENSAMBLE
     n = Normalizer(contractions_path="/app/resources/contractions.json")
     FINDER = Finder(data_path="/app/resources/finder_dump_with_city.csv", normalizer=n)
-    ENSAMBLE = Ensamble(validator=Validator(init_df_osm=pd.read_csv("model/data/test.csv")))
+    ENSAMBLE = Ensamble(validator=Validator(init_df_osm=pd.read_csv("/app/app/model/data/test.csv")))
     yield
 
 
