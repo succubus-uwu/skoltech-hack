@@ -12,10 +12,11 @@ class Ensamble:
         self.ner_extractor = NERTrainer.load_from_path("/app/model_data")
 
     def process_text(self, text: str) -> dict:
-        topos: list[dict] = self.ner_extractor.predict([text])
-        for topo in topos:
-            validation_verdict = self.validator.predict(topo["text"])
-            print(validation_verdict)
+        topos: dict = self.ner_extractor.predict([text])
+        topos_entities: list = topos["entities"]
+        for entity in topos_entities:
+            validation_verdict = self.validator.predict(entity.text)
+            print(entity.text, validation_verdict)
 
 
 
