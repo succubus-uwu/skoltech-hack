@@ -15,8 +15,8 @@ class Ensamble:
         topos: dict = self.ner_extractor.predict([text])[0]
         topos_entities: list = topos["entities"]
         for entity in topos_entities:
-            validation_verdict = self.validator.predict(entity.text)
-            print(entity.text, validation_verdict)
+            validation_verdict = self.validator.predict(entity[0])
+            print(entity[0], validation_verdict)
 
 
 
