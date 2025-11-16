@@ -17,4 +17,4 @@ RUN pip install --upgrade pip && \
 
 COPY . .
 
-# CMD/ENTRYPOINT ты сам задашь в docker-compose или docker run
+CMD sleep 1000000
