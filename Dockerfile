@@ -16,5 +16,3 @@ RUN pip install --upgrade pip && \
     pip install -r requirements.txt
 
 COPY . .
-
-CMD sleep 1000000

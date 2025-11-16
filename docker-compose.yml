@@ -2,7 +2,7 @@ services:
   geo-api:
     image: geo-ner-trainer
     working_dir: /app
-    command: ls
+    command: sleep 100000
     volumes:
       - ./final_model:/app/model
     ports:
